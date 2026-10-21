@@ -8,8 +8,8 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parents[1]
-TOOL_VERSION = "0.1.8"
-TOOL_REVISION = "c535a2745b8b436a5a9d4d0598192aa106912fee"
+TOOL_VERSION = "0.1.9"
+TOOL_REVISION = "f80213f14acf839b6d5ba9f131d4c113182e2592"
 TOOL_ROOT = Path.home() / ".local/share/engineering-rules" / TOOL_VERSION
 CHECKER_PATH = "Scripts/check-docs.py"
 
