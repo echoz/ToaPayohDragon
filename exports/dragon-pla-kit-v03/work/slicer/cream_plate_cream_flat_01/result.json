@@ -1,0 +1,52 @@
+{
+  "input": "exports/dragon-pla-kit-v03/plates/cream/plate_cream_flat_01.stl",
+  "sha256": "3cbfd43cbb27d62eec953c38133cbacd4a7825f6ef193a28002dc01e0cdf31ba",
+  "command": [
+    "/tmp/dragon-bambu-volume/BambuStudio.app/Contents/MacOS/BambuStudio",
+    "--datadir",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/appdata",
+    "--debug",
+    "2",
+    "--load-settings",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/resolved-machine.json;/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/cream_plate_cream_flat_01/process.json",
+    "--load-filaments",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/resolved-filament.json",
+    "--curr-bed-type",
+    "Textured PEI Plate",
+    "--arrange",
+    "0",
+    "--orient",
+    "0",
+    "--ensure-on-bed",
+    "--slice",
+    "0",
+    "--mstpp",
+    "480",
+    "--outputdir",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/cream_plate_cream_flat_01",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/plates/cream/plate_cream_flat_01.stl"
+  ],
+  "supports_enabled": false,
+  "brim_width_mm": 3,
+  "returncode": 0,
+  "elapsed_seconds": 0.78,
+  "gcode": [
+    {
+      "lines": 211563,
+      "extrusion_moves": 166687,
+      "layer_changes": 43,
+      "support_markers": 0,
+      "support_extrusion_moves": 0,
+      "brim_markers": 1,
+      "summary_comments": [
+        "; model printing time: 3h 10m 37s; total estimated time: 3h 19m 15s",
+        "; total filament length [mm] : 30403.89",
+        "; total filament volume [cm^3] : 73129.93",
+        "; total filament weight [g] : 90.68"
+      ],
+      "file": "plate_1.gcode"
+    }
+  ],
+  "passed": true,
+  "support_toolpaths_generated": false
+}

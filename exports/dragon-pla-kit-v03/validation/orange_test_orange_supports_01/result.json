@@ -1,0 +1,52 @@
+{
+  "input": "exports/dragon-pla-kit-v03/plates/orange/test_orange_supports_01.stl",
+  "sha256": "62f0e4d0b349852e88a3f8693b1bb32b0a7a852399bbd19171ae0dca42524f85",
+  "command": [
+    "/tmp/dragon-bambu-volume/BambuStudio.app/Contents/MacOS/BambuStudio",
+    "--datadir",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/appdata",
+    "--debug",
+    "2",
+    "--load-settings",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/resolved-machine.json;/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/orange_test_orange_supports_01/process.json",
+    "--load-filaments",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/resolved-filament.json",
+    "--curr-bed-type",
+    "Textured PEI Plate",
+    "--arrange",
+    "0",
+    "--orient",
+    "0",
+    "--ensure-on-bed",
+    "--slice",
+    "0",
+    "--mstpp",
+    "480",
+    "--outputdir",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/slicer/orange_test_orange_supports_01",
+    "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/plates/orange/test_orange_supports_01.stl"
+  ],
+  "supports_enabled": true,
+  "brim_width_mm": 3,
+  "returncode": 0,
+  "elapsed_seconds": 0.21,
+  "gcode": [
+    {
+      "lines": 16771,
+      "extrusion_moves": 9083,
+      "layer_changes": 25,
+      "support_markers": 67,
+      "support_extrusion_moves": 3233,
+      "brim_markers": 1,
+      "summary_comments": [
+        "; model printing time: 10m 22s; total estimated time: 19m 1s",
+        "; total filament length [mm] : 830.28",
+        "; total filament volume [cm^3] : 1997.07",
+        "; total filament weight [g] : 2.48"
+      ],
+      "file": "plate_1.gcode"
+    }
+  ],
+  "passed": true,
+  "support_toolpaths_generated": true
+}

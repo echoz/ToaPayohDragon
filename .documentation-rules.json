@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "moduleRoots": [],
+  "modules": [],
+  "excludedModules": [],
+  "documents": [
+    "README.md"
+  ],
+  "deliverables": [
+    {
+      "id": "DragonVisualAuthoring",
+      "root": "model"
+    },
+    {
+      "id": "DragonPrintGeometry",
+      "root": "model/printkit"
+    },
+    {
+      "id": "DragonAuthoringTools",
+      "root": "scripts"
+    },
+    {
+      "id": "DragonWebsite",
+      "root": "site"
+    }
+  ]
+}

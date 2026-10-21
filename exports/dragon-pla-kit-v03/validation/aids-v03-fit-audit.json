@@ -1,0 +1,4406 @@
+{
+  "jigs": {
+    "test_jig_head_A": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        93.8951187133789,
+        97.91209411621094,
+        7.134346961975098
+      ],
+      "placement": {
+        "name": "test_jig_head_A",
+        "parts": [
+          "head_A_cream_outer",
+          "head_A_cream_inner"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 87.71209418773651,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            0.876215908676647,
+            -0.48191874977215593,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.48191874977215593,
+            -0.876215908676647,
+            -0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          61.689098112991296
+        ],
+        "source_overlap_mm3": 1.1492598703466471e-10
+      },
+      "whole_pair_bench_clearance_mm": 0.29079504358892194,
+      "at_final_pose_intersection_mm3": 3.878216924309672e-09,
+      "per_half": {
+        "head_A_cream_outer": {
+          "world_in_jig_bounds_mm": [
+            16.97355802697663,
+            0.0,
+            0.29079504358892194,
+            104.86867674035554,
+            87.71209716796875,
+            3.7671753917944812
+          ],
+          "floor_press_0p01_collision_mm3": 0.55658248534927,
+          "drop_and_lift_max_collision_mm3": 3.8782169156360575e-09,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 3.8782169156360575e-09
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2831369149871462
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.28747244073670664
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.13690495492332655
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.2120836920603397
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 166.1234433252537,
+              "maximum_outline_motion_mm": 1.6726971841505809
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 107.25737473978131,
+              "maximum_outline_motion_mm": 1.254529854427299
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 53.72082056225293,
+              "maximum_outline_motion_mm": 0.8363565535868769
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 10.543198787307734,
+              "maximum_outline_motion_mm": 0.41817927198594695
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 4.740663323586949,
+              "maximum_outline_motion_mm": 0.33454351312731995
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 1.2543650509799964,
+              "maximum_outline_motion_mm": 0.2509076905763164
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 3.8782169222323506e-09,
+              "maximum_outline_motion_mm": 0.167271820256034
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 3.87821689673336e-09,
+              "maximum_outline_motion_mm": 0.12545387215838544
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 3.878216935935404e-09,
+              "maximum_outline_motion_mm": 0.08363591808957706
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 3.878216917657565e-09,
+              "maximum_outline_motion_mm": 0.04181796003997285
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 3.878216926788962e-09,
+              "maximum_outline_motion_mm": 0.04181796003997682
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 3.878216913511509e-09,
+              "maximum_outline_motion_mm": 0.08363591808956473
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 3.878216914018748e-09,
+              "maximum_outline_motion_mm": 0.12545387215838605
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.007427327902543874,
+              "maximum_outline_motion_mm": 0.16727182025603232
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 2.1821588216988976,
+              "maximum_outline_motion_mm": 0.2509076905763204
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 7.714599557918331,
+              "maximum_outline_motion_mm": 0.33454351312731
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 14.84928522113657,
+              "maximum_outline_motion_mm": 0.4181792719859459
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 62.6937265302339,
+              "maximum_outline_motion_mm": 0.8363565535868936
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 120.41477403020022,
+              "maximum_outline_motion_mm": 1.2545298544272931
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 182.64554294215827,
+              "maximum_outline_motion_mm": 1.6726971841505758
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.167271820256034
+        },
+        "head_A_cream_inner": {
+          "world_in_jig_bounds_mm": [
+            16.973560785434593,
+            -4.2,
+            3.7671753917944173,
+            104.86867949881352,
+            87.71209411621093,
+            11.23434515345214
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.28722933519700194
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.20640190688612395
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2092374413306586
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.21401169363536676
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 139.19958173683833,
+              "maximum_outline_motion_mm": 1.6726972188568563
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 89.14754310051136,
+              "maximum_outline_motion_mm": 1.2545298804571359
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 44.25233779949104,
+              "maximum_outline_motion_mm": 0.8363565709401815
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 8.672451497968128,
+              "maximum_outline_motion_mm": 0.41817928066261734
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 4.0247897291422055,
+              "maximum_outline_motion_mm": 0.33454352006864646
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 1.2340652721164589,
+              "maximum_outline_motion_mm": 0.25090769578233096
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.16727182372670377
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12545387476138387
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08363591982490526
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04181796090764912
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.041817960907640186
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08363591982490795
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12545387476138764
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.007418073253768723,
+              "maximum_outline_motion_mm": 0.16727182372670574
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 2.1820006041906055,
+              "maximum_outline_motion_mm": 0.25090769578231537
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 7.777371909512939,
+              "maximum_outline_motion_mm": 0.3345435200686545
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 14.93796083261081,
+              "maximum_outline_motion_mm": 0.41817928066262905
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 62.787744683209326,
+              "maximum_outline_motion_mm": 0.8363565709401894
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 120.50663721502177,
+              "maximum_outline_motion_mm": 1.2545298804571419
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 182.7273993367069,
+              "maximum_outline_motion_mm": 1.6726972188568499
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.16727182372670377
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.5703662463062114
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.4938743437445289
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.3461423923757622
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.42609538182605855
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 45,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 9.863905883141419e-12,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_head_B": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        93.8951187133789,
+        97.91209411621094,
+        7.134348392486572
+      ],
+      "placement": {
+        "name": "test_jig_head_B",
+        "parts": [
+          "head_B_cream_outer",
+          "head_B_cream_inner"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 87.71209418773651,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            -0.876215908676647,
+            -0.48191874977215593,
+            -0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.48191874977215593,
+            0.876215908676647,
+            -0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          61.689097811787164
+        ],
+        "source_overlap_mm3": 0.0
+      },
+      "whole_pair_bench_clearance_mm": 0.2907947423847759,
+      "at_final_pose_intersection_mm3": 2.2682241980833982e-08,
+      "per_half": {
+        "head_B_cream_outer": {
+          "world_in_jig_bounds_mm": [
+            -104.86867876437596,
+            0.0,
+            0.2907947423847759,
+            -16.973560050997047,
+            87.71209716796875,
+            3.7671750905903494
+          ],
+          "floor_press_0p01_collision_mm3": 0.5567599524201009,
+          "drop_and_lift_max_collision_mm3": 2.2682241979180184e-08,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 2.2682241979180184e-08
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2872686760042597
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.27889431655884456
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.13739083468326785
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.21429744962019684
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 182.72664679674529,
+              "maximum_outline_motion_mm": 1.6726972876135071
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 120.50672345810078,
+              "maximum_outline_motion_mm": 1.2545299320249121
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 62.78874109444236,
+              "maximum_outline_motion_mm": 0.8363566053188451
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 14.93900662246055,
+              "maximum_outline_motion_mm": 0.418179297851991
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 7.778340816441365,
+              "maximum_outline_motion_mm": 0.3345435338201553
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 2.1828837243266883,
+              "maximum_outline_motion_mm": 0.25090770609595003
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.007430287583107618,
+              "maximum_outline_motion_mm": 0.16727183060246115
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 2.2682241938976966e-08,
+              "maximum_outline_motion_mm": 0.12545387991820336
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 2.2682241985669144e-08,
+              "maximum_outline_motion_mm": 0.08363592326277516
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 2.2682241989446243e-08,
+              "maximum_outline_motion_mm": 0.041817962626594346
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 2.2682241987723318e-08,
+              "maximum_outline_motion_mm": 0.04181796262658741
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 2.2682241956668357e-08,
+              "maximum_outline_motion_mm": 0.0836359232627916
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 2.2682241948288e-08,
+              "maximum_outline_motion_mm": 0.12545387991820295
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 2.2682241992692847e-08,
+              "maximum_outline_motion_mm": 0.16727183060245943
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 1.234467655399385,
+              "maximum_outline_motion_mm": 0.25090770609595364
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 4.67455664493021,
+              "maximum_outline_motion_mm": 0.33454353382014207
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 10.50129549944582,
+              "maximum_outline_motion_mm": 0.4181792978519874
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 53.60471638871086,
+              "maximum_outline_motion_mm": 0.8363566053188384
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 107.11291276499203,
+              "maximum_outline_motion_mm": 1.2545299320249248
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 165.96285704613214,
+              "maximum_outline_motion_mm": 1.672697287613512
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.16727183060245943
+        },
+        "head_B_cream_inner": {
+          "world_in_jig_bounds_mm": [
+            -104.86867637871977,
+            -4.2,
+            3.7671750905902996,
+            -16.973557665340863,
+            87.71209411621093,
+            11.234344852248022
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.20646074457397431
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.2826917618911552
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.20875692935139983
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.2123025032390098
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 182.643965523023,
+              "maximum_outline_motion_mm": 1.6726971791131204
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 120.41422241864122,
+              "maximum_outline_motion_mm": 1.254529850649174
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 62.694273918029445,
+              "maximum_outline_motion_mm": 0.8363565510681372
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 14.849990791350102,
+              "maximum_outline_motion_mm": 0.41817927072657624
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 7.715253006478156,
+              "maximum_outline_motion_mm": 0.33454351211981903
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 2.182731236202261,
+              "maximum_outline_motion_mm": 0.2509076898206901
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.007419782441415129,
+              "maximum_outline_motion_mm": 0.16727181975227653
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.125453871780568
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08363591783768462
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.041817959914041365
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04181795991404976
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0836359178376956
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1254538717805706
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.16727181975228542
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 1.2538369180731694,
+              "maximum_outline_motion_mm": 0.2509076898206928
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 4.08867227595282,
+              "maximum_outline_motion_mm": 0.33454351211980693
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 8.706460928640427,
+              "maximum_outline_motion_mm": 0.4181792707265681
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 44.35982519052165,
+              "maximum_outline_motion_mm": 0.8363565510681368
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 89.28182120777093,
+              "maximum_outline_motion_mm": 1.2545298506491875
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 139.34867610896674,
+              "maximum_outline_motion_mm": 1.6726971791131293
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.16727181975228542
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.49372939789630715
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.5615860557677935
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.34614774135243714
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.426599930177051
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 45,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 8.441284941264993e-12,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_pier_01": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        29.431684494018555,
+        44.059181213378906,
+        6.492547035217285
+      ],
+      "placement": {
+        "name": "test_jig_pier_01",
+        "parts": [
+          "pier_01_back_half",
+          "pier_01_front_half"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 33.85918229073286,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            0.029809927508904203,
+            -0.9995555853587702,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.9995555853587702,
+            -0.029809927508904203,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          31.4752312255603
+        ],
+        "source_overlap_mm3": 1.3414629530511315e-17
+      },
+      "whole_pair_bench_clearance_mm": 1.2000000954381065,
+      "at_final_pose_intersection_mm3": 0.0,
+      "per_half": {
+        "pier_01_back_half": {
+          "world_in_jig_bounds_mm": [
+            -10.996487987278627,
+            0.0,
+            1.2000000954381065,
+            12.436358082057309,
+            33.85918045043945,
+            3.446273613046756
+          ],
+          "floor_press_0p01_collision_mm3": 1.0550140101606882,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.3725042054399134
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.3724951862501662
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.20061462615393244
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14668157122250258
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 11.802414888799019,
+              "maximum_outline_motion_mm": 0.5700768295697826
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 6.831756504175397,
+              "maximum_outline_motion_mm": 0.4275599963873507
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 2.470936750476158,
+              "maximum_outline_motion_mm": 0.2850411281709933
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.14252090325996947
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.11401675516875051
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08551258537035224
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05700839929156339
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.042756301842898456
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.028504202359180594
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.014252101518763965
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.014252101518765463
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.028504202359181864
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.042756301842897776
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05700839929156316
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08551258537035167
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.11401675516875076
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.14252090325996972
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 2.4711075625987626,
+              "maximum_outline_motion_mm": 0.28504112817099253
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 6.8320354951633915,
+              "maximum_outline_motion_mm": 0.42755999638734954
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 11.80226866833053,
+              "maximum_outline_motion_mm": 0.5700768295697842
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.14252090325996972
+        },
+        "pier_01_front_half": {
+          "world_in_jig_bounds_mm": [
+            -10.996487137912435,
+            -4.200000002980232,
+            3.4462736130467455,
+            12.4363589314235,
+            33.859181210398674,
+            5.692547130655392
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.41165110479465544
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4116353795140114
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2585222107954685
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14668996449053648
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 11.802385078199377,
+              "maximum_outline_motion_mm": 0.5700768436819781
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 6.831725262069987,
+              "maximum_outline_motion_mm": 0.4275600069715538
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 2.4709096587817325,
+              "maximum_outline_motion_mm": 0.2850411352271573
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1425209067880594
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.11401675799122463
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08551258748720736
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.057008400702799646
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.042756302901321604
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.02850420306479944
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.014252101871575355
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.014252101871574238
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.028504203064799546
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04275630290132658
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.057008400702800485
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.08551258748720704
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.11401675799122662
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.14252090678806054
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 2.471117279010698,
+              "maximum_outline_motion_mm": 0.28504113522715613
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 6.83204519888397,
+              "maximum_outline_motion_mm": 0.4275600069715543
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 11.801948679693913,
+              "maximum_outline_motion_mm": 0.5700768436819768
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.14252090678806054
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.7675904869671996
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.7675661421189505
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.45015303133831674
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.2883975819759891
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 41,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 7.995305292066975e-15,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_pier_02": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        29.44854736328125,
+        49.77253341674805,
+        6.492547035217285
+      ],
+      "placement": {
+        "name": "test_jig_pier_02",
+        "parts": [
+          "pier_02_back_half",
+          "pier_02_front_half"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 39.57253164052963,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            -0.066743155993767,
+            -0.9977701895366445,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.9977701895366445,
+            0.066743155993767,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          -25.937207783192655
+        ],
+        "source_overlap_mm3": -5.16452928599892e-17
+      },
+      "whole_pair_bench_clearance_mm": 1.2000000954380923,
+      "at_final_pose_intersection_mm3": 0.0,
+      "per_half": {
+        "pier_02_back_half": {
+          "world_in_jig_bounds_mm": [
+            -8.91660174847052,
+            0.0,
+            1.2000000954380923,
+            14.53196850299432,
+            39.572532653808594,
+            3.4462736130467384
+          ],
+          "floor_press_0p01_collision_mm3": 1.1451618093177105,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.45639727621303794
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4570145065297799
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2004843011591233
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14634203775266888
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 18.098280961273186,
+              "maximum_outline_motion_mm": 0.6676169998639808
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 11.039520646770056,
+              "maximum_outline_motion_mm": 0.5007155303354357
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 4.6544736438577745,
+              "maximum_outline_motion_mm": 0.33381167757857105
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.06955645326544452,
+              "maximum_outline_motion_mm": 0.16690623599652632
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13352502692914525
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10014379244048709
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06676253888586371
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.050071906944848796
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03338127262059249
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.016690636707502954
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.016690636707505074
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.033381272620593316
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05007190694484976
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0667625388858612
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10014379244048684
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13352502692914758
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.06799283250255961,
+              "maximum_outline_motion_mm": 0.16690623599652757
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 4.6514454191978425,
+              "maximum_outline_motion_mm": 0.33381167757857216
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 11.035227182982517,
+              "maximum_outline_motion_mm": 0.5007155303354353
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 18.09253354723,
+              "maximum_outline_motion_mm": 0.6676169998639808
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.13352502692914758
+        },
+        "pier_02_front_half": {
+          "world_in_jig_bounds_mm": [
+            -8.916601450447295,
+            -4.200000002980232,
+            3.4462736130467277,
+            14.531968801017548,
+            39.572533413767815,
+            5.692547130655377
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.49555297977417584
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4961865612767043
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.25839680138204846
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14636201016241515
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 18.098288039617724,
+              "maximum_outline_motion_mm": 0.6676170103035901
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 11.039524640313644,
+              "maximum_outline_motion_mm": 0.5007155381651848
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 4.65447535009127,
+              "maximum_outline_motion_mm": 0.3338116827984251
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.06955771694535928,
+              "maximum_outline_motion_mm": 0.16690623860645945
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1335250290170921
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10014379400644804
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0667625399298371
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.050071907727830635
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03338127314258036
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01669063696849702
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.016690636968498568
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03338127314258024
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.050071907727830496
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06676253992983663
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10014379400644782
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1335250290170941
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0679922612334411,
+              "maximum_outline_motion_mm": 0.1669062386064594
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 4.651449740534406,
+              "maximum_outline_motion_mm": 0.3338116827984264
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 11.0352315971077,
+              "maximum_outline_motion_mm": 0.5007155381651859
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 18.092201692617405,
+              "maximum_outline_motion_mm": 0.6676170103035896
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.1335250290170941
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.9316506700960069
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.932874004570821
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.4499032543700775
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.28774572838274226
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 41,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 2.8438161974419594e-13,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_pier_03": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        29.452556610107422,
+        51.5787239074707,
+        6.492547035217285
+      ],
+      "placement": {
+        "name": "test_jig_pier_03",
+        "parts": [
+          "pier_03_back_half",
+          "pier_03_front_half"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 41.37872266769409,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            -0.5793370435916099,
+            -0.815088087216672,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.815088087216672,
+            0.5793370435916099,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          -74.32305445755138
+        ],
+        "source_overlap_mm3": 6.179229096439759e-17
+      },
+      "whole_pair_bench_clearance_mm": 1.2000000954381278,
+      "at_final_pose_intersection_mm3": 0.0,
+      "per_half": {
+        "pier_03_back_half": {
+          "world_in_jig_bounds_mm": [
+            24.769852156004173,
+            0.0,
+            1.2000000954381278,
+            48.22241639550614,
+            41.37872314453125,
+            3.4462736130467846
+          ],
+          "floor_press_0p01_collision_mm3": 1.1758021169374513,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.4846075438301867
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4827437861001405
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.20050480751352884
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.1454463804650734
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 20.341851001301208,
+              "maximum_outline_motion_mm": 0.6985852000628567
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 12.55719101107565,
+              "maximum_outline_motion_mm": 0.5239418094584513
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 5.42216092564967,
+              "maximum_outline_motion_mm": 0.3492959250768719
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.16803073981262384,
+              "maximum_outline_motion_mm": 0.17464837817061066
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13971874243720397
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10478908010332447
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06985939781909326
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05239455127374052
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0349297022345981
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01746485153293734
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01746485153293506
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.034929702234609755
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05239455127373786
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06985939781909724
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1047890801033273
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13971874243720483
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.17215310694333927,
+              "maximum_outline_motion_mm": 0.17464837817060638
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 5.43118945944625,
+              "maximum_outline_motion_mm": 0.3492959250768711
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 12.562057145374427,
+              "maximum_outline_motion_mm": 0.5239418094584469
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 20.342184088252274,
+              "maximum_outline_motion_mm": 0.6985852000628466
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.13971874243720483
+        },
+        "pier_03_front_half": {
+          "world_in_jig_bounds_mm": [
+            24.769851708969345,
+            -4.200000002980232,
+            3.4462736130467277,
+            48.222415948471294,
+            41.37872390449047,
+            5.692547130655399
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.5238338758887854
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.5218411441708747
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2584972512279247
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14546216747826268
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 20.341807100502706,
+              "maximum_outline_motion_mm": 0.6985852146961938
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 12.557148700219612,
+              "maximum_outline_motion_mm": 0.5239418204335161
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 5.422125955157215,
+              "maximum_outline_motion_mm": 0.34929593239362466
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.16802316996087563,
+              "maximum_outline_motion_mm": 0.17464838182899686
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13971874536391296
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10478908229835247
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06985939928245002
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.052394552371259714
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03492970296627773
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01746485189878234
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.017464851898783492
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03492970296629485
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05239455237125617
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06985939928243837
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10478908229835616
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13971874536390846
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.17216231830289358,
+              "maximum_outline_motion_mm": 0.17464838182899764
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 5.431230395223699,
+              "maximum_outline_motion_mm": 0.34929593239362383
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 12.562107772701598,
+              "maximum_outline_motion_mm": 0.5239418204335159
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 20.341935537149716,
+              "maximum_outline_motion_mm": 0.6985852146961881
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.13971874536391296
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.9868859661637901
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.9831124480608847
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.450025817577827
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.28599010140179804
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 41,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 8.147574080362432e-13,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_pier_04": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        29.408245086669922,
+        38.991939544677734,
+        6.492547035217285
+      ],
+      "placement": {
+        "name": "test_jig_pier_04",
+        "parts": [
+          "pier_04_back_half",
+          "pier_04_front_half"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 28.791939578950405,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            -0.12395467667049925,
+            0.9922878806735029,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.9922878806735029,
+            0.12395467667049925,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          63.02457348419445
+        ],
+        "source_overlap_mm3": 0.0
+      },
+      "whole_pair_bench_clearance_mm": 1.200000095438135,
+      "at_final_pose_intersection_mm3": 0.0,
+      "per_half": {
+        "pier_04_back_half": {
+          "world_in_jig_bounds_mm": [
+            66.49631274606082,
+            0.0,
+            1.200000095438135,
+            89.90938914681769,
+            28.79193878173828,
+            3.4462736130467846
+          ],
+          "floor_press_0p01_collision_mm3": 0.9618572439438091,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2918656273675331
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.29100018656379906
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.20077621193307943
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14604088887059102
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 7.338933255986936,
+              "maximum_outline_motion_mm": 0.48431432755173903
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 3.9187759701153406,
+              "maximum_outline_motion_mm": 0.3632377626970844
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 1.0850893805722654,
+              "maximum_outline_motion_mm": 0.24215946895947535
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12108002262872762
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.09686404576530165
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0726480504603482
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04843204132421609
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03632403301020006
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.02421602296730458
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012108011771813903
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01210801177178822
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.02421602296729743
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03632403301019748
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04843204132422088
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.07264805046033491
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.09686404576528346
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12108002262871523
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 1.0839120996739182,
+              "maximum_outline_motion_mm": 0.24215946895947876
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 3.915780285442806,
+              "maximum_outline_motion_mm": 0.36323776269707686
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 7.334077825344372,
+              "maximum_outline_motion_mm": 0.4843143275517464
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.12108002262872762
+        },
+        "pier_04_front_half": {
+          "world_in_jig_bounds_mm": [
+            66.49631261195039,
+            -4.200000002980232,
+            3.446273613046756,
+            89.90938901270721,
+            28.791939541697502,
+            5.692547130655413
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.3310338710586485
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.33015415877266246
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.25867877843780956
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.14605888077137574
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 7.338933724415136,
+              "maximum_outline_motion_mm": 0.4843143397308257
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 3.918775099138732,
+              "maximum_outline_motion_mm": 0.36323777183142514
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 1.0850888423830563,
+              "maximum_outline_motion_mm": 0.24215947504907723
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12108002567352395
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.09686404820114923
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.07264805228723317
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04843204254213703
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.036324033923642904
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024216023576272498
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012108012076282612
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01210801207629595
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024216023576281536
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03632403392364316
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04843204254211057
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.07264805228721563
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.09686404820113129
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12108002567352032
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 1.0839158270874536,
+              "maximum_outline_motion_mm": 0.24215947504909097
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 3.9157872678688017,
+              "maximum_outline_motion_mm": 0.363237771831419
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 7.3337670591727155,
+              "maximum_outline_motion_mm": 0.48431433973080107
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.12108002567352395
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.6099245553670777
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.6082179308503166
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.45046383227243614
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.287154857011679
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 41,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 4.766070350881169e-13,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_pier_05": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        29.27911949157715,
+        23.987211227416992,
+        6.492547035217285
+      ],
+      "placement": {
+        "name": "test_jig_pier_05",
+        "parts": [
+          "pier_05_back_half",
+          "pier_05_front_half"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 13.787212111055851,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            0.5595383366629137,
+            0.828804470188536,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.828804470188536,
+            -0.5595383366629137,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          49.614502973054364
+        ],
+        "source_overlap_mm3": 0.0
+      },
+      "whole_pair_bench_clearance_mm": 1.2000000954381065,
+      "at_final_pose_intersection_mm3": 0.0,
+      "per_half": {
+        "pier_05_back_half": {
+          "world_in_jig_bounds_mm": [
+            29.604923190892237,
+            0.0,
+            1.2000000954381065,
+            52.88526147824575,
+            13.787212371826172,
+            3.446273613046756
+          ],
+          "floor_press_0p01_collision_mm3": 0.7215837256217026,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.031498024558574686
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.032099371749668655
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.1966416078924165
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.13858441212095562
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 0.35772512529029354,
+              "maximum_outline_motion_mm": 0.24220156196779302
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 0.0026544230998163157,
+              "maximum_outline_motion_mm": 0.1816521801773789
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1211019337870162
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.060551110994417685
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04844090262923204
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0363306850415782
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024220460537083696
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01816534641151582
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012110231421353116
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.006055115854778076
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.006055115854782778
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012110231421357667
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.018165346411519796
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024220460537077496
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03633068504157928
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0484409026292402
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06055111099441283
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12110193378701938
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 0.002618627801981273,
+              "maximum_outline_motion_mm": 0.18165218017737658
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 0.3608034371517472,
+              "maximum_outline_motion_mm": 0.24220156196780107
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.12110193378701938
+        },
+        "pier_05_front_half": {
+          "world_in_jig_bounds_mm": [
+            29.604922728956236,
+            -4.200000002980232,
+            3.446273613046742,
+            52.88526101630975,
+            13.78721122443676,
+            5.692547130655392
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.07065471813694665
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.07125748898331723
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.2558037031916033
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.13850613960713154
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 0.35771889204599727,
+              "maximum_outline_motion_mm": 0.24220156892048875
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 0.0026544026218047944,
+              "maximum_outline_motion_mm": 0.18165218539193453
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12110193726340186
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.060551112732616486
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04844090401979121
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.036330686084506736
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024220461232368238
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.0181653469329805
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012110231768996258
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.006055116028603047
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.006055116028598408
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.012110231768997667
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.018165346932980896
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.024220461232354558
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03633068608449951
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.04844090401980011
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06055111273261703
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.12110193726341466
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 0.002618156997994414,
+              "maximum_outline_motion_mm": 0.18165218539192923
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 0.3608025688524266,
+              "maximum_outline_motion_mm": 0.2422015689204977
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.12110193726341466
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.10080628146198917
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.10200288568932787
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.4436880644412282
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.27275362865147423
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 41,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": -1.801402930987286e-14,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_tail_A": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        54.0,
+        49.621734619140625,
+        6.800000190734863
+      ],
+      "placement": {
+        "name": "test_jig_tail_A",
+        "parts": [
+          "tail_A_cream_outer",
+          "tail_A_cream_inner"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 39.424102030694485,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            0.8132944310892274,
+            -0.5818523595889681,
+            -0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            -0.5818523595889681,
+            -0.8132944310892274,
+            0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          59.875360151961786
+        ],
+        "source_overlap_mm3": 0.0
+      },
+      "whole_pair_bench_clearance_mm": 1.199999904632591,
+      "at_final_pose_intersection_mm3": 3.4387044864707484e-05,
+      "per_half": {
+        "tail_A_cream_outer": {
+          "world_in_jig_bounds_mm": [
+            -54.19874023207327,
+            0.0,
+            1.199999904632591,
+            -6.198740232073273,
+            39.424102783203125,
+            3.600000000000037
+          ],
+          "floor_press_0p01_collision_mm3": 2.403864198206935,
+          "drop_and_lift_max_collision_mm3": 3.4387044872589586e-05,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 3.4387044872589586e-05
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.4076128406016033
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.3052619696259054
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.5251384763479158
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.23265153643455852
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 14.862417886287707,
+              "maximum_outline_motion_mm": 0.6880042069991914
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 7.36840659790152,
+              "maximum_outline_motion_mm": 0.5160060205938414
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 1.2450386637448825,
+              "maximum_outline_motion_mm": 0.3440053781828533
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 3.440228631608027e-05,
+              "maximum_outline_motion_mm": 0.17200309842829709
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 3.4399309528885386e-05,
+              "maximum_outline_motion_mm": 0.1376025180390188
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 3.4396297235972395e-05,
+              "maximum_outline_motion_mm": 0.10320191145213652
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 3.439324921965308e-05,
+              "maximum_outline_motion_mm": 0.06880128521709256
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 3.439171169655906e-05,
+              "maximum_outline_motion_mm": 0.051600966778186354
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 3.439016519320409e-05,
+              "maximum_outline_motion_mm": 0.03440064588325723
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 3.438860959745631e-05,
+              "maximum_outline_motion_mm": 0.017200323350956316
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 3.43854710288461e-05,
+              "maximum_outline_motion_mm": 0.01720032335096141
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 3.4383888012873466e-05,
+              "maximum_outline_motion_mm": 0.03440064588323379
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 3.438229573677404e-05,
+              "maximum_outline_motion_mm": 0.05160096677817507
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 3.438069419952592e-05,
+              "maximum_outline_motion_mm": 0.06880128521708412
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 3.437746327589968e-05,
+              "maximum_outline_motion_mm": 0.10320191145214433
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 3.4374194904622925e-05,
+              "maximum_outline_motion_mm": 0.137602518039005
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 3.43708887482773e-05,
+              "maximum_outline_motion_mm": 0.17200309842829467
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 2.775398835789722,
+              "maximum_outline_motion_mm": 0.3440053781828608
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 10.38394527729974,
+              "maximum_outline_motion_mm": 0.5160060205938387
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 19.41299224356609,
+              "maximum_outline_motion_mm": 0.6880042069991906
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.17200309842829709
+        },
+        "tail_A_cream_inner": {
+          "world_in_jig_bounds_mm": [
+            -54.19874023207326,
+            -4.200000002980232,
+            3.6000000000000014,
+            -6.198740232073273,
+            39.424103543162346,
+            6.00000009536744
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.4467354564194887
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.34438353275097255
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.5374336862179103
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.23265788254598044
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 14.704511848200278,
+              "maximum_outline_motion_mm": 0.688004228728447
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 7.142388102392882,
+              "maximum_outline_motion_mm": 0.5160060368908681
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 1.2222119016686306,
+              "maximum_outline_motion_mm": 0.3440053890475878
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1720031038606749
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13760252238492024
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10320191471157367
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06880128739004143
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.051600968407895194
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.034400646969720186
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.017200323894201428
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01720032389420693
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03440064696971831
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.051600968407889185
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06880128739003843
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10320191471157857
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1376025223849057
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.17200310386068157
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 2.7753372102399716,
+              "maximum_outline_motion_mm": 0.34400538904759037
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 10.383877969852415,
+              "maximum_outline_motion_mm": 0.5160060368908754
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 19.412927875811747,
+              "maximum_outline_motion_mm": 0.6880042287284526
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.17200310386068157
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.8373314821721309
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.6368933052027453
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 1.040657678415641
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.4555817822934361
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 43,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 1.5902027812719898e-12,
+      "lamination_gap_mm": 0.0
+    },
+    "test_jig_tail_B": {
+      "float32_watertight": true,
+      "float32_connected_components": 1,
+      "print_dimensions_mm": [
+        54.0,
+        49.621734619140625,
+        6.800000190734863
+      ],
+      "placement": {
+        "name": "test_jig_tail_B",
+        "parts": [
+          "tail_B_cream_outer",
+          "tail_B_cream_inner"
+        ],
+        "clearance_per_side_mm": 0.15,
+        "floor_mm": 1.2,
+        "foot_floor_world_z_max_mm": 10.0,
+        "captured_world_z_max_mm": 39.424102030694485,
+        "full_outline_registration": true,
+        "open_center": true,
+        "placement_rotation_world_to_jig": [
+          [
+            -0.8132944310892274,
+            0.5818523595889681,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.5818523595889681,
+            0.8132944310892274,
+            -0.0
+          ]
+        ],
+        "placement_translation_jig": [
+          0,
+          0,
+          -20.07536015196177
+        ],
+        "source_overlap_mm3": 2.6201773083229705e-17
+      },
+      "whole_pair_bench_clearance_mm": 1.1999999046325804,
+      "at_final_pose_intersection_mm3": 3.438743089879786e-05,
+      "per_half": {
+        "tail_B_cream_outer": {
+          "world_in_jig_bounds_mm": [
+            6.198740232073268,
+            0.0,
+            1.1999999046325804,
+            54.19874023207326,
+            39.424102783203125,
+            3.600000000000019
+          ],
+          "floor_press_0p01_collision_mm3": 2.4038908559605283,
+          "drop_and_lift_max_collision_mm3": 3.4387430900550316e-05,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 3.4387430900550316e-05
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.3052050437488504
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4076887152386157
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.5248645282052586
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.23264963924981846
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 19.413063658032844,
+              "maximum_outline_motion_mm": 0.6880042181640927
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 10.383994613365525,
+              "maximum_outline_motion_mm": 0.5160060289675645
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 2.775424938004814,
+              "maximum_outline_motion_mm": 0.3440053837653631
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 3.437127476114565e-05,
+              "maximum_outline_motion_mm": 0.17200310121954948
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 3.437458092003196e-05,
+              "maximum_outline_motion_mm": 0.13760252027202208
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 3.437784931803108e-05,
+              "maximum_outline_motion_mm": 0.10320191312690162
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 3.438108022499043e-05,
+              "maximum_outline_motion_mm": 0.06880128633359045
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 3.438268177431822e-05,
+              "maximum_outline_motion_mm": 0.05160096761555212
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 3.438427406513675e-05,
+              "maximum_outline_motion_mm": 0.03440064644149068
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 3.438585706732261e-05,
+              "maximum_outline_motion_mm": 0.017200323630088842
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 3.438899562593474e-05,
+              "maximum_outline_motion_mm": 0.017200323630081782
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 3.439055121060129e-05,
+              "maximum_outline_motion_mm": 0.034400646441506234
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 3.439209773005343e-05,
+              "maximum_outline_motion_mm": 0.051600967615568316
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 3.4393635245634504e-05,
+              "maximum_outline_motion_mm": 0.06880128633359431
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 3.4396683271735734e-05,
+              "maximum_outline_motion_mm": 0.10320191312689081
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 3.439969556025013e-05,
+              "maximum_outline_motion_mm": 0.13760252027203007
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 3.4402672394656135e-05,
+              "maximum_outline_motion_mm": 0.17200310121954734
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 1.2448173309894173,
+              "maximum_outline_motion_mm": 0.34400538376536044
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 7.368108245305714,
+              "maximum_outline_motion_mm": 0.5160060289675623
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 14.86210814205987,
+              "maximum_outline_motion_mm": 0.6880042181640951
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.17200310121954948
+        },
+        "tail_B_cream_inner": {
+          "world_in_jig_bounds_mm": [
+            6.198740232073279,
+            -4.200000002980232,
+            3.5999999999999908,
+            54.19874023207328,
+            39.424103543162346,
+            6.0000000953674295
+          ],
+          "floor_press_0p01_collision_mm3": 0.0,
+          "drop_and_lift_max_collision_mm3": 0.0,
+          "movement": [
+            {
+              "z_lift_mm": 0,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.05,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.25,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 0.5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 1,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 2,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 5,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 10,
+              "intersection_mm3": 0.0
+            },
+            {
+              "z_lift_mm": 20,
+              "intersection_mm3": 0.0
+            }
+          ],
+          "independent_side_probes": {
+            "x": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.3443311547300004
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.4468103283218338
+              }
+            ],
+            "y": [
+              {
+                "translation_mm": -0.155,
+                "collision_mm3": 0.5371382004246822
+              },
+              {
+                "translation_mm": 0.155,
+                "collision_mm3": 0.23265271182234026
+              }
+            ]
+          },
+          "independent_rotation_probes": [
+            {
+              "degrees": -1,
+              "collision_mm3": 19.413016914251987,
+              "maximum_outline_motion_mm": 0.6880042175635395
+            },
+            {
+              "degrees": -0.75,
+              "collision_mm3": 10.383944893705872,
+              "maximum_outline_motion_mm": 0.5160060285171496
+            },
+            {
+              "degrees": -0.5,
+              "collision_mm3": 2.775375356607266,
+              "maximum_outline_motion_mm": 0.34400538346507686
+            },
+            {
+              "degrees": -0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1720031010694155
+            },
+            {
+              "degrees": -0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1376025201518986
+            },
+            {
+              "degrees": -0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.1032019130368213
+            },
+            {
+              "degrees": -0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06880128627353212
+            },
+            {
+              "degrees": -0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05160096757050648
+            },
+            {
+              "degrees": -0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.03440064641145578
+            },
+            {
+              "degrees": -0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.017200323615068184
+            },
+            {
+              "degrees": 0.025,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.01720032361506465
+            },
+            {
+              "degrees": 0.05,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.034400646411465535
+            },
+            {
+              "degrees": 0.075,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.05160096757051187
+            },
+            {
+              "degrees": 0.1,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.06880128627353267
+            },
+            {
+              "degrees": 0.15,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.10320191303681374
+            },
+            {
+              "degrees": 0.2,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.13760252015190902
+            },
+            {
+              "degrees": 0.25,
+              "collision_mm3": 0.0,
+              "maximum_outline_motion_mm": 0.17200310106941902
+            },
+            {
+              "degrees": 0.5,
+              "collision_mm3": 1.2219507509709473,
+              "maximum_outline_motion_mm": 0.3440053834650694
+            },
+            {
+              "degrees": 0.75,
+              "collision_mm3": 7.14205673786465,
+              "maximum_outline_motion_mm": 0.5160060285171416
+            },
+            {
+              "degrees": 1,
+              "collision_mm3": 14.704167563668301,
+              "maximum_outline_motion_mm": 0.6880042175635493
+            }
+          ],
+          "maximum_tested_free_outline_motion_mm": 0.17200310106941902
+        }
+      },
+      "side_fit": {
+        "x": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 0.6367863728450425
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.8374790668996531
+          }
+        ],
+        "y": [
+          {
+            "translation_mm": -0.155,
+            "intersection_mm3": 1.0400888704628275
+          },
+          {
+            "translation_mm": 0.155,
+            "intersection_mm3": 0.4555747930642767
+          }
+        ]
+      },
+      "layer_screen": {
+        "layers": 43,
+        "flagged_layers": []
+      },
+      "lamination_nominal_overlap_mm3": 2.5962492735864937e-12,
+      "lamination_gap_mm": 0.0
+    }
+  },
+  "base_samples": {
+    "test_head_A_tray": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        25.0,
+        19.0,
+        4.987578868865967
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 3.082297522049478e-05,
+      "layer_screen": {
+        "layers": 31,
+        "flagged_layers": []
+      },
+      "notes": "Pair with test_head_A_sand and the head A D-foot sample. Seat sand, then lower the whole D-pins through the larger passages into the tray. The cream foot shoulder should meet the sand without rocking."
+    },
+    "test_head_A_sand": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        25.0,
+        19.0,
+        2.0
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 1.800035210515806,
+      "layer_screen": {
+        "layers": 12,
+        "flagged_layers": []
+      },
+      "notes": "Actual head-A sand passages; four small carrier pads preserve the full insert bearing height. Visible face down, sockets up.",
+      "exact_fixture_added_mm3": 1.8000004291534424,
+      "positive_difference_outside_fixture_windows_mm3": 3.478136236234607e-05,
+      "fixture_added_bounds_mm": [
+        75.75,
+        7.75,
+        -2.0,
+        100.25,
+        26.25,
+        -1.7999999523162842
+      ],
+      "fixture_floor_z_mm": -2.0,
+      "fixture_high_z_mm": -1.7999999523162842,
+      "added_pads_to_actual_head_gap_mm": 3.7733156051528227,
+      "added_pads_head_intersection_mm3": 0.0,
+      "paired_tray_overlap_mm3": 1.428391357194414e-06,
+      "paired_tray_min_gap_mm": 0.0,
+      "seating_press_0p01_collision_mm3": 0.09000142839135439,
+      "drop_access_max_collision_mm3": 1.428391357194414e-06,
+      "added_pads_to_raised_socket_boss_gap_mm": null
+    },
+    "test_base_join_left": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        13.0,
+        16.0,
+        4.987578868865967
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 1.3467234648994027e-05,
+      "layer_screen": {
+        "layers": 31,
+        "flagged_layers": []
+      },
+      "notes": "Close the matching two flat seam faces completely, then drop in the production-shaped join key from the open top. Flat faces set the seam; the key is a glue locator."
+    },
+    "test_base_join_right": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        13.0,
+        16.0,
+        4.987578868865967
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 1.2273788439103445e-05,
+      "layer_screen": {
+        "layers": 31,
+        "flagged_layers": []
+      },
+      "notes": "Close the matching two flat seam faces completely, then drop in the production-shaped join key from the open top. Flat faces set the seam; the key is a glue locator."
+    },
+    "test_base_join_key": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        10.0,
+        4.0,
+        2.0
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 0.0,
+      "layer_screen": {
+        "layers": 12,
+        "flagged_layers": []
+      },
+      "notes": "Close the tray seam fully, drop this key into the open-top pocket, then glue. Add sand after joining the trays. No blind bridged slot."
+    },
+    "test_sand_register_tray": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        14.0,
+        14.0,
+        5.88757848739624
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 6.047358215104101e-07,
+      "layer_screen": {
+        "layers": 37,
+        "flagged_layers": []
+      },
+      "notes": "Actual round sand registration boss. Pair with test_sand_register_insert; it should seat fully with light finger pressure."
+    },
+    "test_sand_register_insert": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        14.0,
+        14.0,
+        2.0
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 1.8000156871343789,
+      "layer_screen": {
+        "layers": 12,
+        "flagged_layers": []
+      },
+      "notes": "Actual blind registration socket. Small carrier pads reproduce the production underside datum. Print ground face down.",
+      "exact_fixture_added_mm3": 1.8000004291534424,
+      "positive_difference_outside_fixture_windows_mm3": 1.5257980936491853e-05,
+      "fixture_added_bounds_mm": [
+        55.25,
+        -41.75,
+        -2.0,
+        68.75,
+        -28.25,
+        -1.7999999523162842
+      ],
+      "fixture_floor_z_mm": -2.0,
+      "fixture_high_z_mm": -1.7999999523162842,
+      "paired_tray_overlap_mm3": 1.428391357194414e-06,
+      "paired_tray_min_gap_mm": 0.0,
+      "seating_press_0p01_collision_mm3": 0.09000142839135439,
+      "drop_access_max_collision_mm3": 1.428391357194414e-06,
+      "added_pads_to_raised_socket_boss_gap_mm": 5.624621014988926
+    },
+    "test_slide_2_shell": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        70.29151916503906,
+        80.75720977783203,
+        47.349857330322266
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": -4.2541432278561607e-13,
+      "layer_screen": {
+        "skipped": "Production part requires supports",
+        "flagged_layers": []
+      },
+      "notes": "Exact full production slide2 shell in the actual colour and supported orientation; reusable in the final model. Test the complete rigid insertion path and seating lands after carefully removing supports. Keep dry until the fit is accepted."
+    },
+    "test_slide_2_insert": {
+      "float32_watertight": true,
+      "float32_components": 1,
+      "print_dimensions_mm": [
+        88.7466049194336,
+        43.38772201538086,
+        4.023927211761475
+      ],
+      "roundtrip_positive_difference_vs_production_mm3": 0.0,
+      "layer_screen": {
+        "skipped": "Production part requires supports",
+        "flagged_layers": []
+      },
+      "notes": "Exact full production slide2 insert in the actual colour and supported orientation; reusable in the final model. Test the complete rigid insertion path and seating lands after carefully removing supports. Keep dry until the fit is accepted."
+    }
+  },
+  "failures": [],
+  "geometry_mode": "delivered STL triangles in saved assembly poses",
+  "limits": [
+    "No physical glue or clamp test.",
+    "A cradle with 0.15 mm side allowance can permit up to about 0.30 mm relative lateral movement between loose halves.",
+    "Angular and insertion probes are sampled geometric screens, not a physical clamp or assembly test."
+  ],
+  "manifest": "exports/dragon-pla-kit-v03/manifest.json",
+  "assembly_dir": "exports/dragon-pla-kit-v03/work/assembly",
+  "provenance": {
+    "base_join_key_01": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/base_join_key_01.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/base_join_key_01.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "base_left_tray": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/base_left_tray.stl",
+      "sha256": "b9c7e20f1bd8d77994d39aca306b153ed0db1a28bace12e9cdeed9a2ed1acd2e",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/base_left_tray.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "base_right_sand": {
+      "stl": "exports/dragon-pla-kit-v03/parts/sand/base_right_sand.stl",
+      "sha256": "fc31d61568a782d20d5c6fbb5122eaead36034f8910d567661941101f90c1708",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/base_right_sand.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "base_right_tray": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/base_right_tray.stl",
+      "sha256": "5ff3c7adc8e5cc3147fd58d598baa37de20bffc6b8eb4ec81d755725a29783ac",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/base_right_tray.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "head_A_cream_inner": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/head_A_cream_inner.stl",
+      "sha256": "7dc4cffea58ec3e5cdcbb6a97a3dd44c53bcaf9c7c2bfa20de2ce0bbd0756637",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/head_A_cream_inner.npz",
+      "restored_stl_vertex_error_mm": 2.842170943040401e-14
+    },
+    "head_A_cream_outer": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/head_A_cream_outer.stl",
+      "sha256": "9b10618e032b943a41fdd5ec6bfbc07b8cd5c2297290eeac88d75f2b6115c13e",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/head_A_cream_outer.npz",
+      "restored_stl_vertex_error_mm": 2.842170943040401e-14
+    },
+    "head_B_cream_inner": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/head_B_cream_inner.stl",
+      "sha256": "3e91c5bdf24e0bfb7aedd561f664e077a4c2003b62b8edde7842807cce1d603f",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/head_B_cream_inner.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "head_B_cream_outer": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/head_B_cream_outer.stl",
+      "sha256": "ba1de7a136ef90f3042649dc77aa3e68deb23b33c27e402cdd55a3c3cab2afec",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/head_B_cream_outer.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "pier_01_back_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_01_back_half.stl",
+      "sha256": "94df3cf5721431d2474f5f7f19eef8b4139151a497856f8598de7545a9481af4",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_01_back_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "pier_01_front_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_01_front_half.stl",
+      "sha256": "9b8d895873ea9a86ef74bb70351c97e4621ee0c0d17dc75112224c0a8bd5e3ff",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_01_front_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "pier_02_back_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_02_back_half.stl",
+      "sha256": "611e80d66dd0fba6f6e6fdcc87f41893bbe8977bcca9f2f6338d8e76551f53a9",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_02_back_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "pier_02_front_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_02_front_half.stl",
+      "sha256": "ae65436d6d0297d7c9ef5a1b914758c51bd8b79529a3a3118e18ccec878f2d74",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_02_front_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "pier_03_back_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_03_back_half.stl",
+      "sha256": "44a1e3c920664fb90f2d6325150b99749ad5b5cc463beab1b061672a8c6e4d21",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_03_back_half.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "pier_03_front_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_03_front_half.stl",
+      "sha256": "76a62d7595a2fb416159397d0c5de22c5e17f89125e670b0be5f2305315c9f59",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_03_front_half.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "pier_04_back_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_04_back_half.stl",
+      "sha256": "2186c347517a976bfbf8a48d607934a0aff71737679d5ff7b87621e0031d2048",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_04_back_half.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "pier_04_front_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_04_front_half.stl",
+      "sha256": "06e4f356c5bd96ecf1c1cd578fa98f6bf54693f67b0c50dc276b2477fe0703a2",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_04_front_half.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "pier_05_back_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_05_back_half.stl",
+      "sha256": "842fb620883c78a768b613e8a587b096f56e58a632d6e16df3aa4a14d6734bda",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_05_back_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "pier_05_front_half": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/pier_05_front_half.stl",
+      "sha256": "55123bd27b1d508726da8ec629a2149d0c7f4998fbe95313e040d9f1b03e3ee0",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/pier_05_front_half.npz",
+      "restored_stl_vertex_error_mm": 7.105427357601002e-15
+    },
+    "slide_2_cream": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/slide_2_cream.stl",
+      "sha256": "4b869e83661dbf0bb0664a6e29fa2dd645c9e5ee8573eb5dda15e06604f3ab8b",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/slide_2_cream.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "slide_2_orange_left": {
+      "stl": "exports/dragon-pla-kit-v03/parts/orange/slide_2_orange_left.stl",
+      "sha256": "d14a8381e67794882295be5aa4533d161c0a65f510721ae41d568c655d35d324",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/slide_2_orange_left.npz",
+      "restored_stl_vertex_error_mm": 2.842170943040401e-14
+    },
+    "tail_A_cream_inner": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/tail_A_cream_inner.stl",
+      "sha256": "d17219cd119d75f7e00f51790809bf863a7c896390bbe06d570df7f50e06401d",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/tail_A_cream_inner.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "tail_A_cream_outer": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/tail_A_cream_outer.stl",
+      "sha256": "ea06ef034c3e844a8bd5210963aaaaef7339c6975f94be7d1e33046745bd6b0e",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/tail_A_cream_outer.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "tail_B_cream_inner": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/tail_B_cream_inner.stl",
+      "sha256": "c7a2415e4c4368851a6312fdeecf1a1c2846f6cf446e391bd5bd9b0287b988c6",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/tail_B_cream_inner.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "tail_B_cream_outer": {
+      "stl": "exports/dragon-pla-kit-v03/parts/cream/tail_B_cream_outer.stl",
+      "sha256": "f72997c7ae7d333af41091b486bcce46be8bae35337ea790cce8950bfa448fb0",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/tail_B_cream_outer.npz",
+      "restored_stl_vertex_error_mm": 1.4210854715202004e-14
+    },
+    "test_base_join_key": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_base_join_key.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_base_join_key.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_base_join_left": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_base_join_left.stl",
+      "sha256": "ea0fa073e7378c1baf232b6fb889037cde422e362d2ed5e4215198cb7f8a21c3",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_base_join_left.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_base_join_right": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_base_join_right.stl",
+      "sha256": "ea235115d14b922a2dba8187aeacc8faa9299383bd79648ed4d1aed937ff3309",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_base_join_right.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_head_A_sand": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/sand/test_head_A_sand.stl",
+      "sha256": "44d6f919b6611c1f501c9dc7ef11394b5f0c09e3721c272caffd216abf5a3cfd",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_head_A_sand.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_head_A_tray": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_head_A_tray.stl",
+      "sha256": "5c7574a0173ad559c29c4d9d8e10f9a439e7367c6b33963f29928148541b38b7",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_head_A_tray.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_head_A": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_head_A.stl",
+      "sha256": "f5dfa9206b4b567465fc774401ffad0955917136fd0792419277f73fc698e858",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_head_A.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_head_B": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_head_B.stl",
+      "sha256": "37617fd174e914aecdb3f6278cb395ffade03b3be159d8bb9410175d720d8b68",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_head_B.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_pier_01": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_pier_01.stl",
+      "sha256": "4e1f62197e38bb10d31e32db4f82528ceca3c176a2fe7b7bbb6cb277df5c36b9",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_pier_01.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_pier_02": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_pier_02.stl",
+      "sha256": "d7ec0bb1eecdc90f75755c99992b97e8e8f3754ff776097d12c310077c150675",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_pier_02.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_pier_03": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_pier_03.stl",
+      "sha256": "7e48745152ecefc448ded1662214f5546b40984a92f9a400443687e8d9ec123a",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_pier_03.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_pier_04": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_pier_04.stl",
+      "sha256": "497dc3a422dff538cce38adef2e09dcd79cb2443c110b0da8714375d837e32e4",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_pier_04.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_pier_05": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_pier_05.stl",
+      "sha256": "b740f1ae32b7a7c752b9e7e4092050485d01d6f100348a5aa6f9873513ce9dd2",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_pier_05.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_tail_A": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_tail_A.stl",
+      "sha256": "53d9695e41ad1bae1b0284fde6b6b11dfb3ba20a1047ca0baecf60a4d42f6db6",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_tail_A.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_jig_tail_B": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_jig_tail_B.stl",
+      "sha256": "8b58812c849051ec02b1e654c5678c8e03a4f3716f1688a8c80220d9adb4e428",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_jig_tail_B.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_sand_register_insert": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/sand/test_sand_register_insert.stl",
+      "sha256": "bfbc0b1a87eb7663a4e9d0ebd449a07722fa60a69470103419e800dc3f594f56",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_sand_register_insert.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_sand_register_tray": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_sand_register_tray.stl",
+      "sha256": "7e883e538c381db1746498fa230b9dd57575639606d88dfa78a14b79895faa05",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_sand_register_tray.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    },
+    "test_slide_2_insert": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/orange/test_slide_2_insert.stl",
+      "sha256": "d14a8381e67794882295be5aa4533d161c0a65f510721ae41d568c655d35d324",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_slide_2_insert.npz",
+      "restored_stl_vertex_error_mm": 2.842170943040401e-14
+    },
+    "test_slide_2_shell": {
+      "stl": "exports/dragon-pla-kit-v03/test-first/cream/test_slide_2_shell.stl",
+      "sha256": "4b869e83661dbf0bb0664a6e29fa2dd645c9e5ee8573eb5dda15e06604f3ab8b",
+      "assembly_npz": "exports/dragon-pla-kit-v03/work/assembly/test_slide_2_shell.npz",
+      "restored_stl_vertex_error_mm": 0.0
+    }
+  },
+  "base_join_test": {
+    "seam_gap_mm": 2.5414248483457413e-10,
+    "key_gap_mm": 0.0,
+    "key_drop_max_collision_mm3": 6.263601278809332e-07
+  },
+  "sample_metadata": {
+    "samples": [
+      {
+        "name": "test_head_A_tray",
+        "production_part": "base_right_tray",
+        "notes": "Pair with test_head_A_sand and the head A D-foot sample. Seat sand, then lower the whole D-pins through the larger passages into the tray. The cream foot shoulder should meet the sand without rocking."
+      },
+      {
+        "name": "test_head_A_sand",
+        "production_part": "base_right_sand",
+        "notes": "Actual head-A sand passages; four small carrier pads preserve the full insert bearing height. Visible face down, sockets up."
+      },
+      {
+        "name": "test_base_join_left",
+        "production_part": "base_left_tray",
+        "notes": "Close the matching two flat seam faces completely, then drop in the production-shaped join key from the open top. Flat faces set the seam; the key is a glue locator."
+      },
+      {
+        "name": "test_base_join_right",
+        "production_part": "base_right_tray",
+        "notes": "Close the matching two flat seam faces completely, then drop in the production-shaped join key from the open top. Flat faces set the seam; the key is a glue locator."
+      },
+      {
+        "name": "test_sand_register_tray",
+        "production_part": "base_right_tray",
+        "notes": "Actual round sand registration boss. Pair with test_sand_register_insert; it should seat fully with light finger pressure."
+      },
+      {
+        "name": "test_sand_register_insert",
+        "production_part": "base_right_sand",
+        "notes": "Actual blind registration socket. Small carrier pads reproduce the production underside datum. Print ground face down."
+      },
+      {
+        "name": "test_slide_2_shell",
+        "production_part": "slide_2_cream",
+        "notes": "Exact full production slide2 shell in the actual colour and supported orientation; reusable in the final model. Test the complete rigid insertion path and seating lands after carefully removing supports. Keep dry until the fit is accepted."
+      },
+      {
+        "name": "test_slide_2_insert",
+        "production_part": "slide_2_orange_left",
+        "notes": "Exact full production slide2 insert in the actual colour and supported orientation; reusable in the final model. Test the complete rigid insertion path and seating lands after carefully removing supports. Keep dry until the fit is accepted."
+      }
+    ],
+    "limits": "Actual joint surfaces and production print orientations; cut fixture edges are not cosmetic previews. The complete assembly still needs a physical dry fit."
+  },
+  "status": "PASS"
+}

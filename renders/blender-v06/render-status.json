@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "completed": [
+    "hero",
+    "slide_detail",
+    "opposite",
+    "top",
+    "side_a",
+    "side_b",
+    "head_end",
+    "return_end",
+    "junction"
+  ],
+  "remaining": []
+}

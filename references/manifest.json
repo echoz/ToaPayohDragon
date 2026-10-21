@@ -1,0 +1,1221 @@
+{
+  "schema_version": 1,
+  "target": "1979 Toa Payoh Lorong 6 Dragon Playground; coherent 2025 appearance",
+  "orientation_convention": "Avoid ambiguous front/left/right until model coordinates are solved. Side A means the orange head-face orientation in P01; side B is the opposite orientation in P03/P04. Head-end means snout end; turn-end means the far curved body return. Slides descend toward the body side, so head-end is not called slide-end.",
+  "source_metadata_basis": "Each Commons source page individually parsed for title, author, capture date, original asset URL, license, dimensions and byte count; HTML snapshots retained. Geometry observations require separate visual inspection.",
+  "references": [
+    {
+      "reference_id": "P01",
+      "local_filename": "references/images/commons-2025-01-overall.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 01.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_01.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_01.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:12:13+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:5ab7280b1a475d00e17c050d30722b75e07aa8d346ca67d633b16ce824ffd451",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "oblique",
+        "whole-playground"
+      ],
+      "observations": [
+        "Overall oblique view shows the orange/white head side and its angular panel profile."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P01.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:16:44+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:2c6c7e513d0bb7ecd887264a817fb10e78d74daa13761685dbaecba079302cfc",
+        "byte_size": 114088,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_01.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:55+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1187951671,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 01.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_01.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 3272409
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:16:44+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_01.jpg",
+          "status": "success"
+        }
+      ],
+      "byte_size": 3272409,
+      "last_validated_at": "2026-09-24T01:55:55+00:00",
+      "retrieval_timestamp_basis": "local file mtime; prior manual download",
+      "inspection_method": "Root agent inspected original image pixels via view_image; supplied these observations to the catalogue agent.",
+      "inspected_at": "2026-09-24",
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 3272409,
+      "metadata_verified_at": "2026-09-24T01:55:55+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "reference_id": "P02",
+      "local_filename": "references/images/commons-2025-02.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 02.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_02.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_02.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:05+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:099cbf532b45468e38d72ea0673e14d081a0c85733497d6512d4b4573db46fea",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "head-detail",
+        "side-A",
+        "slide"
+      ],
+      "observations": [
+        "Near view of head outer face A: full main profile, rear crest, octagonal eye and ground-reaching leg. Adjacent slide wall is visible."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Similar direction to P01, with closer head detail; not independent whole-layout coverage."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P02.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:05+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:8be61bc8a13f736d72f952f96cc7cf0b1f93bd6ce996bd93806b8e2b7e383d65",
+        "byte_size": 114366,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_02.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:55+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1171575902,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 02.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_02.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 3024,
+            "height": 4032
+          },
+          "source_reported_byte_size": 2589511
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:05+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_02.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:05+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_02.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "source_reported_byte_size": 2589511,
+      "metadata_verified_at": "2026-09-24T01:55:55+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 2589511,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_02.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:55+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 6,
+      "display_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P03",
+      "local_filename": "references/images/commons-2025-03.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 03.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_03.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_03.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:16+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:1a594ea7427d813aca5137bc2e0c6560f7512e371823b5af08a482e3360b893f",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "whole-playground",
+        "side-B",
+        "slides",
+        "head-ladder",
+        "tail-entry"
+      ],
+      "observations": [
+        "Opposite head side to P01, with the near slide channel and the second slide beyond it, the straight head ladder between a slide and body, and the orange tail wall beside the descending body return.",
+        "Blue inside of the far head panel is visible behind the near orange outer panel."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "High-value reverse oblique. Some support/connection details remain occluded by the body and tail walls."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P03.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:11+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:bd8f854a088a68b4adca3025fffe2fa4922c294cb8585b1c346ee94efdaec654",
+        "byte_size": 113224,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_03.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:55+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1122873077,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 03.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_03.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 4068819
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:11+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_03.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:16+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_03.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 4068819,
+      "metadata_verified_at": "2026-09-24T01:55:55+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 4068819,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_03.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:55+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P04",
+      "local_filename": "references/images/commons-2025-04-head.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 04.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_04.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_04.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:12:14+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:f9f71197bb9d3192c4f18c492a7e0bc042f63909a8445e2fdf75fc3d87602518",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "head-detail",
+        "oblique"
+      ],
+      "observations": [
+        "Close view shows an octagonal through-eye and stepped orange/white color boundaries."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P04.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:16:45+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:69daaf49f9674294bead88861dbe1cbf62aedbfe485aa30bed46d2282040162b",
+        "byte_size": 125686,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_04.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:55+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1189408554,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 04.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_04.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 4592284
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:16:45+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_04.jpg",
+          "status": "success"
+        }
+      ],
+      "byte_size": 4592284,
+      "last_validated_at": "2026-09-24T01:55:55+00:00",
+      "retrieval_timestamp_basis": "local file mtime; prior manual download",
+      "inspection_method": "Root agent inspected original image pixels via view_image; supplied these observations to the catalogue agent.",
+      "inspected_at": "2026-09-24",
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 4592284,
+      "metadata_verified_at": "2026-09-24T01:55:55+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "reference_id": "P05",
+      "local_filename": "references/images/commons-2025-05.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 05.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_05.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_05.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:26+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:7099855a13cb486646797791a02f6749bc6aa52a83894e15620ec7f5838c687e",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "body-profile",
+        "supports",
+        "slide",
+        "tail-entry"
+      ],
+      "observations": [
+        "Side view shows the elevated body varying in height, including a dip between the raised turn and head approach.",
+        "A lower returning arm ends at the paired tail walls behind the near slide; broad tapered piers support the upper run."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Not a straight orthographic elevation; do not measure hoop spacing from screen-space distances."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P05.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:20+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:2da9b094254735e6de73e235c58c383d29a29f420e02e2fd9455cdc33b4ad888",
+        "byte_size": 113227,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_05.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1186738580,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 05.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_05.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 3703248
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:20+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_05.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:26+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_05.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 3703248,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 3703248,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_05.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P06",
+      "local_filename": "references/images/commons-2025-06.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 06.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_06.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_06.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:35+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:a34147590cbbd4e0af817cc3ba283a2acad773a791d22197a0eb08eeecdc5659",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "head-detail",
+        "side-A",
+        "eye"
+      ],
+      "observations": [
+        "Close orange head face shows octagonal eye cut-through, panel thickness at the eye, blue opposite interior through the opening, color-boundary steps and lower supporting leg."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Rear crest and slide partially cropped; similar side to P01/P02."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P06.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:31+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:a45480fe766b22897f77b321de4451d6c4e133dc74b65ad111536007914ee252",
+        "byte_size": 113240,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_06.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1051190196,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 06.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_06.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 3024,
+            "height": 4032
+          },
+          "source_reported_byte_size": 3868466
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:31+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_06.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:35+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_06.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "source_reported_byte_size": 3868466,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 3868466,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_06.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 6,
+      "display_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P07",
+      "local_filename": "references/images/commons-2025-07.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 07.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_07.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_07.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:46+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:02ad83c03f3ba5b217b9c37bc85db1042de58f0067ab76dc29c0a58bc84127b5",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "head-body-junction",
+        "side-A",
+        "head-ladder",
+        "slides",
+        "tail-entry"
+      ],
+      "observations": [
+        "Near head-side oblique exposes the body entering the head, the separate ladder behind the near slide, the second slide behind the body piers, and the returning tail entrance."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Whole far return is cropped; use P11 for turn-end depth."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P07.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:41+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:de09da9ecb74c104e22d93ddc8423050478857d2f52ff04c1bec91e5210b7daa",
+        "byte_size": 125676,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_07.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1030290112,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 07.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_07.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 3473530
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:41+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_07.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:46+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_07.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 3473530,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 3473530,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_07.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P08",
+      "local_filename": "references/images/commons-2025-08-inner-faces.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 08.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_08.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_08.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:13:58+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:e3a8a60e5df5f34f7d3497dd9b6bdd005a44fd0a5eb7086108422df96eaaa14a",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "oblique",
+        "inner-faces"
+      ],
+      "observations": [
+        "Blue interior faces of the pair of head panels are visible, with a slide on image left, foreground tail structure and open body ribs."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P08.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:13:44+00:00",
+        "content_hash": "sha256:6a9ab59d944358d5cccf514835a70bcb9681a48daed3b3fb40389176ad454bf7",
+        "byte_size": 113228,
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "retrieval_timestamp_basis": "local file mtime; prior manual download",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1157813462,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 08.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_08.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 4431251
+        }
+      },
+      "fetch_history": [],
+      "byte_size": 4431251,
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "local file mtime; prior manual download",
+      "inspection_method": "Root agent inspected original image pixels via view_image; supplied these observations to the catalogue agent.",
+      "inspected_at": "2026-09-24",
+      "acquisition_notes": "An initial manual original-image request received HTTP 429 (exact time and Retry-After not recorded). A later paced single request succeeded; no thumbnail or substitute was used.",
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 4431251,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "reference_id": "P09",
+      "local_filename": "references/images/commons-2025-09.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 09.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_09.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_09.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:54:55+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:c4f9b70372b40ae6ee6ac7fa24a90c84a719385facb927b91978b62341c19547",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "whole-playground",
+        "side-A",
+        "base"
+      ],
+      "observations": [
+        "Wide view repeats the P01 orientation, showing near slide, head silhouette, upper body, lower return and sandpit perimeter."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Near-duplicate coverage of P01; valuable context but not a new independent angle."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P09.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:54:51+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:e86778a6e1ad284b35fd0b5d6fcfaf36486bd9af00599fd8aa58f5694b70a8b6",
+        "byte_size": 115214,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_09.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1171295313,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 09.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_09.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 3376553
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:54:51+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_09.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:54:55+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_09.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 3376553,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 3376553,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_09.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "useful"
+    },
+    {
+      "reference_id": "P10",
+      "local_filename": "references/images/commons-2025-10.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 10.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_10.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_10.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:55:05+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:18dcafd32d2cab6673a35d9e93c1e0efde4195dd767541f8614cb2180db2a587",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "distant",
+        "head-end",
+        "context"
+      ],
+      "observations": [
+        "Distant end-biased view shows the paired head outlines and the closing platform/snout-end edge beyond the near panel."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Foreground terrain hides the lower structure. Low geometry-detail value."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P10.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:55:01+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:477cbde41b0fd49dadeeaa7d12e4e6961c1f45bd33cc948411e10186d7e5fe4a",
+        "byte_size": 115528,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_10.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1012655276,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 10.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_10.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 4174263
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:55:01+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_10.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:55:05+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_10.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 4174263,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 4174263,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_10.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "limited_distant"
+    },
+    {
+      "reference_id": "P11",
+      "local_filename": "references/images/commons-2025-11-body-return.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 11.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_11.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_11.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:16:06+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:e7e33c0a81aeac66793a6bdf00de1c4dd5b0db859dbf174379829dfdab93300b",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "oblique",
+        "body-detail"
+      ],
+      "observations": [
+        "Hairpin body return, tapered supporting piers and spatial depth are visible."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P11.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:16:49+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:d8d2f50c3e93c4edf17fdea358d6710afc38a5f75f30787db28df455ef31f8e9",
+        "byte_size": 115022,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_11.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1180193736,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 11.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_11.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 4032,
+            "height": 3024
+          },
+          "source_reported_byte_size": 4361389
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:16:49+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_11.jpg",
+          "status": "success"
+        }
+      ],
+      "byte_size": 4361389,
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "local file mtime; prior manual download",
+      "inspection_method": "Root agent inspected original image pixels via view_image; supplied these observations to the catalogue agent.",
+      "inspected_at": "2026-09-24",
+      "acquisition_notes": "An initial manual original-image request received HTTP 429 (exact time and Retry-After not recorded). A later paced single request succeeded; no thumbnail or substitute was used.",
+      "source_reported_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "source_reported_byte_size": 4361389,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 1,
+      "display_dimensions": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "reference_id": "P12",
+      "local_filename": "references/images/commons-2025-12.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 12.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_12.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_12.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:55:15+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:1635865eb5ad4c5f8938eb0fdcf1cd8ed8f35e8d64ab103c1b114e6e90739cba",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "signage",
+        "exclude-from-geometry"
+      ],
+      "observations": [
+        "Oblique photograph of the heritage-trail sign."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Sign photograph, not a view of playground geometry. Do not count as geometric coverage."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P12.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:55:11+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:674e66cb9e3b116235bdafbb3dc51a4640eff547ce4c5c5e41fa9fdb08446a7f",
+        "byte_size": 113217,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_12.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1185980722,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 12.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_12.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 3024,
+            "height": 4032
+          },
+          "source_reported_byte_size": 4630708
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:55:11+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_12.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:55:15+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_12.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "source_reported_byte_size": 4630708,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 4630708,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_12.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 6,
+      "display_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "excluded_signage"
+    },
+    {
+      "reference_id": "P13",
+      "local_filename": "references/images/commons-2025-13.jpg",
+      "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 13.jpg",
+      "author": "Chainwit.",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+      "capture_date": "2025-03-22",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_13.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_13.jpg",
+      "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved_at": "2026-09-24T01:55:26+00:00",
+      "fetch_status": "available",
+      "pixel_dimensions": {
+        "width": 4032,
+        "height": 3024
+      },
+      "content_hash": "sha256:8100910cae523100e1b2a4504646b096084dcdd5279384f9275afbba4c209add",
+      "inspection_status": "visually_inspected",
+      "view_classification": [
+        "signage",
+        "exclude-from-geometry"
+      ],
+      "observations": [
+        "Frontal heritage-trail sign with photographs, stylized illustration and historical drawings."
+      ],
+      "limitations": [
+        "Perspective photograph, not a measured drawing.",
+        "Hidden or occluded geometry cannot be established from this image alone.",
+        "Sign imagery includes other/historical playground versions and is not a measured drawing of the current object. Exclude from geometry coverage."
+      ],
+      "modifications": "None. The downloaded original is preserved unchanged.",
+      "source_page": {
+        "local_filename": "references/pages/P13.html",
+        "fetch_status": "available",
+        "retrieved_at": "2026-09-24T01:55:21+00:00",
+        "retrieval_timestamp_basis": "request started (UTC)",
+        "content_hash": "sha256:ac7771e126192cc6a3b874591be07d30259867e1bed30984984994225734bd69",
+        "byte_size": 115034,
+        "resolved_url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_13.jpg",
+        "content_type": "text/html; charset=UTF-8",
+        "last_validated_at": "2026-09-24T01:55:56+00:00",
+        "metadata_markers_verified": true,
+        "metadata_extraction_method": "Commons RLCONF structured-data statements and ImageObject JSON-LD; original contentUrl query removed",
+        "page_revision_id": 1157208442,
+        "extracted_metadata": {
+          "original_title": "Original \"Toa Payoh Dragon Playground\", Singapore (2025) - img 13.jpg",
+          "author": "Chainwit.",
+          "author_url": "https://commons.wikimedia.org/wiki/User:Chainwit.",
+          "capture_date": "2025-03-22",
+          "asset_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_13.jpg",
+          "license_name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_reported_dimensions": {
+            "width": 3024,
+            "height": 4032
+          },
+          "source_reported_byte_size": 3307802
+        }
+      },
+      "fetch_history": [
+        {
+          "kind": "page",
+          "at": "2026-09-24T01:55:21+00:00",
+          "url": "https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_13.jpg",
+          "status": "success"
+        },
+        {
+          "kind": "image",
+          "at": "2026-09-24T01:55:26+00:00",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_13.jpg",
+          "status": "success"
+        }
+      ],
+      "source_reported_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "source_reported_byte_size": 3307802,
+      "metadata_verified_at": "2026-09-24T01:55:56+00:00",
+      "retrieval_timestamp_basis": "request started (UTC)",
+      "byte_size": 3307802,
+      "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_13.jpg",
+      "content_type": "image/jpeg",
+      "last_validated_at": "2026-09-24T01:55:56+00:00",
+      "matches_source_reported_dimensions_and_size": true,
+      "exif_orientation": 6,
+      "display_dimensions": {
+        "width": 3024,
+        "height": 4032
+      },
+      "inspection_method": "Root inspected the actual local original using view_image (EXIF orientation honored by viewer).",
+      "inspected_at": "2026-09-24T02:00:00+00:00",
+      "geometry_coverage_use": "excluded_signage"
+    }
+  ],
+  "host_cooldowns": {},
+  "updated_at": "2026-09-24T02:00:00+00:00",
+  "project_use_notes": "The user prioritizes a recognizable, cute stylization. All modeling is stopped pending Blender MCP; this catalogue expansion only collects real photographic evidence. Observations describe source photos, not claims of final-model fidelity.",
+  "collection": {
+    "source_page_url": "https://commons.wikimedia.org/wiki/Category:Toa_Payoh_Dragon_Playground",
+    "requested_series": "Original \"Toa Payoh Dragon Playground\", Singapore (2025), img 01–13",
+    "requested_reference_count": 13,
+    "original_images_available": 13,
+    "source_pages_available": 13,
+    "inventory_note": "Category was checked via web on 2026-09-24 UTC: it listed these 13 numbered 2025 files and 3 other files. The 3 other files were not acquired in this pass."
+  }
+}

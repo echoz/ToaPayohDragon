@@ -1,0 +1,315 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "playground": {
+    "min_mm": [
+      -109.48006808757782,
+      -57.296689599752426,
+      0.0
+    ],
+    "max_mm": [
+      120.51993608474731,
+      98.06656837463379,
+      87.71209418773651
+    ],
+    "dimensions_mm": [
+      230.00000417232513,
+      155.36325797438622,
+      87.71209418773651
+    ]
+  },
+  "including_base": {
+    "min_mm": [
+      -124.0798756480217,
+      -65.24889916181564,
+      -7.48757878318429
+    ],
+    "max_mm": [
+      134.77641344070435,
+      109.10472273826599,
+      87.71209418773651
+    ],
+    "dimensions_mm": [
+      258.85628908872604,
+      174.35362190008163,
+      95.1996729709208
+    ]
+  },
+  "evaluated_visible_mesh_count": 81,
+  "rib_count": 18,
+  "rail_count": 4,
+  "slide_channels": 2,
+  "non_manifold_object_results": [],
+  "eye_openings": [
+    {
+      "object": "HEAD_A_CreamPanel",
+      "centre_ray_clear": true
+    },
+    {
+      "object": "HEAD_A_OrangeExterior",
+      "centre_ray_clear": true
+    },
+    {
+      "object": "HEAD_A_BlueInterior",
+      "centre_ray_clear": true
+    },
+    {
+      "object": "HEAD_B_CreamPanel",
+      "centre_ray_clear": true
+    },
+    {
+      "object": "HEAD_B_OrangeExterior",
+      "centre_ray_clear": true
+    },
+    {
+      "object": "HEAD_B_BlueInterior",
+      "centre_ray_clear": true
+    }
+  ],
+  "support_connections": [
+    {
+      "support": "PIER_01_cream",
+      "rib": "BODY_Rib_03",
+      "intersecting_triangle_pairs": 124,
+      "connected": true
+    },
+    {
+      "support": "PIER_02_cream",
+      "rib": "BODY_Rib_06",
+      "intersecting_triangle_pairs": 124,
+      "connected": true
+    },
+    {
+      "support": "PIER_03_cream",
+      "rib": "BODY_Rib_09",
+      "intersecting_triangle_pairs": 124,
+      "connected": true
+    },
+    {
+      "support": "PIER_04_cream",
+      "rib": "BODY_Rib_13",
+      "intersecting_triangle_pairs": 124,
+      "connected": true
+    },
+    {
+      "support": "PIER_05_cream",
+      "rib": "BODY_Rib_16",
+      "intersecting_triangle_pairs": 124,
+      "connected": true
+    }
+  ],
+  "limitations": [
+    "Individual mesh-edge checks do not prove assembly printability.",
+    "Intended overlaps are not boolean-unioned into print parts.",
+    "Head-panel snout overlap and separate decorative inserts remain prototype geometry.",
+    "Self-intersections, minimum thickness, clearance coupons, slicer setup and physical fit are not comprehensively validated.",
+    "Support count, dimensions and exact layout are estimated; no measured reconstruction claim."
+  ],
+  "hoop_topology": [
+    {
+      "object": "BODY_Rib_01",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_02",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_03",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_04",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_05",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_06",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_07",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_08",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_09",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_10",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_11",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_12",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_13",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_14",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_15",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_16",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_17",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    },
+    {
+      "object": "BODY_Rib_18",
+      "euler_characteristic": 0,
+      "closed_hoop": true
+    }
+  ],
+  "mouth_and_cheek_backing": [
+    {
+      "object": "HEAD_A_CreamPanel",
+      "point_xz": [
+        98,
+        40
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_A_CreamPanel",
+      "point_xz": [
+        104,
+        38
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_A_CreamPanel",
+      "point_xz": [
+        103,
+        30
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_A_CreamPanel",
+      "point_xz": [
+        68,
+        39
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_B_CreamPanel",
+      "point_xz": [
+        98,
+        40
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_B_CreamPanel",
+      "point_xz": [
+        104,
+        38
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_B_CreamPanel",
+      "point_xz": [
+        103,
+        30
+      ],
+      "solid_backing": true
+    },
+    {
+      "object": "HEAD_B_CreamPanel",
+      "point_xz": [
+        68,
+        39
+      ],
+      "solid_backing": true
+    }
+  ],
+  "slide_support_geometry": [
+    {
+      "object": "SLIDE_1_wall_-1",
+      "grounded_lower_run_samples": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "upper_cutout_open": true,
+      "upper_connection_solid": true,
+      "channel_intersects_wall": true
+    },
+    {
+      "object": "SLIDE_1_wall_1",
+      "grounded_lower_run_samples": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "upper_cutout_open": true,
+      "upper_connection_solid": true,
+      "channel_intersects_wall": true
+    },
+    {
+      "object": "SLIDE_2_wall_-1",
+      "grounded_lower_run_samples": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "upper_cutout_open": true,
+      "upper_connection_solid": true,
+      "channel_intersects_wall": true
+    },
+    {
+      "object": "SLIDE_2_wall_1",
+      "grounded_lower_run_samples": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "upper_cutout_open": true,
+      "upper_connection_solid": true,
+      "channel_intersects_wall": true
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "target_length_mm": 230,
+  "scale_factor": 1.0696541014508294,
+  "rib_count": 18,
+  "support_count": 5,
+  "slide_count": 2,
+  "object_count": 97,
+  "parameters": {
+    "target_length_mm": 230.0,
+    "rib_count": 18,
+    "rib_radius_mm": 2.4,
+    "rib_half_width_mm": 9.5,
+    "rib_height_mm": 26.0,
+    "rail_radius_mm": 0.7,
+    "rib_profile": "closed oval hoop",
+    "rib_axial_radius_mm": 2.6,
+    "rail_count": 4,
+    "slide_toe_lift_mm": 2.7,
+    "slide_wall_thickness_mm": 2.4,
+    "body_path_mm": [
+      [
+        62,
+        2,
+        40
+      ],
+      [
+        22,
+        0,
+        36
+      ],
+      [
+        -35,
+        0,
+        42
+      ],
+      [
+        -80,
+        15,
+        43
+      ],
+      [
+        -92,
+        42,
+        40
+      ],
+      [
+        -72,
+        64,
+        33
+      ],
+      [
+        -28,
+        63,
+        23
+      ],
+      [
+        16,
+        42,
+        3.4
+      ]
+    ],
+    "support_fractions": [
+      0.11764705882352941,
+      0.29411764705882354,
+      0.47058823529411764,
+      0.7058823529411765,
+      0.8823529411764706
+    ]
+  },
+  "blender_version": "5.2.2 LTS",
+  "slide_support": "Ground-bearing lower 65 percent with stepped upper cutout; deeper 8 mm toe and 2.4 mm cheeks",
+  "print_status": "Not assessed; editable visual prototype"
+}

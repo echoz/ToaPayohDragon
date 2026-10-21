@@ -1,0 +1,6 @@
+# Authoring-machine snapshot; cross-platform rebuilding is not yet verified.
+manifold3d==3.5.3
+numpy==2.5.3
+pillow==12.3.0
+shapely==2.1.2
+trimesh==5.1.0

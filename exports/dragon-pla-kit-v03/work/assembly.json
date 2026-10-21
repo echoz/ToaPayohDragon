@@ -1,0 +1,472 @@
+[
+  {
+    "name": "body_hoop_01",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_01.npz"
+  },
+  {
+    "name": "body_hoop_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_02.npz"
+  },
+  {
+    "name": "body_hoop_03",
+    "color": "sage",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_03.npz"
+  },
+  {
+    "name": "body_hoop_04",
+    "color": "sage",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_04.npz"
+  },
+  {
+    "name": "body_hoop_05",
+    "color": "red",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_05.npz"
+  },
+  {
+    "name": "body_hoop_06",
+    "color": "red",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_06.npz"
+  },
+  {
+    "name": "body_hoop_07",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_07.npz"
+  },
+  {
+    "name": "body_hoop_08",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_08.npz"
+  },
+  {
+    "name": "body_hoop_09",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_09.npz"
+  },
+  {
+    "name": "body_hoop_10",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_10.npz"
+  },
+  {
+    "name": "body_hoop_11",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_11.npz"
+  },
+  {
+    "name": "body_hoop_12",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_12.npz"
+  },
+  {
+    "name": "body_hoop_13",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_13.npz"
+  },
+  {
+    "name": "body_hoop_14",
+    "color": "sage",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_14.npz"
+  },
+  {
+    "name": "body_hoop_15",
+    "color": "red",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_15.npz"
+  },
+  {
+    "name": "body_hoop_16",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_16.npz"
+  },
+  {
+    "name": "body_hoop_17",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_17.npz"
+  },
+  {
+    "name": "body_hoop_18",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_hoop_18.npz"
+  },
+  {
+    "name": "body_beam_01",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_beam_01.npz"
+  },
+  {
+    "name": "body_beam_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_beam_02.npz"
+  },
+  {
+    "name": "body_beam_03",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_beam_03.npz"
+  },
+  {
+    "name": "body_beam_04",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_beam_04.npz"
+  },
+  {
+    "name": "body_rail_01_section_01",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_01_section_01.npz"
+  },
+  {
+    "name": "body_rail_01_section_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_01_section_02.npz"
+  },
+  {
+    "name": "body_rail_01_section_03",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_01_section_03.npz"
+  },
+  {
+    "name": "body_rail_01_section_04",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_01_section_04.npz"
+  },
+  {
+    "name": "body_rail_02_section_01",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_02_section_01.npz"
+  },
+  {
+    "name": "body_rail_02_section_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_02_section_02.npz"
+  },
+  {
+    "name": "body_rail_02_section_03",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_02_section_03.npz"
+  },
+  {
+    "name": "body_rail_02_section_04",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_02_section_04.npz"
+  },
+  {
+    "name": "body_rail_03_section_01",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_03_section_01.npz"
+  },
+  {
+    "name": "body_rail_03_section_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_03_section_02.npz"
+  },
+  {
+    "name": "body_rail_03_section_03",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_03_section_03.npz"
+  },
+  {
+    "name": "body_rail_03_section_04",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_03_section_04.npz"
+  },
+  {
+    "name": "body_rail_04_section_01",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_04_section_01.npz"
+  },
+  {
+    "name": "body_rail_04_section_02",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_04_section_02.npz"
+  },
+  {
+    "name": "body_rail_04_section_03",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_04_section_03.npz"
+  },
+  {
+    "name": "body_rail_04_section_04",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/body_rail_04_section_04.npz"
+  },
+  {
+    "name": "head_A_cream_outer",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_A_cream_outer.npz"
+  },
+  {
+    "name": "head_A_cream_inner",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_A_cream_inner.npz"
+  },
+  {
+    "name": "head_A_orange",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_A_orange.npz"
+  },
+  {
+    "name": "head_A_blue",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_A_blue.npz"
+  },
+  {
+    "name": "head_B_cream_outer",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_B_cream_outer.npz"
+  },
+  {
+    "name": "head_B_cream_inner",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_B_cream_inner.npz"
+  },
+  {
+    "name": "head_B_orange",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_B_orange.npz"
+  },
+  {
+    "name": "head_B_blue",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_B_blue.npz"
+  },
+  {
+    "name": "head_platform_snout",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/head_platform_snout.npz"
+  },
+  {
+    "name": "slide_1_orange_left",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_1_orange_left.npz"
+  },
+  {
+    "name": "slide_1_orange_right",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_1_orange_right.npz"
+  },
+  {
+    "name": "slide_1_peg",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_1_peg.npz"
+  },
+  {
+    "name": "slide_1_cream",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_1_cream.npz"
+  },
+  {
+    "name": "slide_2_orange_left",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_2_orange_left.npz"
+  },
+  {
+    "name": "slide_2_orange_right",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_2_orange_right.npz"
+  },
+  {
+    "name": "slide_2_peg",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_2_peg.npz"
+  },
+  {
+    "name": "slide_2_cream",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/slide_2_cream.npz"
+  },
+  {
+    "name": "pier_01_back_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_01_back_half.npz"
+  },
+  {
+    "name": "pier_01_front_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_01_front_half.npz"
+  },
+  {
+    "name": "pier_01_back_inlay",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_01_back_inlay.npz"
+  },
+  {
+    "name": "pier_01_front_inlay",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_01_front_inlay.npz"
+  },
+  {
+    "name": "pier_02_back_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_02_back_half.npz"
+  },
+  {
+    "name": "pier_02_front_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_02_front_half.npz"
+  },
+  {
+    "name": "pier_02_back_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_02_back_inlay.npz"
+  },
+  {
+    "name": "pier_02_front_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_02_front_inlay.npz"
+  },
+  {
+    "name": "pier_03_back_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_03_back_half.npz"
+  },
+  {
+    "name": "pier_03_front_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_03_front_half.npz"
+  },
+  {
+    "name": "pier_03_back_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_03_back_inlay.npz"
+  },
+  {
+    "name": "pier_03_front_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_03_front_inlay.npz"
+  },
+  {
+    "name": "pier_04_back_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_04_back_half.npz"
+  },
+  {
+    "name": "pier_04_front_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_04_front_half.npz"
+  },
+  {
+    "name": "pier_04_back_inlay",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_04_back_inlay.npz"
+  },
+  {
+    "name": "pier_04_front_inlay",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_04_front_inlay.npz"
+  },
+  {
+    "name": "pier_05_back_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_05_back_half.npz"
+  },
+  {
+    "name": "pier_05_front_half",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_05_front_half.npz"
+  },
+  {
+    "name": "pier_05_back_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_05_back_inlay.npz"
+  },
+  {
+    "name": "pier_05_front_inlay",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/pier_05_front_inlay.npz"
+  },
+  {
+    "name": "tail_A_cream_outer",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_A_cream_outer.npz"
+  },
+  {
+    "name": "tail_A_cream_inner",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_A_cream_inner.npz"
+  },
+  {
+    "name": "tail_A_orange",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_A_orange.npz"
+  },
+  {
+    "name": "tail_A_blue",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_A_blue.npz"
+  },
+  {
+    "name": "tail_A_cream_handrail",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_A_cream_handrail.npz"
+  },
+  {
+    "name": "tail_B_cream_outer",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_B_cream_outer.npz"
+  },
+  {
+    "name": "tail_B_cream_inner",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_B_cream_inner.npz"
+  },
+  {
+    "name": "tail_B_orange",
+    "color": "orange",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_B_orange.npz"
+  },
+  {
+    "name": "tail_B_blue",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_B_blue.npz"
+  },
+  {
+    "name": "tail_B_cream_handrail",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_B_cream_handrail.npz"
+  },
+  {
+    "name": "tail_threshold_landing",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/tail_threshold_landing.npz"
+  },
+  {
+    "name": "ladder_blue_frame",
+    "color": "blue",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/ladder_blue_frame.npz"
+  },
+  {
+    "name": "ladder_cream_tread_comb",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/ladder_cream_tread_comb.npz"
+  },
+  {
+    "name": "base_join_key_01",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_join_key_01.npz"
+  },
+  {
+    "name": "base_join_key_02",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_join_key_02.npz"
+  },
+  {
+    "name": "base_left_tray",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_left_tray.npz"
+  },
+  {
+    "name": "base_left_sand",
+    "color": "sand",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_left_sand.npz"
+  },
+  {
+    "name": "base_right_tray",
+    "color": "cream",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_right_tray.npz"
+  },
+  {
+    "name": "base_right_sand",
+    "color": "sand",
+    "file": "/Users/jeremy/Documents/Codex/Dragon/exports/dragon-pla-kit-v03/work/assembly/base_right_sand.npz"
+  }
+]
