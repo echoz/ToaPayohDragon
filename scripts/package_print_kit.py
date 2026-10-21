@@ -3,6 +3,10 @@ from pathlib import Path
 import json,zipfile,hashlib,shutil
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'exports/dragon-pla-kit-v03'
+license_files=[ROOT/'LICENSE.txt',ROOT/'LICENSE-SCOPE.md']
+for license_file in license_files:
+ if not license_file.is_file():
+  raise FileNotFoundError(f'Missing package notice: {license_file.name}')
 m=json.loads((OUT/'manifest.json').read_text())
 assert m['validation']['slicer_status']==f'passed_all_{len(m["plates"])}_plates'
 assert not m['inter_part_overlaps']
@@ -32,6 +36,8 @@ if 'manifest_sha256' in audit:
 audit['manifest']='manifest.json'
 audit['manifest_note']='Audit used the geometry export manifest before slicing metadata was appended. Individual STL hashes were rechecked during packaging; SHA256SUMS.txt covers the final manifest.'
 audit_path.write_text(json.dumps(audit,indent=2))
+for license_file in license_files:
+ shutil.copy2(license_file,OUT/license_file.name)
 files=sorted(p for p in OUT.rglob('*') if p.is_file() and 'work' not in p.relative_to(OUT).parts and p.name!='SHA256SUMS.txt')
 (OUT/'SHA256SUMS.txt').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+str(p.relative_to(OUT))+'\n' for p in files))
 files.append(OUT/'SHA256SUMS.txt')

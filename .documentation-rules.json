@@ -4,7 +4,8 @@
   "modules": [],
   "excludedModules": [],
   "documents": [
-    "README.md"
+    "README.md",
+    "LICENSE-SCOPE.md"
   ],
   "deliverables": [
     {

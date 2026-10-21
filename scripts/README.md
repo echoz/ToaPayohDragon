@@ -55,6 +55,13 @@ be overwritten. Source-only checks are not equivalent to auditing delivered STLs
    evidence, writes final checksums and replaces `exports/dragon-pla-kit-v03.zip`.
    Reference photographs and build scratch are excluded.
 
+The packager requires the root `LICENSE.txt` and `LICENSE-SCOPE.md`, copies both
+into the package and covers them in its checksums. The currently published v03
+archive predates those notices and remains unchanged; its root-level notices
+apply to the covered materials inside it. Do not run the packager over that
+published artifact merely to add notices. Prepare a separately identified future
+candidate and update the fixed output paths before publishing a rebuilt package.
+
 Delivered-geometry audit commands:
 
 ```sh
@@ -93,7 +100,7 @@ when provisioning another machine; do not copy an unpinned checker into Dragon.
 Exit 0 means the configured documentation scope passed, 1 means findings, and 2
 means configuration, dependency or wrapper failure. The
 [schema 2 inventory](../.documentation-rules.json) checks four distinct
-source-root READMEs plus the project overview. It has no directory-module
+source-root READMEs plus the project overview and license scope notice. It has no directory-module
 inventory or exclusions: the current Python stages and geometry helpers share
 their owners' guides. This is not an automatic inventory of every file.
 

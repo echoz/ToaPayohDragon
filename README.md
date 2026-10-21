@@ -20,6 +20,13 @@ Prepared for a **Bambu Lab X1 Carbon with a 0.4 mm nozzle and PLA**. Six colours
 
 The kit ZIP is the existing validated artifact; publication does not regenerate its geometry. SHA-256: `614826200cf5f60f3b15884abf88248671c4207a51d37d3097c312009f65d972`.
 
+The original design, meshes, documentation and renders are available under
+**CC BY-NC-SA 4.0** for noncommercial printing, sharing and remixes. Give credit,
+indicate changes and follow its ShareAlike terms. Read the
+[license scope and attribution](LICENSE-SCOPE.md) for coverage and exclusions.
+The unchanged v03 ZIP predates this notice; save the accompanying
+[license](LICENSE.txt) and [scope notice](LICENSE-SCOPE.md) with your download.
+
 ## Shape and source
 
 The model captures the playground’s gist rather than reproducing it to survey accuracy. The printable version has 15 closed puffy hoops and three open tail rungs, a photo-informed head and slides, and a split display base. The playground length is approximately 230 mm, excluding the base.

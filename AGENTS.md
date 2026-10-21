@@ -23,3 +23,15 @@ Retain required source meshes and restored assembly meshes under `exports/`.
 The website publishes only `site/`. Use actual CAD renders and label concepts
 separately. Keep fit-test-candidate status and support requirements explicit.
 Digital checks do not establish physical printing, fit or support removal.
+
+The website uses its own playground-inspired identity: bold orange and blue,
+organic curves, flowing section transitions and rounded typography. The user
+requested that the whole composition echo the dragon's winding shape, rather than
+placing loop decorations on rigid rectangular panels. Keep mosaic details subtle
+and give the page a distinct identity from Perch.
+
+`LICENSE.txt` is the unmodified CC BY-NC-SA 4.0 license approved by the user on
+2026-10-20. `LICENSE-SCOPE.md` owns coverage, exclusions and attribution, matching
+Perch's distinction between original design material and implementation helpers.
+Do not call this an open-source software license. Keep notices beside downloads,
+include both files in future packages, and preserve the existing checked v03 ZIP.
