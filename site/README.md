@@ -7,11 +7,14 @@ shows actual CAD previews and links to its print kit, guides and license notices
 ## Visual identity and files
 
 The website has its own playground-inspired identity: cobalt blue, orange and white,
-bold signage typography, rectangular display boards, mosaic grid accents and
-geometric rib motifs. Its composition and styles are independent of Perch.
+rounded typography, winding curves and open, staggered compositions. Broad waves
+connect sections; asymmetric curved surfaces and softened image corners frame the
+CAD renders at their original aspect ratios. The page follows the dragon’s organic silhouette, with
+restrained loop motifs, pill actions and roomy print information. Its composition
+and styles are independent of Perch.
 
 - `index.html` owns the content, navigation, image gallery and kit/license links.
-- `styles.css` owns the responsive display boards, typography and decorative motifs.
+- `styles.css` owns the responsive flowing layout, typography and decorative motifs.
 - `assets/` contains unchanged WebP encodings of the four original v03 preview PNGs.
 - `.nojekyll` keeps this directory suitable for static GitHub Pages hosting.
 
@@ -41,6 +44,8 @@ saving both notices with the download. Future packages should include the notice
 Run the repository's publication and documentation checks. Check resource paths,
 fragment targets, keyboard navigation, visible focus and reduced-motion behaviour.
 Review mobile, tablet and desktop layouts at 320, 390, 768 and 1280 pixels. Confirm
-that the CAD images load and no page content causes horizontal scrolling. Verify
+that all four CAD images load, their softened corners keep model details visible,
+and no page content causes horizontal scrolling. Check that the staggered gallery and broad section curves remain clear
+on small screens and that decoration stays outside reading areas. Verify
 the download, guide, attribution and license links against the published repository.
 Browser verification does not validate the printable model.
