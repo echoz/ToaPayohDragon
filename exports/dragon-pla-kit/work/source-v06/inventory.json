@@ -1,0 +1,569 @@
+[
+  {
+    "name": "HEAD_A_CreamPanel",
+    "file": "HEAD_A_CreamPanel.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1226,
+    "triangles": 2452
+  },
+  {
+    "name": "HEAD_A_OrangeExterior",
+    "file": "HEAD_A_OrangeExterior.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 1138,
+    "triangles": 2276
+  },
+  {
+    "name": "HEAD_A_BlueInterior",
+    "file": "HEAD_A_BlueInterior.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1138,
+    "triangles": 2276
+  },
+  {
+    "name": "HEAD_A_OuterEyeSurround",
+    "file": "HEAD_A_OuterEyeSurround.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 608,
+    "triangles": 1216
+  },
+  {
+    "name": "HEAD_A_InnerEyeSurround",
+    "file": "HEAD_A_InnerEyeSurround.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 608,
+    "triangles": 1216
+  },
+  {
+    "name": "HEAD_B_CreamPanel",
+    "file": "HEAD_B_CreamPanel.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1226,
+    "triangles": 2452
+  },
+  {
+    "name": "HEAD_B_OrangeExterior",
+    "file": "HEAD_B_OrangeExterior.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 1138,
+    "triangles": 2276
+  },
+  {
+    "name": "HEAD_B_BlueInterior",
+    "file": "HEAD_B_BlueInterior.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1138,
+    "triangles": 2276
+  },
+  {
+    "name": "HEAD_B_OuterEyeSurround",
+    "file": "HEAD_B_OuterEyeSurround.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 608,
+    "triangles": 1216
+  },
+  {
+    "name": "HEAD_B_InnerEyeSurround",
+    "file": "HEAD_B_InnerEyeSurround.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 608,
+    "triangles": 1216
+  },
+  {
+    "name": "HEAD_Shared platform",
+    "file": "HEAD_Shared platform.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "HEAD_Snout closing wall",
+    "file": "HEAD_Snout closing wall.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "BODY_Rib_01",
+    "file": "BODY_Rib_01.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_02",
+    "file": "BODY_Rib_02.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_03",
+    "file": "BODY_Rib_03.npz",
+    "material": "DRAGON sage.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_04",
+    "file": "BODY_Rib_04.npz",
+    "material": "DRAGON sage.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_05",
+    "file": "BODY_Rib_05.npz",
+    "material": "DRAGON red.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_06",
+    "file": "BODY_Rib_06.npz",
+    "material": "DRAGON red.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_07",
+    "file": "BODY_Rib_07.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_08",
+    "file": "BODY_Rib_08.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_09",
+    "file": "BODY_Rib_09.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_10",
+    "file": "BODY_Rib_10.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_11",
+    "file": "BODY_Rib_11.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_12",
+    "file": "BODY_Rib_12.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_13",
+    "file": "BODY_Rib_13.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_14",
+    "file": "BODY_Rib_14.npz",
+    "material": "DRAGON sage.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_15",
+    "file": "BODY_Rib_15.npz",
+    "material": "DRAGON red.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_16",
+    "file": "BODY_Rib_16.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_17",
+    "file": "BODY_Rib_17.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rib_18",
+    "file": "BODY_Rib_18.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 1920,
+    "triangles": 3840
+  },
+  {
+    "name": "BODY_Rail_01",
+    "file": "BODY_Rail_01.npz",
+    "material": "DRAGON rail.010",
+    "vertices": 2892,
+    "triangles": 5780
+  },
+  {
+    "name": "BODY_Rail_02",
+    "file": "BODY_Rail_02.npz",
+    "material": "DRAGON rail.010",
+    "vertices": 2892,
+    "triangles": 5780
+  },
+  {
+    "name": "BODY_Rail_03",
+    "file": "BODY_Rail_03.npz",
+    "material": "DRAGON rail.010",
+    "vertices": 2892,
+    "triangles": 5780
+  },
+  {
+    "name": "BODY_Rail_04",
+    "file": "BODY_Rail_04.npz",
+    "material": "DRAGON rail.010",
+    "vertices": 2892,
+    "triangles": 5780
+  },
+  {
+    "name": "PIER_01_cream",
+    "file": "PIER_01_cream.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_01_inset_-1",
+    "file": "PIER_01_inset_-1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_01_inset_1",
+    "file": "PIER_01_inset_1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_02_cream",
+    "file": "PIER_02_cream.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_02_inset_-1",
+    "file": "PIER_02_inset_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_02_inset_1",
+    "file": "PIER_02_inset_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_03_cream",
+    "file": "PIER_03_cream.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_03_inset_-1",
+    "file": "PIER_03_inset_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_03_inset_1",
+    "file": "PIER_03_inset_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_04_cream",
+    "file": "PIER_04_cream.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_04_inset_-1",
+    "file": "PIER_04_inset_-1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_04_inset_1",
+    "file": "PIER_04_inset_1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_05_cream",
+    "file": "PIER_05_cream.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_05_inset_-1",
+    "file": "PIER_05_inset_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "PIER_05_inset_1",
+    "file": "PIER_05_inset_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "SLIDE_1_channel",
+    "file": "SLIDE_1_channel.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1232,
+    "triangles": 2460
+  },
+  {
+    "name": "SLIDE_1_wall_-1",
+    "file": "SLIDE_1_wall_-1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 15914,
+    "triangles": 31824
+  },
+  {
+    "name": "SLIDE_1_orange_-1",
+    "file": "SLIDE_1_orange_-1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 15914,
+    "triangles": 31824
+  },
+  {
+    "name": "SLIDE_1_wall_1",
+    "file": "SLIDE_1_wall_1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 15914,
+    "triangles": 31824
+  },
+  {
+    "name": "SLIDE_1_orange_1",
+    "file": "SLIDE_1_orange_1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 15914,
+    "triangles": 31824
+  },
+  {
+    "name": "SLIDE_2_channel",
+    "file": "SLIDE_2_channel.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 1232,
+    "triangles": 2460
+  },
+  {
+    "name": "SLIDE_2_wall_-1",
+    "file": "SLIDE_2_wall_-1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 17642,
+    "triangles": 35280
+  },
+  {
+    "name": "SLIDE_2_orange_-1",
+    "file": "SLIDE_2_orange_-1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 17642,
+    "triangles": 35280
+  },
+  {
+    "name": "SLIDE_2_wall_1",
+    "file": "SLIDE_2_wall_1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 17642,
+    "triangles": 35280
+  },
+  {
+    "name": "SLIDE_2_orange_1",
+    "file": "SLIDE_2_orange_1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 17642,
+    "triangles": 35280
+  },
+  {
+    "name": "LADDER_Stringer_-1",
+    "file": "LADDER_Stringer_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 24,
+    "triangles": 44
+  },
+  {
+    "name": "LADDER_Handrail_-1",
+    "file": "LADDER_Handrail_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 444,
+    "triangles": 884
+  },
+  {
+    "name": "LADDER_Stringer_1",
+    "file": "LADDER_Stringer_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 24,
+    "triangles": 44
+  },
+  {
+    "name": "LADDER_Handrail_1",
+    "file": "LADDER_Handrail_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 444,
+    "triangles": 884
+  },
+  {
+    "name": "LADDER_Tread_01",
+    "file": "LADDER_Tread_01.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_02",
+    "file": "LADDER_Tread_02.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_03",
+    "file": "LADDER_Tread_03.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_04",
+    "file": "LADDER_Tread_04.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_05",
+    "file": "LADDER_Tread_05.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_06",
+    "file": "LADDER_Tread_06.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_07",
+    "file": "LADDER_Tread_07.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_08",
+    "file": "LADDER_Tread_08.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "LADDER_Tread_09",
+    "file": "LADDER_Tread_09.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "TAIL_Wall_-1",
+    "file": "TAIL_Wall_-1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Orange_-1",
+    "file": "TAIL_Orange_-1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Blue_-1",
+    "file": "TAIL_Blue_-1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Wall_1",
+    "file": "TAIL_Wall_1.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Orange_1",
+    "file": "TAIL_Orange_1.npz",
+    "material": "DRAGON orange.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Blue_1",
+    "file": "TAIL_Blue_1.npz",
+    "material": "DRAGON blue.010",
+    "vertices": 128,
+    "triangles": 252
+  },
+  {
+    "name": "TAIL_Low threshold",
+    "file": "TAIL_Low threshold.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 96,
+    "triangles": 188
+  },
+  {
+    "name": "BASE_Porcelain rim",
+    "file": "BASE_Porcelain rim.npz",
+    "material": "DRAGON cream.010",
+    "vertices": 416,
+    "triangles": 828
+  },
+  {
+    "name": "BASE_Sand inset",
+    "file": "BASE_Sand inset.npz",
+    "material": "DRAGON sand.010",
+    "vertices": 416,
+    "triangles": 828
+  }
+]

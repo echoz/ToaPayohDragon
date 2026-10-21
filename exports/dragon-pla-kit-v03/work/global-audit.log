@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "individual_files": 132,
+  "production_parts": 94,
+  "pair_intersection_reporting_threshold_mm3": 0.015,
+  "inter_part_overlaps": [],
+  "physical_fit": "not tested"
+}

@@ -1,0 +1,15 @@
+{
+  "printer": "Bambu Lab X1 Carbon",
+  "nozzle_mm": 0.4,
+  "material": "Generic PLA",
+  "layer_height_mm": 0.16,
+  "process_base": "0.16mm High Quality @BBL X1C",
+  "plate_assumption": "Textured PEI Plate; user must select their actual plate",
+  "supports": "automatic tree supports, build plate only, 25 degree threshold",
+  "brim_mm": 3,
+  "wall_loops": 3,
+  "infill_percent": 15,
+  "profile_source": "/tmp/dragon-bambu-volume/BambuStudio.app/Contents/Resources/profiles/BBL",
+  "documentation": "https://github.com/bambulab/BambuStudio/wiki/Command-Line-Usage",
+  "printer_communication": "None. Offline validation only; no G-code delivered for direct printing."
+}

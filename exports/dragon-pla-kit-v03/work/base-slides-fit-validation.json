@@ -1,0 +1,2781 @@
+{
+  "pier_seats": [
+    {
+      "pier": 1,
+      "beam": 1,
+      "down_to_contact_mm": 9e-06,
+      "side_to_contact_mm": [
+        0.215903,
+        0.215906
+      ],
+      "upward_path_overlap_mm3": 3.897608078695236e-07
+    },
+    {
+      "pier": 2,
+      "beam": 2,
+      "down_to_contact_mm": 8e-06,
+      "side_to_contact_mm": [
+        0.22269,
+        0.222947
+      ],
+      "upward_path_overlap_mm3": 1.6994206828206245e-05
+    },
+    {
+      "pier": 3,
+      "beam": 2,
+      "down_to_contact_mm": 8e-06,
+      "side_to_contact_mm": [
+        0.288919,
+        0.288919
+      ],
+      "upward_path_overlap_mm3": 1.1167257199264257e-05
+    },
+    {
+      "pier": 4,
+      "beam": 3,
+      "down_to_contact_mm": 9e-06,
+      "side_to_contact_mm": [
+        0.233261,
+        0.233314
+      ],
+      "upward_path_overlap_mm3": 1.6343206810104273e-07
+    },
+    {
+      "pier": 5,
+      "beam": 4,
+      "down_to_contact_mm": 8e-06,
+      "side_to_contact_mm": [
+        0.287739,
+        0.301149
+      ],
+      "upward_path_overlap_mm3": 3.477960622142173e-06
+    }
+  ],
+  "pier_feet": [
+    {
+      "pier": 1,
+      "tray_engagement_mm": 2.2000000029802322,
+      "ground_stop_down_mm": 1e-06,
+      "tray_clearance_n_mm": [
+        0.200026,
+        0.200028
+      ],
+      "tray_clearance_t_mm": [
+        0.200008,
+        0.200007
+      ],
+      "sand_passage_n_mm": [
+        0.600026,
+        0.60003
+      ],
+      "sand_passage_t_mm": [
+        0.600009,
+        0.60001
+      ],
+      "vertical_insertion_overlap_mm3": 6.761321000506003e-06
+    },
+    {
+      "pier": 2,
+      "tray_engagement_mm": 2.2000000029802322,
+      "ground_stop_down_mm": 1e-06,
+      "tray_clearance_n_mm": [
+        0.200028,
+        0.200026
+      ],
+      "tray_clearance_t_mm": [
+        0.200009,
+        0.200008
+      ],
+      "sand_passage_n_mm": [
+        0.600026,
+        0.600029
+      ],
+      "sand_passage_t_mm": [
+        0.60001,
+        0.600007
+      ],
+      "vertical_insertion_overlap_mm3": 6.767524772655981e-06
+    },
+    {
+      "pier": 3,
+      "tray_engagement_mm": 2.2000000029802322,
+      "ground_stop_down_mm": 1e-06,
+      "tray_clearance_n_mm": [
+        0.200029,
+        0.200029
+      ],
+      "tray_clearance_t_mm": [
+        0.200007,
+        0.200007
+      ],
+      "sand_passage_n_mm": [
+        0.600029,
+        0.600028
+      ],
+      "sand_passage_t_mm": [
+        0.60001,
+        0.600009
+      ],
+      "vertical_insertion_overlap_mm3": 6.769112888002952e-06
+    },
+    {
+      "pier": 4,
+      "tray_engagement_mm": 2.2000000029802322,
+      "ground_stop_down_mm": 1e-06,
+      "tray_clearance_n_mm": [
+        0.200029,
+        0.20003
+      ],
+      "tray_clearance_t_mm": [
+        0.200008,
+        0.200008
+      ],
+      "sand_passage_n_mm": [
+        0.600028,
+        0.600027
+      ],
+      "sand_passage_t_mm": [
+        0.60001,
+        0.60001
+      ],
+      "vertical_insertion_overlap_mm3": 6.753623810958825e-06
+    },
+    {
+      "pier": 5,
+      "tray_engagement_mm": 2.2000000029802322,
+      "ground_stop_down_mm": 1e-06,
+      "tray_clearance_n_mm": [
+        0.200032,
+        0.200026
+      ],
+      "tray_clearance_t_mm": [
+        0.200008,
+        0.20001
+      ],
+      "sand_passage_n_mm": [
+        0.600026,
+        0.600026
+      ],
+      "sand_passage_t_mm": [
+        0.60001,
+        0.60001
+      ],
+      "vertical_insertion_overlap_mm3": 6.693378406089365e-06
+    }
+  ],
+  "pier_inlays": [
+    {
+      "pier": 1,
+      "side": "front",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 1,
+      "side": "back",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 2,
+      "side": "front",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 2,
+      "side": "back",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 3,
+      "side": "front",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 3,
+      "side": "back",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 4,
+      "side": "front",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 4,
+      "side": "back",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 5,
+      "side": "front",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    },
+    {
+      "pier": 5,
+      "side": "back",
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0
+    }
+  ],
+  "sand": [
+    {
+      "side": "left",
+      "down_to_contact_mm": 0.0,
+      "xy_to_contact_mm": {
+        "x+": 0.200201,
+        "x-": 0.149679,
+        "y+": 0.149696,
+        "y-": 0.149701
+      },
+      "upward_insertion_overlap_mm3": 0.00013947526438246253
+    },
+    {
+      "side": "right",
+      "down_to_contact_mm": 0.0,
+      "xy_to_contact_mm": {
+        "x+": 0.149681,
+        "x-": 0.200203,
+        "y+": 0.149696,
+        "y-": 0.149701
+      },
+      "upward_insertion_overlap_mm3": 0.00013947526750039064
+    }
+  ],
+  "base_join_keys": [
+    {
+      "key": 1,
+      "down_to_contact_mm": 3e-06,
+      "open_top_insertion_overlap_mm3": 6.263601289607638e-07,
+      "xy_to_contact_mm": [
+        0.200013,
+        0.20001,
+        0.200004,
+        0.200006
+      ]
+    },
+    {
+      "key": 2,
+      "down_to_contact_mm": 3e-06,
+      "open_top_insertion_overlap_mm3": 6.263601297595536e-07,
+      "xy_to_contact_mm": [
+        0.200013,
+        0.20001,
+        0.200004,
+        0.2
+      ]
+    }
+  ],
+  "slide_feet": [
+    {
+      "slide": 1,
+      "ground_stop_down_mm": 0.0,
+      "tray_engagement_mm": 2.2,
+      "tray_side_clearance_mm": [
+        0.200006,
+        0.200008,
+        0.200012,
+        0.200011
+      ],
+      "sand_passage_clearance_mm": [
+        0.60001,
+        0.60001,
+        0.600014,
+        0.600015
+      ],
+      "slide_cavity_clearance_mm": [
+        0.200009,
+        0.200009,
+        0.200013,
+        0.200013
+      ],
+      "slide_over_peg_insertion_overlap_mm3": 0.0,
+      "peg_into_tray_insertion_overlap_mm3": 0.0
+    },
+    {
+      "slide": 2,
+      "ground_stop_down_mm": 0.0,
+      "tray_engagement_mm": 2.2,
+      "tray_side_clearance_mm": [
+        0.20001,
+        0.200004,
+        0.200011,
+        0.200013
+      ],
+      "sand_passage_clearance_mm": [
+        0.600009,
+        0.60001,
+        0.600014,
+        0.600014
+      ],
+      "slide_cavity_clearance_mm": [
+        0.200012,
+        0.200019,
+        0.200021,
+        0.200022
+      ],
+      "slide_over_peg_insertion_overlap_mm3": 0.0,
+      "peg_into_tray_insertion_overlap_mm3": 0.0
+    }
+  ],
+  "slide_inlays": [
+    {
+      "slide": 1,
+      "side": "left",
+      "direction": [
+        -0.34890022849460617,
+        0.937159874597932,
+        -0.0
+      ],
+      "inward_to_contact_mm": 4.5e-05,
+      "outward_insertion_overlap_mm3": 5.117331880308869e-05
+    },
+    {
+      "slide": 1,
+      "side": "right",
+      "direction": [
+        0.34890022849460617,
+        -0.937159874597932,
+        0.0
+      ],
+      "inward_to_contact_mm": 1e-05,
+      "outward_insertion_overlap_mm3": 0.0019748767007496375
+    },
+    {
+      "slide": 2,
+      "side": "left",
+      "direction": [
+        0.7568693676113913,
+        0.6535661866800735,
+        -0.0
+      ],
+      "inward_to_contact_mm": 2e-05,
+      "outward_insertion_overlap_mm3": 0.0006734702273681242
+    },
+    {
+      "slide": 2,
+      "side": "right",
+      "direction": [
+        -0.7568693676113913,
+        -0.6535661866800735,
+        0.0
+      ],
+      "inward_to_contact_mm": 1.3e-05,
+      "outward_insertion_overlap_mm3": 0.0005054811695348422
+    }
+  ],
+  "intersections": [],
+  "sampled_slide_webs": [
+    {
+      "slide": 1,
+      "sample_count": 104,
+      "skipped_empty_or_edge_samples": 4,
+      "minimum_sample": {
+        "slide": 1,
+        "fraction": 0.9500000000000003,
+        "side": "right",
+        "z_mm": 4.243861164074351,
+        "web_from_nominal_inner_wall_mm": 1.3227809175360372
+      },
+      "samples": [
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 30.20900960199389,
+          "web_from_nominal_inner_wall_mm": 1.357971194669747
+        },
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 30.20900960199389,
+          "web_from_nominal_inner_wall_mm": 1.3569663725874452
+        },
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 35.6855185008621,
+          "web_from_nominal_inner_wall_mm": 1.3578284777788658
+        },
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 35.6855185008621,
+          "web_from_nominal_inner_wall_mm": 1.3566755380513964
+        },
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 41.16202739973031,
+          "web_from_nominal_inner_wall_mm": 1.358206329480315
+        },
+        {
+          "slide": 1,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 41.16202739973031,
+          "web_from_nominal_inner_wall_mm": 1.3574058851842237
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 26.227902797465813,
+          "web_from_nominal_inner_wall_mm": 1.3584647751000363
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 26.227902797465813,
+          "web_from_nominal_inner_wall_mm": 1.3586528653546655
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 32.29653802117199,
+          "web_from_nominal_inner_wall_mm": 1.3583165791438843
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 32.29653802117199,
+          "web_from_nominal_inner_wall_mm": 1.3585766783450568
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 38.36517324487817,
+          "web_from_nominal_inner_wall_mm": 1.358679273242661
+        },
+        {
+          "slide": 1,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 38.36517324487817,
+          "web_from_nominal_inner_wall_mm": 1.3585880423429293
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 22.16690327153927,
+          "web_from_nominal_inner_wall_mm": 1.3581892324326637
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 22.16690327153927,
+          "web_from_nominal_inner_wall_mm": 1.3586999176030599
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 28.70782573798573,
+          "web_from_nominal_inner_wall_mm": 1.35820774763914
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 28.70782573798573,
+          "web_from_nominal_inner_wall_mm": 1.3586251736083268
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 35.24874820443219,
+          "web_from_nominal_inner_wall_mm": 1.3582262667889236
+        },
+        {
+          "slide": 1,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 35.24874820443219,
+          "web_from_nominal_inner_wall_mm": 1.3585757985286184
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 19.60832169778178,
+          "web_from_nominal_inner_wall_mm": 1.3582275691671706
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 19.60832169778178,
+          "web_from_nominal_inner_wall_mm": 1.3581435937424402
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 25.996499710725345,
+          "web_from_nominal_inner_wall_mm": 1.358213032815617
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 25.996499710725345,
+          "web_from_nominal_inner_wall_mm": 1.3581745696918315
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 32.384677723668915,
+          "web_from_nominal_inner_wall_mm": 1.358198496079643
+        },
+        {
+          "slide": 1,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 32.384677723668915,
+          "web_from_nominal_inner_wall_mm": 1.3581841651248885
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 19.00022227669409,
+          "web_from_nominal_inner_wall_mm": 1.3585615421777257
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 19.00022227669409,
+          "web_from_nominal_inner_wall_mm": 1.3581715405727692
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 24.47625115800612,
+          "web_from_nominal_inner_wall_mm": 1.3588461469025157
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 24.47625115800612,
+          "web_from_nominal_inner_wall_mm": 1.358147241277523
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 29.952280039318154,
+          "web_from_nominal_inner_wall_mm": 1.5597104321781634
+        },
+        {
+          "slide": 1,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 29.952280039318154,
+          "web_from_nominal_inner_wall_mm": 1.5596942646102727
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 16.14829042643855,
+          "web_from_nominal_inner_wall_mm": 1.3590230168176483
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 16.14829042643855,
+          "web_from_nominal_inner_wall_mm": 1.3579877345384386
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 21.53948939550896,
+          "web_from_nominal_inner_wall_mm": 1.359021322780709
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 21.53948939550896,
+          "web_from_nominal_inner_wall_mm": 1.3581399526716575
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 26.93068836457936,
+          "web_from_nominal_inner_wall_mm": 1.3590196309905958
+        },
+        {
+          "slide": 1,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 26.93068836457936,
+          "web_from_nominal_inner_wall_mm": 1.3582921637592484
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 6.641422105173867,
+          "web_from_nominal_inner_wall_mm": 1.3586870492893715
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 6.641422105173867,
+          "web_from_nominal_inner_wall_mm": 1.358588178674827
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 14.43750570749674,
+          "web_from_nominal_inner_wall_mm": 1.3587124971468185
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 14.43750570749674,
+          "web_from_nominal_inner_wall_mm": 1.3585779615330074
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 22.23358930981961,
+          "web_from_nominal_inner_wall_mm": 1.3587379399888517
+        },
+        {
+          "slide": 1,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 22.23358930981961,
+          "web_from_nominal_inner_wall_mm": 1.358567749748591
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 6.024861352262082,
+          "web_from_nominal_inner_wall_mm": 1.3594414010878948
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 6.024861352262082,
+          "web_from_nominal_inner_wall_mm": 1.3585919936438273
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 12.896103825217278,
+          "web_from_nominal_inner_wall_mm": 1.3595093471723407
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 12.896103825217278,
+          "web_from_nominal_inner_wall_mm": 1.358524165576254
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 19.76734629817247,
+          "web_from_nominal_inner_wall_mm": 1.3597173567178285
+        },
+        {
+          "slide": 1,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 19.76734629817247,
+          "web_from_nominal_inner_wall_mm": 1.3584492287711605
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 5.428978855058674,
+          "web_from_nominal_inner_wall_mm": 1.359893045615677
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 5.428978855058674,
+          "web_from_nominal_inner_wall_mm": 1.3583403228793411
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 11.406397582208758,
+          "web_from_nominal_inner_wall_mm": 1.3596039848791843
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 11.406397582208758,
+          "web_from_nominal_inner_wall_mm": 1.358257435632745
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 17.38381630935884,
+          "web_from_nominal_inner_wall_mm": 1.3595478652460136
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 17.38381630935884,
+          "web_from_nominal_inner_wall_mm": 1.3584397220530047
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 4.86074857389922,
+          "web_from_nominal_inner_wall_mm": 1.3597073115204612
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 4.86074857389922,
+          "web_from_nominal_inner_wall_mm": 1.3596683821899163
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 9.985821879310121,
+          "web_from_nominal_inner_wall_mm": 1.359707083542844
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 9.985821879310121,
+          "web_from_nominal_inner_wall_mm": 1.3596717374718343
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 15.110895184721022,
+          "web_from_nominal_inner_wall_mm": 1.359705600532938
+        },
+        {
+          "slide": 1,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 15.110895184721022,
+          "web_from_nominal_inner_wall_mm": 1.3596719102066945
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 4.319628395052245,
+          "web_from_nominal_inner_wall_mm": 1.3597981952466656
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 4.319628395052245,
+          "web_from_nominal_inner_wall_mm": 1.3585153128135259
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 8.633021432192683,
+          "web_from_nominal_inner_wall_mm": 1.3595856313396535
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 8.633021432192683,
+          "web_from_nominal_inner_wall_mm": 1.3587321737125544
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 12.946414469333122,
+          "web_from_nominal_inner_wall_mm": 1.3592527872727054
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 12.946414469333122,
+          "web_from_nominal_inner_wall_mm": 1.3589731536027676
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "left",
+          "z_mm": 3.806717570763195,
+          "web_from_nominal_inner_wall_mm": 1.3585510655631277
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 3.806717570763195,
+          "web_from_nominal_inner_wall_mm": 1.3581864440525928
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "left",
+          "z_mm": 7.350744371470057,
+          "web_from_nominal_inner_wall_mm": 1.3584088563825834
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 7.350744371470057,
+          "web_from_nominal_inner_wall_mm": 1.3579878700592252
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "left",
+          "z_mm": 10.89477117217692,
+          "web_from_nominal_inner_wall_mm": 1.3584092351446833
+        },
+        {
+          "slide": 1,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 10.89477117217692,
+          "web_from_nominal_inner_wall_mm": 1.357644404989883
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 3.3277545882402184,
+          "web_from_nominal_inner_wall_mm": 1.3575500185297846
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 3.3277545882402184,
+          "web_from_nominal_inner_wall_mm": 1.3558204949223578
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 6.153336915162616,
+          "web_from_nominal_inner_wall_mm": 1.3575196455485985
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 6.153336915162616,
+          "web_from_nominal_inner_wall_mm": 1.355814267658947
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 8.978919242085015,
+          "web_from_nominal_inner_wall_mm": 1.3576115223024745
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 8.978919242085015,
+          "web_from_nominal_inner_wall_mm": 1.355756041601623
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 2.8997298604590513,
+          "web_from_nominal_inner_wall_mm": 1.3533227017928775
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7500000000000002,
+          "side": "left",
+          "z_mm": 5.083275095709699,
+          "web_from_nominal_inner_wall_mm": 1.3550148666849537
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 5.083275095709699,
+          "web_from_nominal_inner_wall_mm": 1.3534759195170363
+        },
+        {
+          "slide": 1,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 7.266820330960347,
+          "web_from_nominal_inner_wall_mm": 1.3529795274585092
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8000000000000003,
+          "side": "left",
+          "z_mm": 2.568221405676656,
+          "web_from_nominal_inner_wall_mm": 1.3494616056030067
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 2.568221405676656,
+          "web_from_nominal_inner_wall_mm": 1.347538017477369
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8000000000000003,
+          "side": "left",
+          "z_mm": 4.25450395875371,
+          "web_from_nominal_inner_wall_mm": 1.3484771389168424
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 4.25450395875371,
+          "web_from_nominal_inner_wall_mm": 1.3477408525986183
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 5.940786511830765,
+          "web_from_nominal_inner_wall_mm": 1.3472905314207733
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8500000000000003,
+          "side": "left",
+          "z_mm": 2.471163058272994,
+          "web_from_nominal_inner_wall_mm": 1.559764949521064
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 2.471163058272994,
+          "web_from_nominal_inner_wall_mm": 1.5583563494491575
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8500000000000003,
+          "side": "left",
+          "z_mm": 4.011858090244557,
+          "web_from_nominal_inner_wall_mm": 1.3421375222053182
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 4.011858090244557,
+          "web_from_nominal_inner_wall_mm": 1.3393122125515555
+        },
+        {
+          "slide": 1,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 5.552553122216119,
+          "web_from_nominal_inner_wall_mm": 1.3405840805528326
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 2.5265872557103295,
+          "web_from_nominal_inner_wall_mm": 1.3349710927135154
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 2.5265872557103295,
+          "web_from_nominal_inner_wall_mm": 1.3298457201000522
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 4.150418583837894,
+          "web_from_nominal_inner_wall_mm": 1.3346674030571748
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 4.150418583837894,
+          "web_from_nominal_inner_wall_mm": 1.3298810803142267
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 5.774249911965459,
+          "web_from_nominal_inner_wall_mm": 1.3343012707248265
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 5.774249911965459,
+          "web_from_nominal_inner_wall_mm": 1.3302454407473272
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 2.5639642878049123,
+          "web_from_nominal_inner_wall_mm": 1.3247313864092352
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 2.5639642878049123,
+          "web_from_nominal_inner_wall_mm": 1.3234202326799709
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 4.243861164074351,
+          "web_from_nominal_inner_wall_mm": 1.3251279502709474
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 4.243861164074351,
+          "web_from_nominal_inner_wall_mm": 1.3227809175360372
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 5.92375804034379,
+          "web_from_nominal_inner_wall_mm": 1.32509307153566
+        },
+        {
+          "slide": 1,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 5.92375804034379,
+          "web_from_nominal_inner_wall_mm": 1.3238764122561317
+        }
+      ],
+      "limits": "Normal-line sections at18 route stations and3 interior heights per inlay side; excludes profile edges/head trims. Not a global minimum wall-thickness proof."
+    },
+    {
+      "slide": 2,
+      "sample_count": 102,
+      "skipped_empty_or_edge_samples": 6,
+      "minimum_sample": {
+        "slide": 2,
+        "fraction": 0.9500000000000003,
+        "side": "left",
+        "z_mm": 6.503943070521453,
+        "web_from_nominal_inner_wall_mm": 1.3369914407774717
+      },
+      "samples": [
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 29.789960478994555,
+          "web_from_nominal_inner_wall_mm": 1.3547571635456643
+        },
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 29.789960478994555,
+          "web_from_nominal_inner_wall_mm": 1.353610282451819
+        },
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 34.89790910574816,
+          "web_from_nominal_inner_wall_mm": 1.3548439517353357
+        },
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 34.89790910574816,
+          "web_from_nominal_inner_wall_mm": 1.353673685692188
+        },
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "left",
+          "z_mm": 40.005857732501774,
+          "web_from_nominal_inner_wall_mm": 1.3553240514009675
+        },
+        {
+          "slide": 2,
+          "fraction": 0.1,
+          "side": "right",
+          "z_mm": 40.005857732501774,
+          "web_from_nominal_inner_wall_mm": 1.353809445296693
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 25.74388883794329,
+          "web_from_nominal_inner_wall_mm": 1.3547364350744546
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 25.74388883794329,
+          "web_from_nominal_inner_wall_mm": 1.3553102762178169
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 31.346516534750094,
+          "web_from_nominal_inner_wall_mm": 1.3547053725546672
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 31.346516534750094,
+          "web_from_nominal_inner_wall_mm": 1.355361603365675
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "left",
+          "z_mm": 36.94914423155689,
+          "web_from_nominal_inner_wall_mm": 1.3546436402020339
+        },
+        {
+          "slide": 2,
+          "fraction": 0.15000000000000002,
+          "side": "right",
+          "z_mm": 36.94914423155689,
+          "web_from_nominal_inner_wall_mm": 1.3554698679430128
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 21.648199161767703,
+          "web_from_nominal_inner_wall_mm": 1.35531083756785
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 21.648199161767703,
+          "web_from_nominal_inner_wall_mm": 1.3545914956507952
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 27.67107887594121,
+          "web_from_nominal_inner_wall_mm": 1.35567832566172
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 27.67107887594121,
+          "web_from_nominal_inner_wall_mm": 1.3546611630545753
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "left",
+          "z_mm": 33.69395859011472,
+          "web_from_nominal_inner_wall_mm": 1.35592129011751
+        },
+        {
+          "slide": 2,
+          "fraction": 0.20000000000000004,
+          "side": "right",
+          "z_mm": 33.69395859011472,
+          "web_from_nominal_inner_wall_mm": 1.3547308340928312
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 19.209206763077873,
+          "web_from_nominal_inner_wall_mm": 1.3552401959126605
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 19.209206763077873,
+          "web_from_nominal_inner_wall_mm": 1.3549247058889256
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 24.998712373965574,
+          "web_from_nominal_inner_wall_mm": 1.3552426134832034
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 24.998712373965574,
+          "web_from_nominal_inner_wall_mm": 1.3546911177174712
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "left",
+          "z_mm": 30.788217984853276,
+          "web_from_nominal_inner_wall_mm": 1.3552450254135513
+        },
+        {
+          "slide": 2,
+          "fraction": 0.25000000000000006,
+          "side": "right",
+          "z_mm": 30.788217984853276,
+          "web_from_nominal_inner_wall_mm": 1.354457529051702
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 18.590941055990307,
+          "web_from_nominal_inner_wall_mm": 1.3554562431897912
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 18.590941055990307,
+          "web_from_nominal_inner_wall_mm": 1.3553819894393895
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 23.453048106246662,
+          "web_from_nominal_inner_wall_mm": 1.3554704681432446
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 23.453048106246662,
+          "web_from_nominal_inner_wall_mm": 1.3552143971421398
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "left",
+          "z_mm": 28.315155156503018,
+          "web_from_nominal_inner_wall_mm": 1.3554332969055691
+        },
+        {
+          "slide": 2,
+          "fraction": 0.30000000000000004,
+          "side": "right",
+          "z_mm": 28.315155156503018,
+          "web_from_nominal_inner_wall_mm": 1.3552566721249333
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 15.65133630126069,
+          "web_from_nominal_inner_wall_mm": 1.3559121324004115
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 15.65133630126069,
+          "web_from_nominal_inner_wall_mm": 1.355799073953512
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 20.457041574785123,
+          "web_from_nominal_inner_wall_mm": 1.3559127000490143
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 20.457041574785123,
+          "web_from_nominal_inner_wall_mm": 1.355550942121286
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "left",
+          "z_mm": 25.262746848309554,
+          "web_from_nominal_inner_wall_mm": 1.3559138453142348
+        },
+        {
+          "slide": 2,
+          "fraction": 0.3500000000000001,
+          "side": "right",
+          "z_mm": 25.262746848309554,
+          "web_from_nominal_inner_wall_mm": 1.3557415598589975
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 6.235969980624747,
+          "web_from_nominal_inner_wall_mm": 1.3565667749748869
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 6.235969980624747,
+          "web_from_nominal_inner_wall_mm": 1.3559498557934946
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 13.423875396123938,
+          "web_from_nominal_inner_wall_mm": 1.3565464347609355
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 13.423875396123938,
+          "web_from_nominal_inner_wall_mm": 1.3557616193575575
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "left",
+          "z_mm": 20.611780811623127,
+          "web_from_nominal_inner_wall_mm": 1.356538141490475
+        },
+        {
+          "slide": 2,
+          "fraction": 0.40000000000000013,
+          "side": "right",
+          "z_mm": 20.611780811623127,
+          "web_from_nominal_inner_wall_mm": 1.3560369261540206
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 5.635362436586837,
+          "web_from_nominal_inner_wall_mm": 1.357349140098198
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 5.635362436586837,
+          "web_from_nominal_inner_wall_mm": 1.3566648135974075
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 11.922356536029161,
+          "web_from_nominal_inner_wall_mm": 1.357392898862181
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 11.922356536029161,
+          "web_from_nominal_inner_wall_mm": 1.357299474792307
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "left",
+          "z_mm": 18.209350635471484,
+          "web_from_nominal_inner_wall_mm": 1.3576848887833055
+        },
+        {
+          "slide": 2,
+          "fraction": 0.4500000000000001,
+          "side": "right",
+          "z_mm": 18.209350635471484,
+          "web_from_nominal_inner_wall_mm": 1.3573287146403379
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 5.066512342278728,
+          "web_from_nominal_inner_wall_mm": 1.3584718226048222
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 5.066512342278728,
+          "web_from_nominal_inner_wall_mm": 1.3572846574485355
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 10.500231300258891,
+          "web_from_nominal_inner_wall_mm": 1.35843862983232
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 10.500231300258891,
+          "web_from_nominal_inner_wall_mm": 1.358072982929138
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "left",
+          "z_mm": 15.933950258239054,
+          "web_from_nominal_inner_wall_mm": 1.3585828069773926
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5000000000000001,
+          "side": "right",
+          "z_mm": 15.933950258239054,
+          "web_from_nominal_inner_wall_mm": 1.3582303575647172
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 4.543321476315689,
+          "web_from_nominal_inner_wall_mm": 1.3597120766605189
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 4.543321476315689,
+          "web_from_nominal_inner_wall_mm": 1.3594455231296703
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 9.192254135351291,
+          "web_from_nominal_inner_wall_mm": 1.3597362552763057
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 9.192254135351291,
+          "web_from_nominal_inner_wall_mm": 1.3590840716243315
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "left",
+          "z_mm": 13.841186794386896,
+          "web_from_nominal_inner_wall_mm": 1.3598380901686609
+        },
+        {
+          "slide": 2,
+          "fraction": 0.5500000000000002,
+          "side": "right",
+          "z_mm": 13.841186794386896,
+          "web_from_nominal_inner_wall_mm": 1.3589264870105007
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 4.074110936437313,
+          "web_from_nominal_inner_wall_mm": 1.3580440909775513
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 4.074110936437313,
+          "web_from_nominal_inner_wall_mm": 1.3573898064909171
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 8.019227785655351,
+          "web_from_nominal_inner_wall_mm": 1.3577629514965777
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 8.019227785655351,
+          "web_from_nominal_inner_wall_mm": 1.3575142830570082
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "left",
+          "z_mm": 11.96434463487339,
+          "web_from_nominal_inner_wall_mm": 1.3582935289000844
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6000000000000002,
+          "side": "right",
+          "z_mm": 11.96434463487339,
+          "web_from_nominal_inner_wall_mm": 1.3576034012929004
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 3.6777536630802072,
+          "web_from_nominal_inner_wall_mm": 1.3529779103412691
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 7.028334602262587,
+          "web_from_nominal_inner_wall_mm": 1.3522890550931308
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6500000000000001,
+          "side": "left",
+          "z_mm": 10.37891554144497,
+          "web_from_nominal_inner_wall_mm": 1.3551446601020443
+        },
+        {
+          "slide": 2,
+          "fraction": 0.6500000000000001,
+          "side": "right",
+          "z_mm": 10.37891554144497,
+          "web_from_nominal_inner_wall_mm": 1.3533474469770939
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 3.372671995111374,
+          "web_from_nominal_inner_wall_mm": 1.3502479498464908
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 3.372671995111374,
+          "web_from_nominal_inner_wall_mm": 1.3471743952659354
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 6.2656304323405045,
+          "web_from_nominal_inner_wall_mm": 1.3498589156214846
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 6.2656304323405045,
+          "web_from_nominal_inner_wall_mm": 1.3490820982449314
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "left",
+          "z_mm": 9.158588869569636,
+          "web_from_nominal_inner_wall_mm": 1.350276192556609
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7000000000000002,
+          "side": "right",
+          "z_mm": 9.158588869569636,
+          "web_from_nominal_inner_wall_mm": 1.3470124148690443
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 3.1511408259769476,
+          "web_from_nominal_inner_wall_mm": 1.34479517939514
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7500000000000002,
+          "side": "left",
+          "z_mm": 5.711802509504439,
+          "web_from_nominal_inner_wall_mm": 1.3456407477310455
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 5.711802509504439,
+          "web_from_nominal_inner_wall_mm": 1.344883989132943
+        },
+        {
+          "slide": 2,
+          "fraction": 0.7500000000000002,
+          "side": "right",
+          "z_mm": 8.272464193031931,
+          "web_from_nominal_inner_wall_mm": 1.345309055451648
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 2.9910067276878523,
+          "web_from_nominal_inner_wall_mm": 1.3419772704521717
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8000000000000003,
+          "side": "left",
+          "z_mm": 5.311467263781701,
+          "web_from_nominal_inner_wall_mm": 1.3430935902755445
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 5.311467263781701,
+          "web_from_nominal_inner_wall_mm": 1.3419037376315144
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8000000000000003,
+          "side": "right",
+          "z_mm": 7.63192779987555,
+          "web_from_nominal_inner_wall_mm": 1.3421728057702564
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "left",
+          "z_mm": 2.8765429090445207,
+          "web_from_nominal_inner_wall_mm": 1.5597553324190896
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 2.8765429090445207,
+          "web_from_nominal_inner_wall_mm": 1.559494944489984
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "left",
+          "z_mm": 5.025307717173371,
+          "web_from_nominal_inner_wall_mm": 1.3401413624986072
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 5.025307717173371,
+          "web_from_nominal_inner_wall_mm": 1.3395497616447702
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "left",
+          "z_mm": 7.174072525302224,
+          "web_from_nominal_inner_wall_mm": 1.340329397705612
+        },
+        {
+          "slide": 2,
+          "fraction": 0.8500000000000003,
+          "side": "right",
+          "z_mm": 7.174072525302224,
+          "web_from_nominal_inner_wall_mm": 1.3396114714563447
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 2.790583932981029,
+          "web_from_nominal_inner_wall_mm": 1.3389707496960144
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 2.790583932981029,
+          "web_from_nominal_inner_wall_mm": 1.3378076585419736
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 4.810410277014643,
+          "web_from_nominal_inner_wall_mm": 1.3386320577495958
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 4.810410277014643,
+          "web_from_nominal_inner_wall_mm": 1.3378513362980549
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "left",
+          "z_mm": 6.8302366210482575,
+          "web_from_nominal_inner_wall_mm": 1.3386638849351646
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9000000000000002,
+          "side": "right",
+          "z_mm": 6.8302366210482575,
+          "web_from_nominal_inner_wall_mm": 1.337527314625869
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 2.709010545349328,
+          "web_from_nominal_inner_wall_mm": 1.337441993283944
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 2.709010545349328,
+          "web_from_nominal_inner_wall_mm": 1.338388484284465
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 4.60647680793539,
+          "web_from_nominal_inner_wall_mm": 1.3374552419597885
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 4.60647680793539,
+          "web_from_nominal_inner_wall_mm": 1.3380684746420455
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "left",
+          "z_mm": 6.503943070521453,
+          "web_from_nominal_inner_wall_mm": 1.3369914407774717
+        },
+        {
+          "slide": 2,
+          "fraction": 0.9500000000000003,
+          "side": "right",
+          "z_mm": 6.503943070521453,
+          "web_from_nominal_inner_wall_mm": 1.3379286770009742
+        }
+      ],
+      "limits": "Normal-line sections at18 route stations and3 interior heights per inlay side; excludes profile edges/head trims. Not a global minimum wall-thickness proof."
+    }
+  ],
+  "tray_seam_gap_mm": -2.0702884739876026e-07,
+  "sand_seam_gap_mm": 2.5347848122692085e-06,
+  "failures": [],
+  "passed": true,
+  "basis": "Integrated current production source; float32 STL roundtrips restored to world coordinates. No test samples built and no production exports changed.",
+  "flat_print_screen": [
+    {
+      "part": "slide_1_peg",
+      "file": "slide_1_peg.stl",
+      "sha256": "ed9568d162abc61a6881f33c04b9facb3197640cf791c8c85a8e43ede7b70030",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        4.89976,
+        6.55777,
+        6.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 23.999999,
+      "bed_contact_component_areas_mm2": [
+        23.999999
+      ],
+      "first_sample_area_mm2": 23.999999,
+      "sampled_layer_count": 39,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "slide_2_peg",
+      "file": "slide_2_peg.stl",
+      "sha256": "3cb4136b4c1b0a04df0f9f2e07a1922c8bfe370389d45f0c65b2f6bd013bc8b4",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        7.21088,
+        6.67809,
+        6.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 24.0,
+      "bed_contact_component_areas_mm2": [
+        24.0
+      ],
+      "first_sample_area_mm2": 24.0,
+      "sampled_layer_count": 39,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_01_back_half",
+      "file": "pier_01_back_half.stl",
+      "sha256": "94df3cf5721431d2474f5f7f19eef8b4139151a497856f8598de7545a9481af4",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.43285,
+        33.85918,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 632.988978,
+      "bed_contact_component_areas_mm2": [
+        632.988978
+      ],
+      "first_sample_area_mm2": 632.988978,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_01_front_half",
+      "file": "pier_01_front_half.stl",
+      "sha256": "9b8d895873ea9a86ef74bb70351c97e4621ee0c0d17dc75112224c0a8bd5e3ff",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.43285,
+        38.05918,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 658.028971,
+      "bed_contact_component_areas_mm2": [
+        658.028971
+      ],
+      "first_sample_area_mm2": 658.028971,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_01_back_inlay",
+      "file": "pier_01_back_inlay.stl",
+      "sha256": "ccf6adf8f662fcd948a426ab8bcd0f5e221d178bc1e7eacc63e81b0fdb875f8f",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        30.15918,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 469.696415,
+      "bed_contact_component_areas_mm2": [
+        469.696415
+      ],
+      "first_sample_area_mm2": 469.696414,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_01_front_inlay",
+      "file": "pier_01_front_inlay.stl",
+      "sha256": "a85afa526423813c706c10a01f040a9cea753dd3783b1c5125fcd537bef169e4",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        30.15918,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 469.696415,
+      "bed_contact_component_areas_mm2": [
+        469.696415
+      ],
+      "first_sample_area_mm2": 469.696414,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_02_back_half",
+      "file": "pier_02_back_half.stl",
+      "sha256": "611e80d66dd0fba6f6e6fdcc87f41893bbe8977bcca9f2f6338d8e76551f53a9",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.44857,
+        39.57253,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 742.415416,
+      "bed_contact_component_areas_mm2": [
+        742.415416
+      ],
+      "first_sample_area_mm2": 742.415416,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_02_front_half",
+      "file": "pier_02_front_half.stl",
+      "sha256": "ae65436d6d0297d7c9ef5a1b914758c51bd8b79529a3a3118e18ccec878f2d74",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.44857,
+        43.77253,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 767.455433,
+      "bed_contact_component_areas_mm2": [
+        767.455433
+      ],
+      "first_sample_area_mm2": 767.455433,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_02_back_inlay",
+      "file": "pier_02_back_inlay.stl",
+      "sha256": "691f748391141f18fd4e2dc40d4ba9200243a44f80efac7402851c1627ec9a77",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        35.87253,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 560.143783,
+      "bed_contact_component_areas_mm2": [
+        560.143783
+      ],
+      "first_sample_area_mm2": 560.143783,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_02_front_inlay",
+      "file": "pier_02_front_inlay.stl",
+      "sha256": "2338741036d8f4cfbab3b2fa1f1c458389f9bbc0eca8c5181267e96ab4e6a9bd",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        35.87253,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 560.143783,
+      "bed_contact_component_areas_mm2": [
+        560.143783
+      ],
+      "first_sample_area_mm2": 560.143783,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_03_back_half",
+      "file": "pier_03_back_half.stl",
+      "sha256": "44a1e3c920664fb90f2d6325150b99749ad5b5cc463beab1b061672a8c6e4d21",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.45256,
+        41.37872,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 776.991938,
+      "bed_contact_component_areas_mm2": [
+        776.991938
+      ],
+      "first_sample_area_mm2": 776.991938,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_03_front_half",
+      "file": "pier_03_front_half.stl",
+      "sha256": "76a62d7595a2fb416159397d0c5de22c5e17f89125e670b0be5f2305315c9f59",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.45256,
+        45.57872,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 802.031951,
+      "bed_contact_component_areas_mm2": [
+        802.031951
+      ],
+      "first_sample_area_mm2": 802.031951,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_03_back_inlay",
+      "file": "pier_03_back_inlay.stl",
+      "sha256": "a0943d0cda61b13c68979c345f1eb895750fe1d5e63cec161a76d4455df6c22e",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        37.67872,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 588.73737,
+      "bed_contact_component_areas_mm2": [
+        588.73737
+      ],
+      "first_sample_area_mm2": 588.73737,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_03_front_inlay",
+      "file": "pier_03_front_inlay.stl",
+      "sha256": "cf86db3b0a2d6f46797300ff257d853176a37b2efc2c7d591248c91bfa599a81",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        37.67872,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 588.73737,
+      "bed_contact_component_areas_mm2": [
+        588.73737
+      ],
+      "first_sample_area_mm2": 588.73737,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_04_back_half",
+      "file": "pier_04_back_half.stl",
+      "sha256": "2186c347517a976bfbf8a48d607934a0aff71737679d5ff7b87621e0031d2048",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.41308,
+        28.79194,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 534.296107,
+      "bed_contact_component_areas_mm2": [
+        534.296107
+      ],
+      "first_sample_area_mm2": 534.296107,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_04_front_half",
+      "file": "pier_04_front_half.stl",
+      "sha256": "06e4f356c5bd96ecf1c1cd578fa98f6bf54693f67b0c50dc276b2477fe0703a2",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.41308,
+        32.99194,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 559.336124,
+      "bed_contact_component_areas_mm2": [
+        559.336124
+      ],
+      "first_sample_area_mm2": 559.336124,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_04_back_inlay",
+      "file": "pier_04_back_inlay.stl",
+      "sha256": "e3b94ed6710cb8383f6af168e2122ee871d11c5ce6bd5769cfaaea3940acf152",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        25.09194,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 389.477515,
+      "bed_contact_component_areas_mm2": [
+        389.477515
+      ],
+      "first_sample_area_mm2": 389.477515,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_04_front_inlay",
+      "file": "pier_04_front_inlay.stl",
+      "sha256": "05d77851a83ac39bfbad270d614c7cd2fc776e339d9cad19d050d4ef40339688",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        25.09194,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 389.477515,
+      "bed_contact_component_areas_mm2": [
+        389.477515
+      ],
+      "first_sample_area_mm2": 389.477515,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_05_back_half",
+      "file": "pier_05_back_half.stl",
+      "sha256": "842fb620883c78a768b613e8a587b096f56e58a632d6e16df3aa4a14d6734bda",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.28034,
+        13.78721,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 244.132951,
+      "bed_contact_component_areas_mm2": [
+        244.132951
+      ],
+      "first_sample_area_mm2": 244.132947,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_05_front_half",
+      "file": "pier_05_front_half.stl",
+      "sha256": "55123bd27b1d508726da8ec629a2149d0c7f4998fbe95313e040d9f1b03e3ee0",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        23.28034,
+        17.98721,
+        2.24627
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 269.172944,
+      "bed_contact_component_areas_mm2": [
+        269.172944
+      ],
+      "first_sample_area_mm2": 269.172894,
+      "sampled_layer_count": 14,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_05_back_inlay",
+      "file": "pier_05_back_inlay.stl",
+      "sha256": "6051c9b92e3cfa5ffefd6199e9e2a2d2e6630cad5e07b6cac0eb0cbeefe84037",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        10.08721,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 151.939461,
+      "bed_contact_component_areas_mm2": [
+        151.939461
+      ],
+      "first_sample_area_mm2": 151.939461,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "pier_05_front_inlay",
+      "file": "pier_05_front_inlay.stl",
+      "sha256": "09d94ed8217e6037d2822ee121a00c3acca9c78cbeeec89cf9edf5991fa99d96",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        19.4677,
+        10.08721,
+        1.2
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 151.939461,
+      "bed_contact_component_areas_mm2": [
+        151.939461
+      ],
+      "first_sample_area_mm2": 151.939461,
+      "sampled_layer_count": 7,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "base_join_key_01",
+      "file": "base_join_key_01.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        10.0,
+        4.0,
+        2.0
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 40.0,
+      "bed_contact_component_areas_mm2": [
+        40.0
+      ],
+      "first_sample_area_mm2": 40.0,
+      "sampled_layer_count": 12,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "base_join_key_02",
+      "file": "base_join_key_02.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        10.0,
+        4.0,
+        2.0
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 40.0,
+      "bed_contact_component_areas_mm2": [
+        40.0
+      ],
+      "first_sample_area_mm2": 40.0,
+      "sampled_layer_count": 12,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "base_left_tray",
+      "file": "base_left_tray.stl",
+      "sha256": "b9c7e20f1bd8d77994d39aca306b153ed0db1a28bace12e9cdeed9a2ed1acd2e",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        129.42815,
+        174.35362,
+        6.98758
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 22238.132442,
+      "bed_contact_component_areas_mm2": [
+        22238.132442
+      ],
+      "first_sample_area_mm2": 22279.921801,
+      "sampled_layer_count": 44,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.000157,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.219277,
+      "downward_over_45_degree_projected_area_mm2": 0.155055,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": true
+    },
+    {
+      "part": "base_left_sand",
+      "file": "base_left_sand.stl",
+      "sha256": "7d58f479352e22e2ec5023bac4a06f10e3ed4cc972e822ea393efa68c7ca9c82",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        125.14953,
+        165.79639,
+        2.0
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 20532.740744,
+      "bed_contact_component_areas_mm2": [
+        20532.740744
+      ],
+      "first_sample_area_mm2": 20532.740744,
+      "sampled_layer_count": 12,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    },
+    {
+      "part": "base_right_tray",
+      "file": "base_right_tray.stl",
+      "sha256": "5ff3c7adc8e5cc3147fd58d598baa37de20bffc6b8eb4ec81d755725a29783ac",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        129.42815,
+        174.35362,
+        6.98758
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 22238.131723,
+      "bed_contact_component_areas_mm2": [
+        22238.131723
+      ],
+      "first_sample_area_mm2": 22279.921275,
+      "sampled_layer_count": 44,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.000157,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 1.758298,
+      "downward_over_45_degree_projected_area_mm2": 1.243326,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": true
+    },
+    {
+      "part": "base_right_sand",
+      "file": "base_right_sand.stl",
+      "sha256": "fc31d61568a782d20d5c6fbb5122eaead36034f8910d567661941101f90c1708",
+      "declared_supports": "none",
+      "notes": "",
+      "dimensions_mm": [
+        125.14953,
+        165.79639,
+        2.0
+      ],
+      "watertight": true,
+      "positive_volume": true,
+      "connected_components": 1,
+      "bottom_z_mm": 0.0,
+      "bed_contact_area_mm2": 20539.283365,
+      "bed_contact_component_areas_mm2": [
+        20539.283365
+      ],
+      "first_sample_area_mm2": 20539.283365,
+      "sampled_layer_count": 12,
+      "flagged_layer_count": 0,
+      "beyond_45_degree_layer_count": 0,
+      "max_projection_area_mm2": 0.0,
+      "new_island_layer_count": 0,
+      "downward_over_45_degree_face_area_mm2": 0.0,
+      "downward_over_45_degree_projected_area_mm2": 0.0,
+      "unresolved_support_free_flag": false,
+      "layers": [],
+      "face_angle_numerical_tolerance_deg": 0.01,
+      "downward_area_beyond_45_01deg_mm2": 0.0,
+      "raw_unresolved_support_free_flag": false
+    }
+  ],
+  "limits": "Geometric checks using0.0001mm3 added penetration above baseline STL contact for first-contact probes, and sampled straight insertion paths. Face screen allows0.01degree numerical tolerance at45degree chamfers. Not a physical fit, continuous-motion or support-removal guarantee."
+}

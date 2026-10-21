@@ -1,0 +1,1066 @@
+{
+  "status": "passed",
+  "individual_files": 132,
+  "production_parts": 94,
+  "pair_intersection_reporting_threshold_mm3": 0.015,
+  "inter_part_overlaps": [],
+  "parts": [
+    {
+      "name": "body_hoop_01",
+      "file": "parts/cream/body_hoop_01.stl",
+      "sha256": "5258ce5da3581c429e1b682a192ca349b72cb3060664e8bbbf74beb100f2f480",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_02",
+      "file": "parts/blue/body_hoop_02.stl",
+      "sha256": "afb48235b79493870fbf8e2eb95c00f6451de1fbb3253286b980b64d98802f28",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_03",
+      "file": "parts/sage/body_hoop_03.stl",
+      "sha256": "3c24baca60cc75a7201f78c167fe5d51bf459b506e0bbfe4e2cf6df41e502f0d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_04",
+      "file": "parts/sage/body_hoop_04.stl",
+      "sha256": "fa15aafb4f7a9eaf4aaecf7a1b5f2daa6ba844504d38dddd3bf96a611ccd5590",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_05",
+      "file": "parts/red/body_hoop_05.stl",
+      "sha256": "e7922522b10fc1e6d9277aa0de79b43ce9afc78b3e522af36e7e619a77176e07",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_06",
+      "file": "parts/red/body_hoop_06.stl",
+      "sha256": "8fef0037882fbf3c57f705afc1fca3da861d1ee997e86abee7781391468bd66f",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_07",
+      "file": "parts/cream/body_hoop_07.stl",
+      "sha256": "d1558dc688ecff1eb603982541d1215cc4fd88cefcae0365499fb9dd689fb22b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_08",
+      "file": "parts/blue/body_hoop_08.stl",
+      "sha256": "b5cda6cef41ed9ab4ba91c917bc5f1e79d2232a732652bf751bf31c1cd8bd93b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_09",
+      "file": "parts/blue/body_hoop_09.stl",
+      "sha256": "464e37bc7510550b0ca866a19b78926392fe4e413e0597b68c84b264afa058b3",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_10",
+      "file": "parts/blue/body_hoop_10.stl",
+      "sha256": "969c911c3f49373469c110b1dc0104704678fba509d98b603105ec455bc6e235",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_11",
+      "file": "parts/blue/body_hoop_11.stl",
+      "sha256": "4e90c6f6af4e54e6173c38ef08de0c271e629849580cfb685a3437b0379a3772",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_12",
+      "file": "parts/cream/body_hoop_12.stl",
+      "sha256": "7572656703db9fd69ea401b705c94f7b1ce01cb22fb99926e2161cbc286def04",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_13",
+      "file": "parts/blue/body_hoop_13.stl",
+      "sha256": "069d0f77c14c18eeda8e02940f5f469cbee6cd5e106bfb5cef85b75699e60b1a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_14",
+      "file": "parts/sage/body_hoop_14.stl",
+      "sha256": "68e4e8e3e13f058ee05357f6c4fe75e669429d471a8e74e8fa328004c8c9da64",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_15",
+      "file": "parts/red/body_hoop_15.stl",
+      "sha256": "85088a5307b1ee596b9e8bac3ffdc853516d8b2ec42afb7f545f1022a2d1781a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_16",
+      "file": "parts/cream/body_hoop_16.stl",
+      "sha256": "3d22ce7d920c194fcc1e5c5af193336cc68657658254d2fe01425ca6be0afdb8",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_17",
+      "file": "parts/blue/body_hoop_17.stl",
+      "sha256": "148ebdbf9b8d88e4121bf1b8c9cf300dd5cacecca3d90bbfde92967f1cf07ef0",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_hoop_18",
+      "file": "parts/blue/body_hoop_18.stl",
+      "sha256": "1f844d2e9af204176666857c4d64fd45b7079a364423177982152782318f0133",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_beam_01",
+      "file": "parts/blue/body_beam_01.stl",
+      "sha256": "2d7d50713fbed169e9d779439fd737b0a609fd27068b7ffa4314ab176afa4f1b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_beam_02",
+      "file": "parts/blue/body_beam_02.stl",
+      "sha256": "f83168262398784579cbde3dc254e6d150b63ce323701d5c3220476e72ca80b2",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_beam_03",
+      "file": "parts/blue/body_beam_03.stl",
+      "sha256": "de28d5c076ced7ca37f52e0ac67379e19abaa1b7ca6dcc30f117ed637aa726a5",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_beam_04",
+      "file": "parts/blue/body_beam_04.stl",
+      "sha256": "23b7c9ed661a3db6c76e4791a6011bf42219dfca6c23b1872b9d375efd1d532d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_01_section_01",
+      "file": "parts/blue/body_rail_01_section_01.stl",
+      "sha256": "b085d180909465aced5b8c25c6cf5c568cbd89f2b767e8dfa5b40c905db74ad5",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_01_section_02",
+      "file": "parts/blue/body_rail_01_section_02.stl",
+      "sha256": "bd19f887bdc15823d510303c9d327e3f17a552a8ab830136b14100b1afd9d24e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_01_section_03",
+      "file": "parts/blue/body_rail_01_section_03.stl",
+      "sha256": "3a2ed65b3126c5be7ba57f320213eec8911b2480f292061c2099ff4f91d379e3",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_01_section_04",
+      "file": "parts/blue/body_rail_01_section_04.stl",
+      "sha256": "f88de9195a38bd77093f5fc44d4796a130155526e252eea607c9318a65c41c4d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_02_section_01",
+      "file": "parts/blue/body_rail_02_section_01.stl",
+      "sha256": "ecf1688eabbe08a25ef6ef49bd6c85ca18aa239eaa63064c9dd3d5782d52dc96",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_02_section_02",
+      "file": "parts/blue/body_rail_02_section_02.stl",
+      "sha256": "bfab0e33f5c250c835dbecdc98ee2ec75c5860a338faf3fed98a9a64c12cfa76",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_02_section_03",
+      "file": "parts/blue/body_rail_02_section_03.stl",
+      "sha256": "e7bab3fa8b610c95dbed3e33df3e9fa908de6196d5538ac9782728c0e5d4efc6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_02_section_04",
+      "file": "parts/blue/body_rail_02_section_04.stl",
+      "sha256": "8141fb0a93624fe875dbed94de8ad1adf3e2e96abe16049ed1027b1f391c3ecb",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_03_section_01",
+      "file": "parts/blue/body_rail_03_section_01.stl",
+      "sha256": "ecf1688eabbe08a25ef6ef49bd6c85ca18aa239eaa63064c9dd3d5782d52dc96",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_03_section_02",
+      "file": "parts/blue/body_rail_03_section_02.stl",
+      "sha256": "bfab0e33f5c250c835dbecdc98ee2ec75c5860a338faf3fed98a9a64c12cfa76",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_03_section_03",
+      "file": "parts/blue/body_rail_03_section_03.stl",
+      "sha256": "e7bab3fa8b610c95dbed3e33df3e9fa908de6196d5538ac9782728c0e5d4efc6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_03_section_04",
+      "file": "parts/blue/body_rail_03_section_04.stl",
+      "sha256": "0f9080a7b3daf3841c4d4a2c4c76413bc037a812199b7eed4d1a2e20d605ec2f",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_04_section_01",
+      "file": "parts/blue/body_rail_04_section_01.stl",
+      "sha256": "b085d180909465aced5b8c25c6cf5c568cbd89f2b767e8dfa5b40c905db74ad5",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_04_section_02",
+      "file": "parts/blue/body_rail_04_section_02.stl",
+      "sha256": "bd19f887bdc15823d510303c9d327e3f17a552a8ab830136b14100b1afd9d24e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_04_section_03",
+      "file": "parts/blue/body_rail_04_section_03.stl",
+      "sha256": "3a2ed65b3126c5be7ba57f320213eec8911b2480f292061c2099ff4f91d379e3",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "body_rail_04_section_04",
+      "file": "parts/blue/body_rail_04_section_04.stl",
+      "sha256": "dc5020bb2fb5e6f9415b6bdb85a33e3e0e7b486c23932e8ba7aa418d017b7cde",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_A_cream_outer",
+      "file": "parts/cream/head_A_cream_outer.stl",
+      "sha256": "9b10618e032b943a41fdd5ec6bfbc07b8cd5c2297290eeac88d75f2b6115c13e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_A_cream_inner",
+      "file": "parts/cream/head_A_cream_inner.stl",
+      "sha256": "7dc4cffea58ec3e5cdcbb6a97a3dd44c53bcaf9c7c2bfa20de2ce0bbd0756637",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_A_orange",
+      "file": "parts/orange/head_A_orange.stl",
+      "sha256": "dcdea886754fbe5d8208747bb815647a27ca65db2c56e45e99d5e372538e9d90",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_A_blue",
+      "file": "parts/blue/head_A_blue.stl",
+      "sha256": "e876f31e937bf396923bfb17964e8b597b648728b2983f18ea22306fafb6c42d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_B_cream_outer",
+      "file": "parts/cream/head_B_cream_outer.stl",
+      "sha256": "ba1de7a136ef90f3042649dc77aa3e68deb23b33c27e402cdd55a3c3cab2afec",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_B_cream_inner",
+      "file": "parts/cream/head_B_cream_inner.stl",
+      "sha256": "3e91c5bdf24e0bfb7aedd561f664e077a4c2003b62b8edde7842807cce1d603f",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_B_orange",
+      "file": "parts/orange/head_B_orange.stl",
+      "sha256": "0e1f0ea37348439577e4fe62237d4ec8869c9150a97d07e96e5c55b4743d54d7",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_B_blue",
+      "file": "parts/blue/head_B_blue.stl",
+      "sha256": "3e53acb08fc1c6c373cbd1d9f17ffcb4ab9662b2a46c347b64c95de5df3147a8",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "head_platform_snout",
+      "file": "parts/cream/head_platform_snout.stl",
+      "sha256": "6194ee8260c8d4db9667c575157b54babb55b2d170dc2f77bf611d145ddf043b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_1_orange_left",
+      "file": "parts/orange/slide_1_orange_left.stl",
+      "sha256": "6d37a006f7f2df56a0a417cc6e22c85665b99eccf8a45e7875d5379bd898c7ce",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_1_orange_right",
+      "file": "parts/orange/slide_1_orange_right.stl",
+      "sha256": "f9886b015fc5d191e5e70c5326d34550351bc944126d3f32df95fd37c4c3f490",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_1_peg",
+      "file": "parts/cream/slide_1_peg.stl",
+      "sha256": "ed9568d162abc61a6881f33c04b9facb3197640cf791c8c85a8e43ede7b70030",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_1_cream",
+      "file": "parts/cream/slide_1_cream.stl",
+      "sha256": "921a5b49d60c8ed06a0e8cbf0dba4aa343feb1624f2a532cf62e8568f7d0045c",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_2_orange_left",
+      "file": "parts/orange/slide_2_orange_left.stl",
+      "sha256": "d14a8381e67794882295be5aa4533d161c0a65f510721ae41d568c655d35d324",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_2_orange_right",
+      "file": "parts/orange/slide_2_orange_right.stl",
+      "sha256": "e34e1fb4e62b349376d3495ad0adf99ef40c6fb82669193cf7a8edc0c118aa09",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_2_peg",
+      "file": "parts/cream/slide_2_peg.stl",
+      "sha256": "3cb4136b4c1b0a04df0f9f2e07a1922c8bfe370389d45f0c65b2f6bd013bc8b4",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "slide_2_cream",
+      "file": "parts/cream/slide_2_cream.stl",
+      "sha256": "4b869e83661dbf0bb0664a6e29fa2dd645c9e5ee8573eb5dda15e06604f3ab8b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_01_back_half",
+      "file": "parts/cream/pier_01_back_half.stl",
+      "sha256": "94df3cf5721431d2474f5f7f19eef8b4139151a497856f8598de7545a9481af4",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_01_front_half",
+      "file": "parts/cream/pier_01_front_half.stl",
+      "sha256": "9b8d895873ea9a86ef74bb70351c97e4621ee0c0d17dc75112224c0a8bd5e3ff",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_01_back_inlay",
+      "file": "parts/orange/pier_01_back_inlay.stl",
+      "sha256": "ccf6adf8f662fcd948a426ab8bcd0f5e221d178bc1e7eacc63e81b0fdb875f8f",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_01_front_inlay",
+      "file": "parts/orange/pier_01_front_inlay.stl",
+      "sha256": "a85afa526423813c706c10a01f040a9cea753dd3783b1c5125fcd537bef169e4",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_02_back_half",
+      "file": "parts/cream/pier_02_back_half.stl",
+      "sha256": "611e80d66dd0fba6f6e6fdcc87f41893bbe8977bcca9f2f6338d8e76551f53a9",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_02_front_half",
+      "file": "parts/cream/pier_02_front_half.stl",
+      "sha256": "ae65436d6d0297d7c9ef5a1b914758c51bd8b79529a3a3118e18ccec878f2d74",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_02_back_inlay",
+      "file": "parts/blue/pier_02_back_inlay.stl",
+      "sha256": "691f748391141f18fd4e2dc40d4ba9200243a44f80efac7402851c1627ec9a77",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_02_front_inlay",
+      "file": "parts/blue/pier_02_front_inlay.stl",
+      "sha256": "2338741036d8f4cfbab3b2fa1f1c458389f9bbc0eca8c5181267e96ab4e6a9bd",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_03_back_half",
+      "file": "parts/cream/pier_03_back_half.stl",
+      "sha256": "44a1e3c920664fb90f2d6325150b99749ad5b5cc463beab1b061672a8c6e4d21",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_03_front_half",
+      "file": "parts/cream/pier_03_front_half.stl",
+      "sha256": "76a62d7595a2fb416159397d0c5de22c5e17f89125e670b0be5f2305315c9f59",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_03_back_inlay",
+      "file": "parts/blue/pier_03_back_inlay.stl",
+      "sha256": "a0943d0cda61b13c68979c345f1eb895750fe1d5e63cec161a76d4455df6c22e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_03_front_inlay",
+      "file": "parts/blue/pier_03_front_inlay.stl",
+      "sha256": "cf86db3b0a2d6f46797300ff257d853176a37b2efc2c7d591248c91bfa599a81",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_04_back_half",
+      "file": "parts/cream/pier_04_back_half.stl",
+      "sha256": "2186c347517a976bfbf8a48d607934a0aff71737679d5ff7b87621e0031d2048",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_04_front_half",
+      "file": "parts/cream/pier_04_front_half.stl",
+      "sha256": "06e4f356c5bd96ecf1c1cd578fa98f6bf54693f67b0c50dc276b2477fe0703a2",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_04_back_inlay",
+      "file": "parts/orange/pier_04_back_inlay.stl",
+      "sha256": "e3b94ed6710cb8383f6af168e2122ee871d11c5ce6bd5769cfaaea3940acf152",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_04_front_inlay",
+      "file": "parts/orange/pier_04_front_inlay.stl",
+      "sha256": "05d77851a83ac39bfbad270d614c7cd2fc776e339d9cad19d050d4ef40339688",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_05_back_half",
+      "file": "parts/cream/pier_05_back_half.stl",
+      "sha256": "842fb620883c78a768b613e8a587b096f56e58a632d6e16df3aa4a14d6734bda",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_05_front_half",
+      "file": "parts/cream/pier_05_front_half.stl",
+      "sha256": "55123bd27b1d508726da8ec629a2149d0c7f4998fbe95313e040d9f1b03e3ee0",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_05_back_inlay",
+      "file": "parts/blue/pier_05_back_inlay.stl",
+      "sha256": "6051c9b92e3cfa5ffefd6199e9e2a2d2e6630cad5e07b6cac0eb0cbeefe84037",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "pier_05_front_inlay",
+      "file": "parts/blue/pier_05_front_inlay.stl",
+      "sha256": "09d94ed8217e6037d2822ee121a00c3acca9c78cbeeec89cf9edf5991fa99d96",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_A_cream_outer",
+      "file": "parts/cream/tail_A_cream_outer.stl",
+      "sha256": "ea06ef034c3e844a8bd5210963aaaaef7339c6975f94be7d1e33046745bd6b0e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_A_cream_inner",
+      "file": "parts/cream/tail_A_cream_inner.stl",
+      "sha256": "d17219cd119d75f7e00f51790809bf863a7c896390bbe06d570df7f50e06401d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_A_orange",
+      "file": "parts/orange/tail_A_orange.stl",
+      "sha256": "5db7f11e1be3af07bf107d36797c8d473c94dc3b8f43d5eacb4b6d3efff3ee4a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_A_blue",
+      "file": "parts/blue/tail_A_blue.stl",
+      "sha256": "3dd305c64431ba67fc5a879bf99b4abecac9ff66a7f395a97ee2267a372aa828",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_A_cream_handrail",
+      "file": "parts/cream/tail_A_cream_handrail.stl",
+      "sha256": "eb86d760a4949252ae58973433571281e2378a24f486ed816b152fe356d5d4a8",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_B_cream_outer",
+      "file": "parts/cream/tail_B_cream_outer.stl",
+      "sha256": "f72997c7ae7d333af41091b486bcce46be8bae35337ea790cce8950bfa448fb0",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_B_cream_inner",
+      "file": "parts/cream/tail_B_cream_inner.stl",
+      "sha256": "c7a2415e4c4368851a6312fdeecf1a1c2846f6cf446e391bd5bd9b0287b988c6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_B_orange",
+      "file": "parts/orange/tail_B_orange.stl",
+      "sha256": "316eba6db688c07573a4e48a7ee99359136e64a6adecff7ebcdd77741721cee8",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_B_blue",
+      "file": "parts/blue/tail_B_blue.stl",
+      "sha256": "6c46ecdb34ebc2b7867fcd94b04ac793f2426d35726437f060c463d35308011e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_B_cream_handrail",
+      "file": "parts/cream/tail_B_cream_handrail.stl",
+      "sha256": "294482f27598faad6d5a4ff50641dec8760a5e4b367e8b953a8697ffbcae3420",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "tail_threshold_landing",
+      "file": "parts/cream/tail_threshold_landing.stl",
+      "sha256": "67c19815302c5a9f8e45c21ede7743a9a00189972f6a1858f36100de8dca747d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "ladder_blue_frame",
+      "file": "parts/blue/ladder_blue_frame.stl",
+      "sha256": "b79f1391288bc00454a20402429c874a940fd405be6377b1d3b6b9adac5f5f0a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "ladder_cream_tread_comb",
+      "file": "parts/cream/ladder_cream_tread_comb.stl",
+      "sha256": "bb8b932e3e15cdb055e7156e9cf2ef362371d4ba6f9d96918f1b27b256ccc58b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_join_key_01",
+      "file": "parts/cream/base_join_key_01.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_join_key_02",
+      "file": "parts/cream/base_join_key_02.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_left_tray",
+      "file": "parts/cream/base_left_tray.stl",
+      "sha256": "b9c7e20f1bd8d77994d39aca306b153ed0db1a28bace12e9cdeed9a2ed1acd2e",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_left_sand",
+      "file": "parts/sand/base_left_sand.stl",
+      "sha256": "7d58f479352e22e2ec5023bac4a06f10e3ed4cc972e822ea393efa68c7ca9c82",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_right_tray",
+      "file": "parts/cream/base_right_tray.stl",
+      "sha256": "5ff3c7adc8e5cc3147fd58d598baa37de20bffc6b8eb4ec81d755725a29783ac",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "base_right_sand",
+      "file": "parts/sand/base_right_sand.stl",
+      "sha256": "fc31d61568a782d20d5c6fbb5122eaead36034f8910d567661941101f90c1708",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_clearance_bar",
+      "file": "test-first/cream/test_clearance_bar.stl",
+      "sha256": "f3edefa578605991ed78ff873e3b446b60f17e776e1a053ce2d8969eb2ee594d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_hoop_02",
+      "file": "test-first/cream/test_hoop_02.stl",
+      "sha256": "846aae665949f9f282c8dda16b3bea56ecd4df1a890bff2c957d40346b1a73d3",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_pin_3mm",
+      "file": "test-first/cream/test_head_pin_3mm.stl",
+      "sha256": "d8b772b965c22e97947c7a85155a80fa14bf44f7bf18d5d2fe9666c678a19ffc",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_hoop_11",
+      "file": "test-first/blue/test_body_hoop_11.stl",
+      "sha256": "4e90c6f6af4e54e6173c38ef08de0c271e629849580cfb685a3437b0379a3772",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_rail_02_section_03",
+      "file": "test-first/blue/test_body_rail_02_section_03.stl",
+      "sha256": "e7bab3fa8b610c95dbed3e33df3e9fa908de6196d5538ac9782728c0e5d4efc6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_rail_03_section_03",
+      "file": "test-first/blue/test_body_rail_03_section_03.stl",
+      "sha256": "e7bab3fa8b610c95dbed3e33df3e9fa908de6196d5538ac9782728c0e5d4efc6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_seat_hoop_11",
+      "file": "test-first/blue/test_body_seat_hoop_11.stl",
+      "sha256": "7561e12a588b222cfe619a6b039607ace3fe3891488f3d9ede0948d8fcaba396",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_beam_joint_male",
+      "file": "test-first/blue/test_body_beam_joint_male.stl",
+      "sha256": "3a94d735f9c23e365afdb6e9f62287a37544475ad4c7a2c85392aa9ad52294d7",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_body_beam_joint_female",
+      "file": "test-first/blue/test_body_beam_joint_female.stl",
+      "sha256": "37cb8ca12e8d7e1826c1c237d04a7f756df059f7f44d50a92237b411bed6c780",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_A_shelf_slot",
+      "file": "test-first/cream/test_head_A_shelf_slot.stl",
+      "sha256": "1f9d5442471caacbf5c5038ada15da5b288f4d3372998a16d5c517c991706a8d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_platform_peg_A",
+      "file": "test-first/cream/test_head_platform_peg_A.stl",
+      "sha256": "5a08eb6c9c312ea31b8b23724c3013d4fa3d83c07b94a26a7ae9f87477fd8e0a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_A_foot_inner",
+      "file": "test-first/cream/test_head_A_foot_inner.stl",
+      "sha256": "010e366f30ca788c5a6656ed4113fb21db75b5d11c3643b6d5afe50e3b6795ee",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_A_foot_outer",
+      "file": "test-first/cream/test_head_A_foot_outer.stl",
+      "sha256": "0730a76a4090cab431d71f8a05eb463a0b52dc2c0d9029718ddd29ac3d7de442",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_tail_A_wall_inner",
+      "file": "test-first/cream/test_tail_A_wall_inner.stl",
+      "sha256": "d17219cd119d75f7e00f51790809bf863a7c896390bbe06d570df7f50e06401d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_tail_A_blue_insert",
+      "file": "test-first/blue/test_tail_A_blue_insert.stl",
+      "sha256": "3dd305c64431ba67fc5a879bf99b4abecac9ff66a7f395a97ee2267a372aa828",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_tail_A_handrail",
+      "file": "test-first/cream/test_tail_A_handrail.stl",
+      "sha256": "eb86d760a4949252ae58973433571281e2378a24f486ed816b152fe356d5d4a8",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_tail_threshold_landing",
+      "file": "test-first/cream/test_tail_threshold_landing.stl",
+      "sha256": "67c19815302c5a9f8e45c21ede7743a9a00189972f6a1858f36100de8dca747d",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_tail_rung18_lower",
+      "file": "test-first/blue/test_tail_rung18_lower.stl",
+      "sha256": "62a9635712c967bbdd203b11312e3c24110c627068de5d0bce493e220b26109f",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_ladder_lower_frame",
+      "file": "test-first/blue/test_ladder_lower_frame.stl",
+      "sha256": "c450fb4e728cd667f7f38a9e023369a3575f16490a566d79bf1430ecb091d631",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_ladder_two_tread_comb",
+      "file": "test-first/cream/test_ladder_two_tread_comb.stl",
+      "sha256": "88826632d3be2ac5a04685d8bba0ed86ac79d12768667633ddb0530d17920aa4",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_A_tray",
+      "file": "test-first/cream/test_head_A_tray.stl",
+      "sha256": "5c7574a0173ad559c29c4d9d8e10f9a439e7367c6b33963f29928148541b38b7",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_head_A_sand",
+      "file": "test-first/sand/test_head_A_sand.stl",
+      "sha256": "44d6f919b6611c1f501c9dc7ef11394b5f0c09e3721c272caffd216abf5a3cfd",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_base_join_left",
+      "file": "test-first/cream/test_base_join_left.stl",
+      "sha256": "ea0fa073e7378c1baf232b6fb889037cde422e362d2ed5e4215198cb7f8a21c3",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_base_join_right",
+      "file": "test-first/cream/test_base_join_right.stl",
+      "sha256": "ea235115d14b922a2dba8187aeacc8faa9299383bd79648ed4d1aed937ff3309",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_base_join_key",
+      "file": "test-first/cream/test_base_join_key.stl",
+      "sha256": "e9b8309d55327ada38785b187e31280b0711b79705301d62bd0568c8fb48bfbb",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_sand_register_tray",
+      "file": "test-first/cream/test_sand_register_tray.stl",
+      "sha256": "7e883e538c381db1746498fa230b9dd57575639606d88dfa78a14b79895faa05",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_sand_register_insert",
+      "file": "test-first/sand/test_sand_register_insert.stl",
+      "sha256": "bfbc0b1a87eb7663a4e9d0ebd449a07722fa60a69470103419e800dc3f594f56",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_slide_2_shell",
+      "file": "test-first/cream/test_slide_2_shell.stl",
+      "sha256": "4b869e83661dbf0bb0664a6e29fa2dd645c9e5ee8573eb5dda15e06604f3ab8b",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_slide_2_insert",
+      "file": "test-first/orange/test_slide_2_insert.stl",
+      "sha256": "d14a8381e67794882295be5aa4533d161c0a65f510721ae41d568c655d35d324",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_head_A",
+      "file": "test-first/cream/test_jig_head_A.stl",
+      "sha256": "f5dfa9206b4b567465fc774401ffad0955917136fd0792419277f73fc698e858",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_head_B",
+      "file": "test-first/cream/test_jig_head_B.stl",
+      "sha256": "37617fd174e914aecdb3f6278cb395ffade03b3be159d8bb9410175d720d8b68",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_pier_01",
+      "file": "test-first/cream/test_jig_pier_01.stl",
+      "sha256": "4e1f62197e38bb10d31e32db4f82528ceca3c176a2fe7b7bbb6cb277df5c36b9",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_pier_02",
+      "file": "test-first/cream/test_jig_pier_02.stl",
+      "sha256": "d7ec0bb1eecdc90f75755c99992b97e8e8f3754ff776097d12c310077c150675",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_pier_03",
+      "file": "test-first/cream/test_jig_pier_03.stl",
+      "sha256": "7e48745152ecefc448ded1662214f5546b40984a92f9a400443687e8d9ec123a",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_pier_04",
+      "file": "test-first/cream/test_jig_pier_04.stl",
+      "sha256": "497dc3a422dff538cce38adef2e09dcd79cb2443c110b0da8714375d837e32e4",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_pier_05",
+      "file": "test-first/cream/test_jig_pier_05.stl",
+      "sha256": "b740f1ae32b7a7c752b9e7e4092050485d01d6f100348a5aa6f9873513ce9dd2",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_tail_A",
+      "file": "test-first/cream/test_jig_tail_A.stl",
+      "sha256": "53d9695e41ad1bae1b0284fde6b6b11dfb3ba20a1047ca0baecf60a4d42f6db6",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    },
+    {
+      "name": "test_jig_tail_B",
+      "file": "test-first/cream/test_jig_tail_B.stl",
+      "sha256": "8b58812c849051ec02b1e654c5678c8e03a4f3716f1688a8c80220d9adb4e428",
+      "watertight": true,
+      "components": 1,
+      "transform_verified": true
+    }
+  ],
+  "physical_fit": "not tested"
+}

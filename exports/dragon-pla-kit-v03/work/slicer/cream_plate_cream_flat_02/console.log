@@ -1,0 +1,4 @@
+[2026-09-25 09:00:09.117061] [0x00000001fe037f80] [trace]   Initializing StaticPrintConfigs
+[2026-09-25 09:00:09.122722] [0x00000001fe037f80] [warning] cli mode, Current BambuStudio Version 02.08.02.61
+[2026-09-25 09:00:09.126199] [0x00000001fe037f80] [warning] no filament colors found in projects
+[2026-09-25 09:00:09.396473] [0x00000001fe037f80] [warning] tree support default to organic support

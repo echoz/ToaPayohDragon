@@ -1,0 +1,335 @@
+{
+  "purpose": "Private reference study for connection audit; all modeling paused pending Blender MCP. Supporting photographs are historical and must be reconciled with primary 2025 Commons set.",
+  "created_at": "2026-09-24T01:53:23.187894+00:00",
+  "public_redistribution_authorized": false,
+  "records": [
+    {
+      "reference_id": "D01-07",
+      "local_filename": "references/research-only/ck-2012-body-toward-head.jpg",
+      "asset_url": "https://farm9.staticflickr.com/8317/7976362647_c927e691a7_z.jpg",
+      "source_page_url": "https://www.ckphoto.net/blog/2012/09/enter-the-dragon",
+      "author_credit": "CK Photography / ckng",
+      "publication_date": "2012-09-11",
+      "capture_date": null,
+      "view_classification": [
+        "head-body-junction",
+        "slides",
+        "head-ladder",
+        "elevated"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.279565+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 185313,
+      "content_hash": "sha256:5d11dcfdbac251899b1edac8a37a9552fe97c356a5cd21b94a31acf7d2673231",
+      "pixel_dimensions": [
+        640,
+        424
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086571+00:00",
+      "observed_facts": [
+        "Both slides connect to the same raised head platform and descend toward the body side, on opposite sides of the body approach.",
+        "In this camera frame, left-to-right access order is slide, separate straight ladder, open-rib body approach, second slide.",
+        "Head panels flank the platform; body ribs remain open above.",
+        "At least two separate slab piers are visible below the head-approach body section."
+      ],
+      "limitations": [
+        "Exact slide splay and world-space coordinates are not measurable from this single oblique view.",
+        "Total pier count is not resolved; cropped/occluded piers cannot be reliably deduplicated."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Head platform, both slides, separate straight access ladder and body junction"
+    },
+    {
+      "reference_id": "D01-09",
+      "local_filename": "references/research-only/ck-2012-head-platform.jpg",
+      "asset_url": "https://farm9.staticflickr.com/8439/7976365413_9145e5d1c8_z.jpg",
+      "source_page_url": "https://www.ckphoto.net/blog/2012/09/enter-the-dragon",
+      "author_credit": "CK Photography / ckng",
+      "publication_date": "2012-09-11",
+      "capture_date": null,
+      "view_classification": [
+        "head-interior",
+        "platform",
+        "eye"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.279911+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 164564,
+      "content_hash": "sha256:4717dc14bd0630de58fafb9e1f233b05905aed15e2a09fa39ddb257a4b3fa98e",
+      "pixel_dimensions": [
+        640,
+        424
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086668+00:00",
+      "observed_facts": [
+        "Broad continuous floor spans the two upright head panels.",
+        "Both visible inner panel faces are blue with white borders and octagonal eye openings.",
+        "A low closing edge is visible at the far snout end of the platform."
+      ],
+      "limitations": [
+        "Exact panel thickness, parallelism and identity of both profiles remain unverified.",
+        "Far platform edge is visible, but image does not expose every connection."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Head platform and inner surfaces of paired panels"
+    },
+    {
+      "reference_id": "D01-12",
+      "local_filename": "references/research-only/ck-2012-tail-entrance.jpg",
+      "asset_url": "https://farm9.staticflickr.com/8037/7976369413_5b5c196eb9_z.jpg",
+      "source_page_url": "https://www.ckphoto.net/blog/2012/09/enter-the-dragon",
+      "author_credit": "CK Photography / ckng",
+      "publication_date": "2012-09-11",
+      "capture_date": null,
+      "view_classification": [
+        "tail-entry",
+        "body-detail"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.280042+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 132943,
+      "content_hash": "sha256:debf3cb1c2950a444193fab54a00dce7cf118240e46e3870265e0ec34e6671b8",
+      "pixel_dimensions": [
+        640,
+        424
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086670+00:00",
+      "observed_facts": [
+        "Tail ground-entry threshold leads directly into rising curved ribs between two slab sidewalls.",
+        "Curved rim rails and climbing ribs continue into the elevated colored body.",
+        "Outside face is orange patterned; inside face is blue."
+      ],
+      "limitations": [
+        "Upper connection partially occluded by nearer slab.",
+        "Threshold and rung dimensions are not measured."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Curved tail entrance, panel walls and continuous body transition"
+    },
+    {
+      "reference_id": "D02-09",
+      "local_filename": "references/research-only/keith-2020-platform-ladder-body.jpg",
+      "asset_url": "https://live.staticflickr.com/65535/50208253093_f07dd67102_h.jpg",
+      "source_page_url": "https://keithwee.com/2020/08/10/exploring-singapores-heritage-the-dragon-playground/",
+      "author_credit": "Keith Wee",
+      "publication_date": "2020-08-10",
+      "capture_date": null,
+      "view_classification": [
+        "elevated",
+        "head-ladder",
+        "tail-entry"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.607416+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 573152,
+      "content_hash": "sha256:074167c4e4547e3db52b344b55c5ea162cedbd83c5a12fa8dfb74c9bca1cdb81",
+      "pixel_dimensions": [
+        1600,
+        1067
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086672+00:00",
+      "observed_facts": [
+        "Head access ladder has rectangular diamond-plate treads and separate curved-over-top handrails.",
+        "Open ribbed body arrives at platform beside that ladder.",
+        "Returning tail-entry rib route is visible nearby on the other side of the intervening sand.",
+        "Rib gaps remain open; there is no solid continuous walking deck in the visible body."
+      ],
+      "limitations": [
+        "Continuous return route is inferred by combining this cropped overhead view with overall views, not fully visible in this image alone.",
+        "Metal paint appearance is from 2020 and must not override the 2025 primary set."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Elevated head access ladder, body approach and returning tail route"
+    },
+    {
+      "reference_id": "D02-10",
+      "local_filename": "references/research-only/keith-2020-body-underside.jpg",
+      "asset_url": "https://live.staticflickr.com/65535/50208252478_fa2b339289_h.jpg",
+      "source_page_url": "https://keithwee.com/2020/08/10/exploring-singapores-heritage-the-dragon-playground/",
+      "author_credit": "Keith Wee",
+      "publication_date": "2020-08-10",
+      "capture_date": null,
+      "view_classification": [
+        "underside",
+        "supports",
+        "body-detail"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.627975+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 470039,
+      "content_hash": "sha256:d82847d812a893aae8c921b3b37ffd80e7dd3e1a090aa62341202a3475ae5a31",
+      "pixel_dimensions": [
+        1600,
+        1067
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086673+00:00",
+      "observed_facts": [
+        "Four longitudinal underside rails are individually visible where they meet the top of the foreground slab support.",
+        "Curved ribs remain open at the top; rails follow the bend.",
+        "Support is a broad tiled slab with a shaped top supporting the trough."
+      ],
+      "limitations": [
+        "Four is the visible underside-rail count; unseen members cannot be excluded.",
+        "Total support count unresolved."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Curved rib underside with continuous longitudinal rails"
+    },
+    {
+      "reference_id": "D02-12",
+      "local_filename": "references/research-only/keith-2020-slide-platform-piers.jpg",
+      "asset_url": "https://live.staticflickr.com/65535/50208776576_1dc898ddf0_h.jpg",
+      "source_page_url": "https://keithwee.com/2020/08/10/exploring-singapores-heritage-the-dragon-playground/",
+      "author_credit": "Keith Wee",
+      "publication_date": "2020-08-10",
+      "capture_date": null,
+      "view_classification": [
+        "slide",
+        "platform",
+        "supports"
+      ],
+      "retrieved_at": "2026-09-24T01:53:54.693965+00:00",
+      "license_name": "Unknown; no reuse license established",
+      "license_url": null,
+      "usage_status": "Research-only, private study. Not authorized for public redistribution.",
+      "modifications": "None; source-linked JPEG rendition retained byte-for-byte; not claimed to be highest-resolution camera original.",
+      "inspection_status": "Downloaded JPEG pixels inspected via view_image",
+      "fetch_status": "success",
+      "fetch_attempts": [
+        {
+          "method": "sandboxed urllib",
+          "status": "failed",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "method": "network-enabled urllib",
+          "status": "success",
+          "error": null
+        }
+      ],
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "byte_count": 801136,
+      "content_hash": "sha256:bb47607353a6c82e2994d6b3715229f55c1308a2aa339e03dafc6d52beecc768",
+      "pixel_dimensions": [
+        1600,
+        1067
+      ],
+      "inspected_at": "2026-09-24T01:56:00.086675+00:00",
+      "observed_facts": [
+        "Raised-sidewall slide connects to head platform at its upper end.",
+        "Body approaches platform beside slide; its lower rails terminate at a visible metal mounting plate.",
+        "Two consecutive separate orange-faced slab piers are visible beneath the head-approach body, apart from the head panels.",
+        "Head platform has a concrete slab underside and blue-faced lower panel visible behind slide."
+      ],
+      "limitations": [
+        "Photograph does not determine full slide runout or exact ground contact.",
+        "Do not count these piers again when matching other photographs."
+      ],
+      "original_title": "Not exposed by source article; local filename is descriptive, not original title",
+      "source_linked_rendition": true,
+      "view_description": "Slide head connection, platform underside and body piers"
+    }
+  ],
+  "current_work_scope": "Reference acquisition and geometry connection audit only. All modeling paused until Blender MCP is available."
+}
