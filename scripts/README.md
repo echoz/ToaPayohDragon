@@ -92,7 +92,7 @@ when provisioning another machine; do not copy an unpinned checker into Dragon.
 
 Exit 0 means the configured documentation scope passed, 1 means findings, and 2
 means configuration, dependency or wrapper failure. The
-[schema 2 inventory](../.documentation-rules.json) checks three distinct
+[schema 2 inventory](../.documentation-rules.json) checks four distinct
 source-root READMEs plus the project overview. It has no directory-module
 inventory or exclusions: the current Python stages and geometry helpers share
 their owners' guides. This is not an automatic inventory of every file.

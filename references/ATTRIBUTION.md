@@ -1,10 +1,12 @@
 # Photograph attribution
 
-The complete **13-image 2025 Commons series (P01–P13)** is cached for reference. Each file’s own Commons page identifies [Chainwit.](https://commons.wikimedia.org/wiki/User:Chainwit.) as photographer, **22 March 2025** as the capture date, and [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) as the photograph license. These metadata were individually extracted and checked from the saved source pages on 24 September 2026 UTC (23 September in Los Angeles).
+This is a historical acquisition and attribution record. The photographs, saved source pages and collection tools remain in the original local authoring archive; they are not included in this public checkout. Use the source links below and the retained manifests.
 
-The original JPEGs in `images/` are unchanged. Full SHA-256 hashes, byte counts, retrieval timestamps, actual original-file URLs, source-page revision IDs, metadata and inspection states are in [manifest.json](manifest.json). Each image was fully decoded and its displayed dimensions and exact byte count checked against its source page. P02, P06, P12 and P13 display as 3024 × 4032 portraits; the other nine display as 4032 × 3024 landscapes. The portraits are stored as 4032 × 3024 JPEG pixels with EXIF orientation 6; no rotation or resampling was applied to the originals.
+The complete **13-image 2025 Commons series (P01–P13)** was cached for reference in that archive. Each file’s own Commons page identifies [Chainwit.](https://commons.wikimedia.org/wiki/User:Chainwit.) as photographer, **22 March 2025** as the capture date, and [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) as the photograph license. These metadata were individually extracted and checked from the saved source pages on 24 September 2026 UTC (23 September in Los Angeles).
 
-| ID | Full original title and source page | Local original | Image URL |
+The archived original JPEGs in `images/` were retained unchanged. Full SHA-256 hashes, byte counts, retrieval timestamps, actual original-file URLs, source-page revision IDs, metadata and inspection states are in [manifest.json](manifest.json). Each image was fully decoded and its displayed dimensions and exact byte count checked against its source page. P02, P06, P12 and P13 display as 3024 × 4032 portraits; the other nine display as 4032 × 3024 landscapes. The portraits are stored as 4032 × 3024 JPEG pixels with EXIF orientation 6; no rotation or resampling was applied to the originals.
+
+| ID | Full original title and source page | Archived filename | Image URL |
 |---|---|---|---|
 | P01 | [Original "Toa Payoh Dragon Playground", Singapore (2025) - img 01.jpg](https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_01.jpg) | `images/commons-2025-01-overall.jpg` | [Original JPEG](https://upload.wikimedia.org/wikipedia/commons/3/36/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_01.jpg) |
 | P02 | [Original "Toa Payoh Dragon Playground", Singapore (2025) - img 02.jpg](https://commons.wikimedia.org/wiki/File:Original_%22Toa_Payoh_Dragon_Playground%22,_Singapore_(2025)_-_img_02.jpg) | `images/commons-2025-02.jpg` | [Original JPEG](https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_%22Toa_Payoh_Dragon_Playground%22%2C_Singapore_%282025%29_-_img_02.jpg) |
@@ -24,12 +26,12 @@ Attribution for a comparison using this series: **Reference photographs: Chainwi
 
 Acquisition notes: the initial P08/P11 download attempts received HTTP 429; later paced single requests succeeded. The nine additional originals were acquired with five seconds between requests. No thumbnail or substitute was used. Download validation establishes file integrity; visual coverage and suitability are separately recorded in each reference’s inspection fields.
 
-Source-page HTML in `pages/` is a provenance snapshot. As stated in each page footer, Commons file-namespace structured data is CC0; unstructured page text is under Wikimedia’s linked Creative Commons Attribution-ShareAlike terms. The CC BY 4.0 license above specifically identifies the photographs.
+Archived source-page HTML in `pages/` was retained as a provenance snapshot. As stated in each page footer, Commons file-namespace structured data is CC0; unstructured page text is under Wikimedia’s linked Creative Commons Attribution-ShareAlike terms. The CC BY 4.0 license above specifically identifies the photographs.
 
-These credits concern the photographs. They do not select a license for new project code or geometry, imply photographer endorsement, or determine separate rights in the playground design. Supporting article and scan links remain in `HANDOFF.md`; no article photographs, scan assets or other-era Commons photographs were downloaded in this acquisition pass.
+These credits concern the photographs. They do not select a license for new project code or geometry, imply photographer endorsement, or determine separate rights in the playground design. Supporting article and scan links were recorded in the original local handoff; no article photographs, scan assets or other-era Commons photographs were downloaded in this acquisition pass.
 
-## Refreshing the catalogue
+## Accessing the sources
 
-Run `python scripts/fetch_references.py` using Python with Pillow installed. The fetcher discovers each original URL and metadata from its official Commons file page; successful cached files remain unchanged. `python scripts/fetch_references.py --offline` performs full image decoding, metadata and hash checks without network access. Use `--references P02 P03` to process selected IDs while retaining all other catalogue records.
+Open each photograph’s Commons source page above for its current metadata and original download. The retained [manifest](manifest.json) records the acquisition hashes and inspection state; [supporting-manifest.json](supporting-manifest.json) records additional research sources.
 
-The script preserves manually recorded observations and inspection states, retains additional records outside this 13-image series, reports partial failures, paces requests and honors HTTP 429 cooldowns without automatic retries. A changed cached hash is flagged for review rather than silently accepted or overwritten.
+The original archive used a local reference fetcher with decoding, metadata and hash checks, paced requests and manual inspection records. That historical collection workflow is not shipped or supported by this public checkout. Do not interpret the archived filenames as files available in a clone.
