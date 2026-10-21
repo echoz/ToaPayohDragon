@@ -87,14 +87,14 @@ configured authoring guides or deliverable inventory. `--format json` returns
 machine-readable findings. The wrapper resolves this workspace from its own path,
 so it also works when invoked by absolute path from another directory.
 
-[check_documentation.py](check_documentation.py) pins EngineeringRules 0.1.8 at
-`c535a2745b8b436a5a9d4d0598192aa106912fee`. It uses the existing checkout at
-`~/.local/share/engineering-rules/0.1.8` and its `.build/docs-venv/bin/python`,
+[check_documentation.py](check_documentation.py) pins EngineeringRules 0.1.9 at
+`f80213f14acf839b6d5ba9f131d4c113182e2592`. It uses the existing checkout at
+`~/.local/share/engineering-rules/0.1.9` and its `.build/docs-venv/bin/python`,
 verifies HEAD and the checker file against that revision, and runs the checker
 without installing or updating anything. Python 3.9+ and Git are needed for the
 wrapper; the checker requires its release-pinned Markdown parser dependencies.
 A missing environment or changed pin is an error, not a skipped pass. Follow the
-[release installation contract](https://github.com/echoz/EngineeringRules/blob/c535a2745b8b436a5a9d4d0598192aa106912fee/README.md)
+[release installation contract](https://github.com/echoz/EngineeringRules/blob/f80213f14acf839b6d5ba9f131d4c113182e2592/README.md)
 when provisioning another machine; do not copy an unpinned checker into Dragon.
 
 Exit 0 means the configured documentation scope passed, 1 means findings, and 2
@@ -114,6 +114,14 @@ reports describe the pre-Git workspace; retain them as historical evidence rathe
 than treating them as fresh review of later changes. A link check does not prove
 CAD correctness. No SwiftRules configuration is applicable to this toolchain.
 
+The public repository is the active source for published changes. The separate
+local authoring archive retains its own documentation wrapper and three-deliverable
+inventory for historical work. Both wrappers target the same 0.1.9 source release;
+the archive is checked separately and is not part of this repository's Git review.
+Version 0.1.9 leaves documentation checker behavior and schema 2 unchanged. Use
+the separately installed review skill from that release and reload the owning
+organization guidance; keep installation hashes with private review evidence.
+
 ### Manual naming review
 
 EngineeringRules 0.1.8 adds a Swift declaration inventory named
@@ -130,6 +138,12 @@ The independent reviewer records a concrete rename within scope,
 a legitimate retain reason, or an explicit deferral and its boundary for each
 candidate. A successful search does not complete that review, and a deferral does
 not create a permanent waiver or naming baseline.
+
+For identity and revision names, inspect their creation and comparison sites and
+any advancement or invalidation. Apply the owning organization guidance to their
+subject and lifetime. This adoption retains the wrapper's tool version, exact
+source revision and observed checkout revision as distinct facts; it does not
+change application identities or constitute a new naming audit of the CAD source.
 
 Current CAD naming judgments:
 
