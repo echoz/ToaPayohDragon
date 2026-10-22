@@ -87,14 +87,14 @@ configured authoring guides or deliverable inventory. `--format json` returns
 machine-readable findings. The wrapper resolves this workspace from its own path,
 so it also works when invoked by absolute path from another directory.
 
-[check_documentation.py](check_documentation.py) pins EngineeringRules 0.1.9 at
-`f80213f14acf839b6d5ba9f131d4c113182e2592`. It uses the existing checkout at
-`~/.local/share/engineering-rules/0.1.9` and its `.build/docs-venv/bin/python`,
+[check_documentation.py](check_documentation.py) pins EngineeringRules 0.1.10 at
+`756987b0d0e4bf8245abe05611f43aab8ffc700e`. It uses the existing checkout at
+`~/.local/share/engineering-rules/0.1.10` and its `.build/docs-venv/bin/python`,
 verifies HEAD and the checker file against that revision, and runs the checker
 without installing or updating anything. Python 3.9+ and Git are needed for the
 wrapper; the checker requires its release-pinned Markdown parser dependencies.
 A missing environment or changed pin is an error, not a skipped pass. Follow the
-[release installation contract](https://github.com/echoz/EngineeringRules/blob/f80213f14acf839b6d5ba9f131d4c113182e2592/README.md)
+[release installation contract](https://github.com/echoz/EngineeringRules/blob/756987b0d0e4bf8245abe05611f43aab8ffc700e/README.md)
 when provisioning another machine; do not copy an unpinned checker into Dragon.
 
 Exit 0 means the configured documentation scope passed, 1 means findings, and 2
@@ -116,11 +116,16 @@ CAD correctness. No SwiftRules configuration is applicable to this toolchain.
 
 The public repository is the active source for published changes. The separate
 local authoring archive retains its own documentation wrapper and three-deliverable
-inventory for historical work. Both wrappers target the same 0.1.9 source release;
+inventory for historical work. Both wrappers target the same 0.1.10 source release;
 the archive is checked separately and is not part of this repository's Git review.
-Version 0.1.9 leaves documentation checker behavior and schema 2 unchanged. Use
-the separately installed review skill from that release and reload the owning
-organization guidance; keep installation hashes with private review evidence.
+Version 0.1.10 leaves the documentation checker, schema 2 and review skill unchanged.
+The separately installed 0.1.9 review skill matches the 0.1.10 payload; keep its
+verified installation hashes with private review evidence and reload the owning
+engineering and organization guidance.
+
+The release's SwiftPM compiler-context changes do not apply to this Python/CAD
+toolchain. No Swift tool version, compiler exporter or witness context is enrolled.
+Run the existing documentation and publication gates for this adoption.
 
 ### Manual naming review
 

@@ -48,6 +48,6 @@ The retained `exports/dragon-pla-kit/work/source-v06/` directory is an input to 
 
 ## Verification and publication
 
-Run `python3 scripts/check_documentation.py` and `python3 scripts/check_publication.py`. The documentation gate pins EngineeringRules 0.1.9 at `f80213f14acf839b6d5ba9f131d4c113182e2592`; see the toolchain guide for its separate installation requirements. The publication check verifies local links, Python syntax, kit checksums and website boundaries without generating CAD.
+Run `python3 scripts/check_documentation.py` and `python3 scripts/check_publication.py`. The documentation gate pins EngineeringRules 0.1.10 at `756987b0d0e4bf8245abe05611f43aab8ffc700e`; see the toolchain guide for its separate installation requirements. The publication check verifies local links, Python syntax, kit checksums and website boundaries without generating CAD.
 
 GitHub Pages publishes only `site/` after changes land on `main`. Pull requests receive the publication check and a separate engineering review. CAD and browser checks establish different evidence; neither proves a successful physical print.
